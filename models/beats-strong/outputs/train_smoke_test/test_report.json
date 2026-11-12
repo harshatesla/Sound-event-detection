@@ -1,0 +1,38 @@
+{
+  "run_name": "smoke_test",
+  "train_mode": "frozen_bigru",
+  "pretrained": "strong",
+  "trainable_params_M": 2.766,
+  "total_params_M": 93.086,
+  "elapsed_sec": 256.74,
+  "peak_vram_mb": 828.88,
+  "best_checkpoint": "E:\\workspace\\audio_team\\sed\\models\\beats-strong\\outputs\\train_smoke_test\\checkpoints\\best-epoch=00-val/psds1=0.0000.ckpt",
+  "test_results": [
+    {
+      "test/psds1": 0.0,
+      "test/psds1_macro": 0.11682914942502975,
+      "test/pauroc": 0.2560873031616211
+    }
+  ],
+  "detailed_test_report": {
+    "test/psds1": 0.0,
+    "test/psds1_macro": 0.11682914878005281,
+    "test/pauroc": 0.2560873137240413,
+    "per_class_psds1": {
+      "bell_ringing": 0.0,
+      "cutlery_dishes": 0.0,
+      "door_open_close": 0.0,
+      "footsteps": 0.025726344547380955,
+      "keyboard_typing": 0.9153546639580159,
+      "keychain": 0.0,
+      "light_switch": 0.0,
+      "microwave": 0.0,
+      "phone_ringing": 0.2740815981039445,
+      "running_water": 0.42044547631139806,
+      "toilet_flushing": 0.0,
+      "vacuum_cleaner": 0.0,
+      "wardrobe_drawer_open_close": 0.0,
+      "window_open_close": 0.0
+    }
+  }
+}

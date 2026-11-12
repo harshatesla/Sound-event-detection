@@ -1,0 +1,4783 @@
+event_label,onset,offset,filename
+Background noise,11.92,12.72,000020.wav
+Background noise,12.96,13.24,000020.wav
+Background noise,19.96,30.0,000020.wav
+Generic impact sounds,4.4,4.6,000020.wav
+"Walk, footsteps",7.56,7.8,000020.wav
+"Walk, footsteps",8.16,8.4,000020.wav
+"Walk, footsteps",8.72,9.0,000020.wav
+"Walk, footsteps",9.36,9.64,000020.wav
+"Walk, footsteps",28.56,28.76,000020.wav
+Wind noise (microphone),14.8,15.2,000020.wav
+Wind noise (microphone),27.96,28.48,000020.wav
+Background noise,3.64,3.96,000021.wav
+Background noise,9.28,9.64,000021.wav
+Background noise,20.0,24.08,000021.wav
+Generic impact sounds,3.68,3.88,000021.wav
+Generic impact sounds,19.0,19.32,000021.wav
+"Walk, footsteps",1.4,1.6,000021.wav
+Wind noise (microphone),6.04,6.84,000021.wav
+Wind noise (microphone),12.96,13.72,000021.wav
+Wind noise (microphone),15.92,16.44,000021.wav
+Background noise,0.24,25.16,000022.wav
+Mechanisms,0.56,7.16,000023.wav
+Mechanisms,10.0,34.48,000023.wav
+"Water tap, faucet",0.8,7.4,000023.wav
+"Water tap, faucet",31.44,33.28,000023.wav
+Mechanisms,0.28,25.24,000024.wav
+Toilet flush,10.0,12.48,000024.wav
+Toilet flush,14.32,18.2,000024.wav
+Toilet flush,20.56,25.24,000024.wav
+"Water tap, faucet",8.32,9.76,000024.wav
+Background noise,0.28,9.88,000025.wav
+Computer keyboard,0.56,1.64,000025.wav
+Computer keyboard,2.2,2.96,000025.wav
+Computer keyboard,3.44,5.04,000025.wav
+Computer keyboard,5.48,6.12,000025.wav
+Computer keyboard,6.44,8.32,000025.wav
+Computer keyboard,9.24,9.8,000025.wav
+Background noise,0.2,9.96,000026.wav
+Drawer open or close,4.52,4.8,000026.wav
+Drawer open or close,6.44,6.8,000026.wav
+Drawer open or close,8.16,8.72,000026.wav
+Generic impact sounds,28.88,29.24,000027.wav
+Mechanisms,20.0,31.8,000027.wav
+Microwave oven,18.72,18.76,000027.wav
+Microwave oven,20.16,21.08,000027.wav
+Microwave oven,21.12,21.2,000027.wav
+Microwave oven,21.28,21.36,000027.wav
+Microwave oven,21.44,23.4,000027.wav
+Microwave oven,24.68,28.64,000027.wav
+"Water tap, faucet",3.08,9.92,000027.wav
+Wind noise (microphone),10.24,10.6,000027.wav
+Background noise,2.48,2.76,000028.wav
+Background noise,3.08,7.68,000028.wav
+Background noise,10.0,16.8,000028.wav
+Mechanisms,0.16,15.4,000029.wav
+Toilet flush,3.4,9.92,000029.wav
+"Water tap, faucet",10.04,10.76,000029.wav
+Background noise,0.0,17.56,000030.wav
+Background noise,0.12,23.32,000031.wav
+"Crumpling, crinkling",8.88,9.56,000031.wav
+Generic impact sounds,17.52,17.76,000031.wav
+Background noise,0.0,16.12,000032.wav
+Background noise,8.08,9.2,000033.wav
+Background noise,10.0,13.88,000033.wav
+Background noise,17.72,19.32,000033.wav
+Mechanisms,0.0,5.88,000034.wav
+Mechanisms,10.0,18.68,000034.wav
+Background noise,0.0,16.6,000035.wav
+Generic impact sounds,5.32,5.56,000035.wav
+Generic impact sounds,5.84,6.2,000035.wav
+Background noise,0.24,1.32,000036.wav
+Background noise,3.0,18.12,000036.wav
+Generic impact sounds,4.84,5.08,000036.wav
+Generic impact sounds,5.36,6.28,000037.wav
+Generic impact sounds,6.56,6.8,000037.wav
+Generic impact sounds,7.32,7.88,000037.wav
+Generic impact sounds,8.36,8.6,000037.wav
+Generic impact sounds,9.2,9.68,000037.wav
+Mechanisms,0.0,10.0,000037.wav
+Mechanisms,20.0,24.88,000037.wav
+Mechanisms,13.08,15.16,000038.wav
+Mechanisms,15.88,17.72,000038.wav
+Mechanisms,2.08,20.0,000040.wav
+"Water tap, faucet",20.0,24.64,000040.wav
+Background noise,14.16,18.8,000041.wav
+Background noise,20.04,20.32,000041.wav
+Background noise,1.0,10.0,000042.wav
+Mechanisms,20.0,30.0,000042.wav
+"Water tap, faucet",20.0,21.6,000042.wav
+Background noise,20.0,28.84,000043.wav
+Generic impact sounds,20.2,20.44,000043.wav
+Generic impact sounds,22.2,24.2,000043.wav
+Generic impact sounds,24.88,25.52,000043.wav
+Mechanisms,2.32,5.68,000046.wav
+Mechanisms,6.72,7.24,000046.wav
+Mechanisms,7.28,7.52,000046.wav
+"Water tap, faucet",20.0,22.8,000046.wav
+Computer keyboard,22.92,23.24,000168.wav
+Computer keyboard,23.72,24.24,000168.wav
+Generic impact sounds,2.36,2.6,000168.wav
+Generic impact sounds,9.56,9.88,000168.wav
+Mechanisms,0.16,7.72,000168.wav
+Mechanisms,20.28,24.8,000168.wav
+Background noise,20.4,20.88,000169.wav
+Background noise,21.24,21.44,000169.wav
+Background noise,21.72,22.32,000169.wav
+Generic impact sounds,3.24,4.24,000169.wav
+Mechanisms,0.12,20.0,000169.wav
+Pour,17.6,19.04,000169.wav
+"Water tap, faucet",6.56,12.12,000169.wav
+Generic impact sounds,9.4,9.6,000170.wav
+Generic impact sounds,13.88,14.08,000170.wav
+Mechanisms,0.0,10.0,000170.wav
+Toilet flush,0.36,8.92,000170.wav
+Background noise,0.36,9.4,000171.wav
+Background noise,10.0,20.0,000171.wav
+Computer keyboard,17.8,17.92,000171.wav
+Computer keyboard,19.48,19.52,000171.wav
+Background noise,20.0,27.72,000172.wav
+Background noise,7.72,8.0,000173.wav
+Background noise,10.0,23.16,000173.wav
+Generic impact sounds,1.8,2.12,000173.wav
+Generic impact sounds,5.36,5.52,000173.wav
+Generic impact sounds,6.24,6.48,000173.wav
+Generic impact sounds,8.12,8.36,000173.wav
+Generic impact sounds,9.44,9.64,000173.wav
+Generic impact sounds,10.32,13.44,000173.wav
+Generic impact sounds,16.12,16.24,000173.wav
+Generic impact sounds,19.56,19.92,000173.wav
+Mechanisms,0.0,19.6,000174.wav
+Mechanisms,19.92,23.08,000174.wav
+Sink (filling or washing),10.08,18.96,000174.wav
+Surface contact,6.76,7.16,000174.wav
+Surface contact,21.52,22.0,000174.wav
+"Water tap, faucet",10.08,18.4,000174.wav
+"Water tap, faucet",18.6,18.96,000174.wav
+Generic impact sounds,0.36,0.96,000175.wav
+Generic impact sounds,1.6,1.84,000175.wav
+Generic impact sounds,2.12,2.52,000175.wav
+Generic impact sounds,6.12,6.32,000175.wav
+Generic impact sounds,6.88,7.36,000175.wav
+Generic impact sounds,9.56,9.92,000175.wav
+Generic impact sounds,12.76,13.04,000175.wav
+Generic impact sounds,20.92,21.12,000175.wav
+Mechanisms,10.0,24.36,000175.wav
+Wind noise (microphone),3.36,4.48,000175.wav
+Generic impact sounds,12.0,12.92,000228.wav
+Mechanisms,0.4,0.72,000228.wav
+Mechanisms,2.24,9.96,000228.wav
+Mechanisms,10.32,10.72,000228.wav
+Mechanisms,11.52,12.08,000228.wav
+Mechanisms,1.12,21.04,000229.wav
+Toilet flush,3.4,6.92,000229.wav
+"Water tap, faucet",10.64,17.76,000229.wav
+Mechanisms,0.0,15.6,000230.wav
+Generic impact sounds,4.0,4.6,000231.wav
+Generic impact sounds,10.44,10.72,000231.wav
+Generic impact sounds,11.04,11.56,000231.wav
+Mechanisms,0.0,23.48,000231.wav
+Generic impact sounds,7.76,8.0,000232.wav
+Mechanisms,3.4,9.96,000232.wav
+"Water tap, faucet",10.0,12.56,000232.wav
+Generic impact sounds,10.08,10.36,000233.wav
+Mechanisms,1.16,18.72,000233.wav
+Mechanisms,2.12,2.56,000235.wav
+Mechanisms,2.76,3.4,000235.wav
+Mechanisms,4.32,4.88,000235.wav
+Mechanisms,10.0,18.6,000235.wav
+"Crumpling, crinkling",14.2,14.72,000272.wav
+"Crumpling, crinkling",15.76,18.2,000272.wav
+Generic impact sounds,0.56,0.88,000272.wav
+Generic impact sounds,4.2,4.44,000272.wav
+Generic impact sounds,5.4,5.8,000272.wav
+Generic impact sounds,6.44,7.52,000272.wav
+Generic impact sounds,21.04,21.28,000272.wav
+Generic impact sounds,22.0,22.36,000272.wav
+Mechanisms,0.32,20.0,000272.wav
+Microwave oven,26.48,29.52,000272.wav
+Generic impact sounds,15.36,16.08,000273.wav
+Generic impact sounds,18.76,18.96,000273.wav
+Generic impact sounds,19.4,19.72,000273.wav
+Mechanisms,10.0,19.72,000273.wav
+Sink (filling or washing),11.48,14.88,000273.wav
+"Water tap, faucet",10.0,15.04,000273.wav
+Generic impact sounds,21.48,22.0,000274.wav
+Generic impact sounds,22.08,22.16,000274.wav
+Generic impact sounds,22.6,22.96,000274.wav
+Generic impact sounds,24.12,24.32,000274.wav
+Generic impact sounds,24.76,25.8,000274.wav
+Mechanisms,0.24,10.0,000274.wav
+Mechanisms,17.28,26.84,000274.wav
+Surface contact,21.0,21.2,000274.wav
+Surface contact,23.64,23.88,000274.wav
+Vacuum cleaner,10.0,17.12,000274.wav
+Generic impact sounds,8.28,8.52,000275.wav
+Generic impact sounds,10.44,11.56,000275.wav
+Generic impact sounds,11.92,12.36,000275.wav
+Generic impact sounds,13.4,14.16,000275.wav
+Generic impact sounds,14.64,15.08,000275.wav
+Generic impact sounds,15.76,16.16,000275.wav
+Mechanisms,0.24,34.8,000275.wav
+Generic impact sounds,7.24,7.56,000276.wav
+Generic impact sounds,7.84,8.08,000276.wav
+Generic impact sounds,9.12,9.68,000276.wav
+Generic impact sounds,11.76,11.96,000276.wav
+Generic impact sounds,15.24,15.52,000276.wav
+Mechanisms,0.32,20.0,000276.wav
+Surface contact,15.84,16.12,000276.wav
+"Walk, footsteps",3.32,3.56,000276.wav
+"Walk, footsteps",3.92,4.2,000276.wav
+"Walk, footsteps",4.48,4.76,000276.wav
+"Walk, footsteps",5.04,5.32,000276.wav
+"Walk, footsteps",5.64,5.92,000276.wav
+Background noise,0.32,2.52,000277.wav
+Background noise,10.0,11.24,000277.wav
+Background noise,13.72,13.92,000277.wav
+Background noise,14.24,14.56,000277.wav
+Background noise,15.32,16.04,000277.wav
+Background noise,16.24,18.08,000277.wav
+Background noise,18.36,18.96,000277.wav
+Background noise,19.0,19.04,000277.wav
+Background noise,19.28,19.52,000277.wav
+Generic impact sounds,0.8,1.28,000277.wav
+Generic impact sounds,4.16,4.44,000277.wav
+Generic impact sounds,5.64,5.84,000277.wav
+Generic impact sounds,9.96,11.52,000277.wav
+Generic impact sounds,15.84,16.44,000277.wav
+Generic impact sounds,17.44,20.0,000277.wav
+Mechanisms,20.0,30.0,000277.wav
+Computer keyboard,9.12,9.84,000278.wav
+Generic impact sounds,12.32,12.96,000278.wav
+Generic impact sounds,15.08,15.28,000278.wav
+Generic impact sounds,19.68,20.0,000278.wav
+Mechanisms,0.24,25.08,000278.wav
+Mechanisms,25.48,30.0,000278.wav
+Mechanisms,0.4,9.8,000279.wav
+Mechanisms,10.0,20.0,000279.wav
+Mechanisms,23.92,25.12,000279.wav
+Toothbrush,14.88,17.8,000279.wav
+Toothbrush,18.2,19.84,000279.wav
+Background noise,20.96,29.2,000310.wav
+Generic impact sounds,7.88,8.12,000310.wav
+Generic impact sounds,14.32,15.2,000310.wav
+Generic impact sounds,21.16,21.36,000310.wav
+Mechanisms,0.0,14.12,000310.wav
+"Walk, footsteps",23.72,24.12,000310.wav
+"Walk, footsteps",24.44,24.8,000310.wav
+"Walk, footsteps",25.08,27.36,000310.wav
+"Walk, footsteps",27.6,28.04,000310.wav
+"Walk, footsteps",28.24,29.72,000310.wav
+Zipper (clothing),17.24,17.48,000310.wav
+Generic impact sounds,9.44,9.72,000311.wav
+Generic impact sounds,24.48,24.68,000311.wav
+Generic impact sounds,25.2,25.68,000311.wav
+Mechanisms,0.0,25.88,000311.wav
+Toilet flush,0.88,8.04,000311.wav
+"Water tap, faucet",13.84,19.44,000311.wav
+"Dishes, pots, and pans",20.4,20.88,000312.wav
+Generic impact sounds,23.44,24.4,000312.wav
+Generic impact sounds,24.8,25.16,000312.wav
+Mechanisms,0.0,30.0,000312.wav
+Sink (filling or washing),14.08,19.08,000312.wav
+Sink (filling or washing),28.92,29.4,000312.wav
+"Water tap, faucet",28.96,29.44,000312.wav
+"Beep, bleep",8.24,8.52,000313.wav
+"Blender, food processor",10.36,15.2,000313.wav
+"Blender, food processor",15.76,18.2,000313.wav
+Generic impact sounds,6.04,6.76,000313.wav
+Mechanisms,0.0,11.08,000313.wav
+Mechanisms,12.64,13.0,000313.wav
+Mechanisms,13.04,13.24,000313.wav
+Mechanisms,15.16,21.4,000313.wav
+Mechanisms,21.6,22.92,000313.wav
+Mechanisms,27.64,29.8,000313.wav
+Mechanisms,29.88,35.04,000313.wav
+Computer keyboard,30.04,30.96,000314.wav
+Generic impact sounds,2.04,2.32,000314.wav
+Generic impact sounds,5.52,6.2,000314.wav
+Generic impact sounds,8.04,8.6,000314.wav
+Mechanisms,0.16,1.56,000314.wav
+Mechanisms,1.84,10.12,000314.wav
+Mechanisms,15.52,19.56,000314.wav
+Mechanisms,20.0,30.0,000314.wav
+Mechanisms,0.0,11.84,000315.wav
+Mechanisms,11.88,12.24,000315.wav
+Mechanisms,12.8,20.0,000315.wav
+Drawer open or close,25.44,26.12,000316.wav
+Drawer open or close,28.72,29.24,000316.wav
+Drawer open or close,29.6,29.88,000316.wav
+Drill,34.12,34.44,000316.wav
+Drill,34.72,35.92,000316.wav
+Generic impact sounds,25.0,25.2,000316.wav
+Generic impact sounds,27.08,27.44,000316.wav
+Mechanisms,25.36,25.68,000316.wav
+Mechanisms,30.0,35.92,000316.wav
+"Walk, footsteps",0.68,1.08,000316.wav
+"Walk, footsteps",1.44,1.76,000316.wav
+"Walk, footsteps",2.0,2.24,000316.wav
+"Walk, footsteps",4.0,4.36,000316.wav
+"Walk, footsteps",4.6,5.0,000316.wav
+"Walk, footsteps",5.28,5.72,000316.wav
+"Walk, footsteps",5.92,6.4,000316.wav
+"Walk, footsteps",6.6,7.68,000316.wav
+"Walk, footsteps",8.0,8.36,000316.wav
+"Walk, footsteps",8.64,9.04,000316.wav
+"Walk, footsteps",9.36,9.68,000316.wav
+"Walk, footsteps",10.0,10.24,000316.wav
+"Walk, footsteps",21.0,21.24,000316.wav
+"Walk, footsteps",21.72,21.96,000316.wav
+"Walk, footsteps",22.36,22.68,000316.wav
+"Walk, footsteps",23.08,23.28,000316.wav
+Mechanisms,0.0,20.0,000317.wav
+Mechanisms,0.2,27.28,000326.wav
+Background noise,11.16,12.24,000327.wav
+Background noise,12.32,12.36,000327.wav
+Background noise,12.52,19.96,000327.wav
+Generic impact sounds,10.0,13.2,000327.wav
+Mechanisms,0.8,2.56,000327.wav
+Mechanisms,0.12,10.0,000328.wav
+Mechanisms,0.36,0.64,000329.wav
+Mechanisms,1.04,1.76,000329.wav
+Mechanisms,1.96,2.68,000329.wav
+Mechanisms,3.2,3.4,000329.wav
+Mechanisms,10.0,20.0,000329.wav
+"Electric shaver, electric razor",0.8,9.92,000330.wav
+Toilet flush,15.4,20.0,000330.wav
+"Water tap, faucet",20.0,23.4,000330.wav
+"Water tap, faucet",1.84,9.92,000332.wav
+"Water tap, faucet",20.0,23.12,000332.wav
+Background noise,16.0,16.2,000333.wav
+Background noise,16.84,17.6,000333.wav
+Background noise,17.88,19.48,000333.wav
+Background noise,20.0,21.76,000333.wav
+Generic impact sounds,19.04,19.36,000333.wav
+Mechanisms,0.16,9.84,000333.wav
+Mechanisms,0.12,13.28,000334.wav
+Mechanisms,13.52,20.0,000334.wav
+Music,10.0,11.08,000335.wav
+Music,11.24,11.8,000335.wav
+Music,12.44,15.04,000335.wav
+Music,16.24,18.64,000335.wav
+Music,19.36,21.24,000335.wav
+"Beep, bleep",13.96,14.6,000336.wav
+Generic impact sounds,12.72,12.92,000336.wav
+Generic impact sounds,13.24,13.64,000336.wav
+Mechanisms,0.0,12.76,000336.wav
+Mechanisms,19.08,27.6,000336.wav
+Microwave oven,13.88,20.0,000336.wav
+Microwave oven,21.32,23.0,000336.wav
+Surface contact,3.44,3.72,000336.wav
+Breathing,22.92,23.44,000337.wav
+Cough,21.84,22.64,000337.wav
+Generic impact sounds,20.52,21.04,000337.wav
+Mechanisms,2.8,7.04,000337.wav
+Mechanisms,10.0,24.92,000337.wav
+"Walk, footsteps",2.76,3.08,000337.wav
+"Walk, footsteps",3.36,3.68,000337.wav
+"Walk, footsteps",3.92,4.28,000337.wav
+"Walk, footsteps",4.6,5.0,000337.wav
+"Walk, footsteps",5.24,6.08,000337.wav
+"Water tap, faucet",7.24,9.92,000337.wav
+"Water tap, faucet",10.16,12.16,000337.wav
+"Water tap, faucet",12.36,12.6,000337.wav
+Alarm,8.08,9.92,000338.wav
+Background noise,0.12,7.96,000338.wav
+Background noise,10.0,23.16,000338.wav
+Background noise,29.24,30.0,000338.wav
+Generic impact sounds,18.44,18.64,000338.wav
+Generic impact sounds,19.36,19.64,000338.wav
+Generic impact sounds,22.8,23.0,000338.wav
+Generic impact sounds,26.84,27.04,000338.wav
+Generic impact sounds,28.92,29.4,000338.wav
+Mechanisms,8.04,9.96,000338.wav
+Computer keyboard,1.84,2.92,000339.wav
+Computer keyboard,3.28,3.72,000339.wav
+Computer keyboard,4.08,6.24,000339.wav
+Computer keyboard,6.68,7.04,000339.wav
+Computer keyboard,14.0,15.2,000339.wav
+Computer keyboard,15.56,15.92,000339.wav
+Computer keyboard,16.12,16.44,000339.wav
+Computer keyboard,17.84,18.4,000339.wav
+Computer keyboard,18.68,19.28,000339.wav
+Mechanisms,0.24,20.0,000339.wav
+Mechanisms,20.36,23.68,000339.wav
+Mechanisms,24.4,25.96,000339.wav
+Music,11.8,12.72,000339.wav
+Music,13.16,13.6,000339.wav
+Background noise,0.0,10.0,000340.wav
+Drawer open or close,4.56,5.4,000340.wav
+"Electric shaver, electric razor",12.84,18.48,000340.wav
+Generic impact sounds,10.2,10.44,000340.wav
+Generic impact sounds,24.84,25.56,000340.wav
+Generic impact sounds,28.24,28.8,000340.wav
+Mechanisms,28.92,30.0,000340.wav
+Surface contact,25.88,26.4,000340.wav
+Surface contact,29.4,29.6,000340.wav
+"Water tap, faucet",21.52,23.56,000340.wav
+Background noise,2.2,2.44,000341.wav
+Computer keyboard,11.68,14.76,000341.wav
+Computer keyboard,15.28,15.84,000341.wav
+Computer keyboard,18.4,19.44,000341.wav
+Cough,1.0,1.48,000341.wav
+Mechanisms,8.12,9.36,000341.wav
+Mechanisms,10.0,29.08,000341.wav
+Surface contact,10.04,10.92,000341.wav
+Background noise,0.4,1.08,000342.wav
+Background noise,30.0,31.84,000342.wav
+Generic impact sounds,28.8,29.48,000342.wav
+Mechanisms,6.92,30.0,000342.wav
+Surface contact,28.24,28.52,000342.wav
+Toilet flush,3.36,8.08,000342.wav
+"Water tap, faucet",15.84,19.96,000342.wav
+Sneeze,16.76,17.32,000343.wav
+Microwave oven,10.0,19.04,000344.wav
+"Water tap, faucet",2.44,3.04,000344.wav
+Background noise,0.12,1.96,000345.wav
+Vacuum cleaner,2.04,10.0,000345.wav
+Vacuum cleaner,30.0,35.68,000345.wav
+Mechanisms,0.12,9.96,000383.wav
+Generic impact sounds,15.24,15.48,000384.wav
+Generic impact sounds,16.24,16.72,000384.wav
+Generic impact sounds,16.84,17.0,000384.wav
+Generic impact sounds,17.32,17.68,000384.wav
+Generic impact sounds,18.88,19.08,000384.wav
+Generic impact sounds,19.48,20.32,000384.wav
+Mechanisms,0.16,10.0,000384.wav
+Mechanisms,20.0,27.24,000384.wav
+Background noise,20.0,23.24,000385.wav
+Computer keyboard,1.04,1.64,000385.wav
+Computer keyboard,1.84,2.24,000385.wav
+Computer keyboard,2.48,3.96,000385.wav
+Computer keyboard,4.04,4.6,000385.wav
+Computer keyboard,5.12,5.64,000385.wav
+Computer keyboard,7.92,8.48,000385.wav
+Computer keyboard,8.76,9.48,000385.wav
+Mechanisms,0.0,19.8,000385.wav
+Mechanisms,0.0,23.32,000386.wav
+Generic impact sounds,2.16,2.36,000387.wav
+Generic impact sounds,8.24,8.6,000387.wav
+Mechanisms,0.0,25.92,000387.wav
+Sink (filling or washing),23.92,25.0,000387.wav
+Toilet flush,15.8,19.68,000387.wav
+"Water tap, faucet",21.04,25.8,000387.wav
+Drawer open or close,7.76,8.28,000388.wav
+Drawer open or close,9.6,9.96,000388.wav
+Mechanisms,0.0,20.0,000388.wav
+Mechanisms,0.0,16.16,000389.wav
+Mechanisms,0.16,15.32,000390.wav
+"Water tap, faucet",6.92,10.84,000390.wav
+Background noise,0.0,18.08,000447.wav
+Doorbell,1.52,5.16,000447.wav
+Doorbell,5.44,5.76,000447.wav
+Generic impact sounds,17.8,18.08,000447.wav
+Background noise,0.0,18.12,000448.wav
+Background noise,0.16,7.36,000449.wav
+Background noise,13.44,15.68,000449.wav
+"Walk, footsteps",1.6,1.84,000449.wav
+"Walk, footsteps",2.08,2.4,000449.wav
+"Walk, footsteps",2.64,2.96,000449.wav
+"Walk, footsteps",3.24,3.56,000449.wav
+"Walk, footsteps",3.84,4.04,000449.wav
+"Walk, footsteps",4.4,4.68,000449.wav
+"Water tap, faucet",10.0,15.16,000450.wav
+Background noise,0.72,1.16,000451.wav
+Background noise,12.12,12.88,000451.wav
+Music,1.4,3.08,000451.wav
+Music,3.36,4.12,000451.wav
+Music,8.88,9.2,000451.wav
+Music,9.52,9.88,000451.wav
+Music,13.24,13.84,000451.wav
+Music,14.32,16.48,000451.wav
+Background noise,0.0,16.68,000452.wav
+Computer keyboard,13.6,15.04,000452.wav
+Generic impact sounds,1.28,1.48,000452.wav
+Surface contact,10.32,10.56,000452.wav
+Background noise,0.12,9.72,000453.wav
+Generic impact sounds,1.44,2.0,000453.wav
+Generic impact sounds,2.24,2.8,000453.wav
+Generic impact sounds,3.4,3.76,000453.wav
+Generic impact sounds,4.12,4.48,000453.wav
+Generic impact sounds,7.08,7.36,000453.wav
+Mechanisms,10.0,16.44,000453.wav
+Surface contact,5.84,6.28,000453.wav
+Toilet flush,8.08,10.0,000453.wav
+Background noise,0.0,18.6,000454.wav
+Surface contact,8.12,8.36,000454.wav
+Background noise,8.96,9.64,000566.wav
+Background noise,21.24,21.48,000566.wav
+Background noise,22.32,24.32,000566.wav
+Generic impact sounds,18.52,19.92,000566.wav
+Generic impact sounds,23.64,23.92,000566.wav
+Mechanisms,10.0,10.44,000566.wav
+Mechanisms,11.0,18.04,000566.wav
+Mechanisms,18.24,20.0,000566.wav
+Generic impact sounds,9.12,9.48,000567.wav
+Mechanisms,0.32,18.32,000567.wav
+Background noise,0.48,1.32,000568.wav
+Generic impact sounds,0.8,1.0,000568.wav
+Mechanisms,10.0,17.68,000568.wav
+Toilet flush,1.64,9.96,000568.wav
+Background noise,0.4,9.8,000569.wav
+Background noise,10.0,16.76,000569.wav
+"Walk, footsteps",2.6,2.84,000569.wav
+"Walk, footsteps",3.24,3.44,000569.wav
+Background noise,0.36,9.88,000570.wav
+Generic impact sounds,6.76,6.96,000570.wav
+Generic impact sounds,8.32,8.52,000570.wav
+Generic impact sounds,11.8,12.8,000570.wav
+Generic impact sounds,14.28,14.92,000570.wav
+Generic impact sounds,15.2,15.48,000570.wav
+Generic impact sounds,16.52,16.72,000570.wav
+Mechanisms,1.96,8.92,000571.wav
+Mechanisms,11.96,12.6,000571.wav
+Mechanisms,14.04,15.12,000571.wav
+Mechanisms,17.24,17.96,000571.wav
+Background noise,0.28,9.0,000572.wav
+Background noise,20.0,23.0,000572.wav
+Generic impact sounds,10.2,10.36,000572.wav
+Mechanisms,0.36,17.52,000573.wav
+Ringtone,2.32,3.16,000573.wav
+Ringtone,6.44,7.32,000573.wav
+Ringtone,7.72,8.52,000573.wav
+Background noise,10.0,17.72,000591.wav
+Generic impact sounds,10.84,11.04,000591.wav
+Background noise,0.4,15.2,000592.wav
+Background noise,0.4,9.96,000593.wav
+Generic impact sounds,8.56,8.92,000593.wav
+Toilet flush,2.84,6.56,000593.wav
+"Water tap, faucet",14.28,14.64,000593.wav
+Computer keyboard,13.44,16.24,000594.wav
+Computer keyboard,19.52,20.2,000594.wav
+Computer keyboard,20.52,20.84,000594.wav
+Computer keyboard,21.4,22.48,000594.wav
+Computer keyboard,23.16,23.36,000594.wav
+Computer keyboard,25.56,26.28,000594.wav
+Computer keyboard,26.64,27.24,000594.wav
+Computer keyboard,27.6,27.88,000594.wav
+Mechanisms,0.4,28.52,000594.wav
+Background noise,0.36,9.92,000595.wav
+Generic impact sounds,2.44,2.8,000595.wav
+Generic impact sounds,3.88,4.24,000595.wav
+Generic impact sounds,5.92,6.28,000595.wav
+Generic impact sounds,6.92,7.44,000595.wav
+Generic impact sounds,7.88,8.28,000595.wav
+Generic impact sounds,10.16,10.64,000595.wav
+Generic impact sounds,13.56,13.76,000595.wav
+Generic impact sounds,14.04,14.36,000595.wav
+Generic impact sounds,29.2,29.4,000595.wav
+Vacuum cleaner,17.08,27.2,000595.wav
+Background noise,0.44,3.4,000596.wav
+Generic impact sounds,11.16,12.28,000596.wav
+Mechanisms,10.0,15.92,000596.wav
+Toilet flush,3.52,8.32,000596.wav
+Background noise,1.08,2.0,000597.wav
+Background noise,4.76,7.64,000597.wav
+Generic impact sounds,4.28,4.56,000597.wav
+Surface contact,10.56,10.76,000597.wav
+Background noise,1.4,4.36,000598.wav
+Background noise,10.0,15.72,000598.wav
+Generic impact sounds,10.0,10.2,000598.wav
+Mechanisms,9.2,9.6,000598.wav
+"Walk, footsteps",1.92,2.4,000598.wav
+"Walk, footsteps",2.72,3.04,000598.wav
+"Walk, footsteps",3.8,4.12,000598.wav
+"Walk, footsteps",4.44,4.92,000598.wav
+"Walk, footsteps",14.48,14.76,000598.wav
+"Walk, footsteps",15.08,15.4,000598.wav
+Background noise,0.0,20.0,000665.wav
+Background noise,0.0,10.0,000666.wav
+Background noise,11.24,14.68,000666.wav
+Background noise,15.2,16.04,000666.wav
+Computer keyboard,0.16,8.8,000666.wav
+"Beep, bleep",31.24,31.76,000667.wav
+Generic impact sounds,18.0,18.2,000667.wav
+Microwave oven,20.4,30.52,000667.wav
+Background noise,0.16,10.0,000668.wav
+Background noise,20.84,21.08,000668.wav
+Generic impact sounds,4.84,5.72,000668.wav
+Generic impact sounds,7.08,7.32,000668.wav
+Generic impact sounds,17.44,17.64,000668.wav
+Generic impact sounds,19.4,19.8,000668.wav
+Toilet flush,0.44,4.04,000670.wav
+Background noise,0.36,2.4,000671.wav
+Background noise,3.32,18.12,000671.wav
+Generic impact sounds,4.36,4.56,000671.wav
+Generic impact sounds,5.16,6.12,000671.wav
+Generic impact sounds,6.56,7.68,000671.wav
+Generic impact sounds,8.24,9.48,000671.wav
+Generic impact sounds,9.64,9.8,000671.wav
+Generic impact sounds,15.0,15.24,000671.wav
+"Beep, bleep",7.0,7.28,000673.wav
+"Beep, bleep",27.28,27.56,000673.wav
+"Beep, bleep",28.0,28.36,000673.wav
+Mechanisms,10.0,20.16,000673.wav
+Mechanisms,20.24,20.32,000673.wav
+Mechanisms,20.36,20.76,000673.wav
+Microwave oven,6.88,10.0,000673.wav
+Microwave oven,20.0,27.72,000673.wav
+Microwave oven,27.96,28.36,000673.wav
+Computer keyboard,6.0,6.2,000710.wav
+Computer keyboard,14.92,15.84,000710.wav
+Computer keyboard,16.28,16.72,000710.wav
+Generic impact sounds,2.44,2.72,000711.wav
+Generic impact sounds,6.0,6.56,000711.wav
+Generic impact sounds,15.36,15.52,000711.wav
+Sink (filling or washing),0.16,20.0,000711.wav
+"Water tap, faucet",0.12,20.0,000711.wav
+Background noise,2.6,2.88,000712.wav
+Background noise,3.36,8.56,000712.wav
+Background noise,13.56,13.64,000712.wav
+Background noise,13.76,14.88,000712.wav
+Background noise,0.96,9.92,000713.wav
+Background noise,11.6,11.8,000713.wav
+Toilet flush,13.92,20.0,000713.wav
+Mechanisms,21.24,21.28,000714.wav
+Mechanisms,21.4,21.48,000714.wav
+Mechanisms,21.52,22.28,000714.wav
+Microwave oven,4.88,7.68,000714.wav
+Microwave oven,7.84,7.88,000714.wav
+Microwave oven,8.04,9.72,000714.wav
+Microwave oven,20.0,22.32,000714.wav
+Background noise,0.0,10.0,000715.wav
+Creak,12.48,14.16,000715.wav
+Background noise,0.76,3.28,000716.wav
+Mechanisms,10.0,20.0,000716.wav
+Background noise,0.16,9.96,000717.wav
+Background noise,1.56,2.96,000802.wav
+Background noise,4.96,5.2,000802.wav
+Background noise,5.76,7.92,000802.wav
+Background noise,10.88,15.08,000802.wav
+Background noise,15.32,16.36,000802.wav
+Generic impact sounds,6.44,6.64,000802.wav
+Sewing machine,8.8,9.72,000802.wav
+Background noise,0.2,1.2,000803.wav
+Background noise,10.0,25.44,000803.wav
+Generic impact sounds,24.4,24.76,000803.wav
+Background noise,0.64,10.32,000804.wav
+Background noise,10.84,11.88,000804.wav
+Background noise,12.0,12.16,000804.wav
+Background noise,12.44,12.64,000804.wav
+Background noise,18.6,22.56,000804.wav
+Computer keyboard,1.28,2.36,000804.wav
+Computer keyboard,2.72,3.24,000804.wav
+Computer keyboard,3.52,5.32,000804.wav
+Computer keyboard,6.0,8.0,000804.wav
+Computer keyboard,8.28,9.52,000804.wav
+Background noise,0.36,7.32,000805.wav
+Background noise,8.4,9.72,000805.wav
+Background noise,10.0,19.6,000805.wav
+Generic impact sounds,8.76,9.6,000805.wav
+Generic impact sounds,11.4,11.72,000805.wav
+Generic impact sounds,12.48,12.84,000805.wav
+Generic impact sounds,14.08,14.4,000805.wav
+Generic impact sounds,15.84,16.08,000805.wav
+Generic impact sounds,17.44,17.92,000805.wav
+Generic impact sounds,18.32,18.68,000805.wav
+"Walk, footsteps",2.44,2.64,000805.wav
+"Walk, footsteps",3.12,3.32,000805.wav
+"Walk, footsteps",3.8,4.0,000805.wav
+Background noise,0.2,10.88,000806.wav
+Background noise,11.04,11.6,000806.wav
+Background noise,17.48,18.08,000806.wav
+Generic impact sounds,7.08,7.48,000806.wav
+Generic impact sounds,8.4,8.6,000806.wav
+Sink (filling or washing),14.28,14.6,000806.wav
+"Water tap, faucet",11.68,17.28,000806.wav
+Background noise,7.8,9.28,000807.wav
+Background noise,10.0,19.32,000807.wav
+Generic impact sounds,16.44,16.72,000807.wav
+Generic impact sounds,16.96,17.32,000807.wav
+Mechanisms,0.28,1.96,000808.wav
+Toilet flush,1.76,12.68,000808.wav
+Background noise,0.28,15.72,000809.wav
+Background noise,0.0,10.0,000847.wav
+Background noise,28.16,28.92,000847.wav
+Background noise,30.08,31.68,000847.wav
+Generic impact sounds,3.28,3.56,000847.wav
+Generic impact sounds,4.24,4.56,000847.wav
+Generic impact sounds,25.56,25.76,000847.wav
+Generic impact sounds,28.72,28.92,000847.wav
+Toilet flush,7.28,10.0,000847.wav
+Toilet flush,20.0,24.72,000847.wav
+"Water tap, faucet",3.88,9.92,000848.wav
+"Water tap, faucet",20.0,25.2,000848.wav
+Background noise,0.2,1.2,000849.wav
+Background noise,2.8,9.12,000849.wav
+Background noise,10.28,16.84,000849.wav
+Background noise,0.0,18.4,000850.wav
+Breathing,7.4,7.6,000850.wav
+Computer keyboard,1.76,2.76,000850.wav
+Computer keyboard,3.36,4.6,000850.wav
+Computer keyboard,5.44,6.32,000850.wav
+Computer keyboard,10.0,12.84,000850.wav
+Computer keyboard,13.12,15.48,000850.wav
+Computer keyboard,15.68,17.12,000850.wav
+Computer keyboard,17.44,17.76,000850.wav
+Cough,7.8,8.68,000850.wav
+Computer keyboard,1.28,3.72,000851.wav
+Computer keyboard,4.36,4.8,000851.wav
+Computer keyboard,5.24,8.32,000851.wav
+Computer keyboard,8.72,9.0,000851.wav
+Computer keyboard,12.72,17.92,000851.wav
+Mechanisms,0.0,18.48,000851.wav
+Background noise,0.0,27.36,000852.wav
+Computer keyboard,10.56,12.68,000852.wav
+Computer keyboard,13.12,13.52,000852.wav
+Computer keyboard,13.96,15.04,000852.wav
+Computer keyboard,23.96,24.24,000852.wav
+Computer keyboard,25.12,26.88,000852.wav
+Surface contact,15.92,16.44,000852.wav
+Background noise,0.0,11.04,000853.wav
+Background noise,15.44,20.0,000853.wav
+Background noise,20.28,23.28,000853.wav
+"Water tap, faucet",11.16,14.84,000853.wav
+Background noise,0.0,30.0,000854.wav
+Computer keyboard,11.8,14.04,000854.wav
+Computer keyboard,14.44,15.16,000854.wav
+Computer keyboard,15.84,17.48,000854.wav
+Surface contact,19.48,20.0,000854.wav
+Background noise,30.04,31.04,000863.wav
+Mechanisms,12.04,12.36,000863.wav
+Background noise,10.0,16.76,000864.wav
+Surface contact,10.0,10.6,000864.wav
+Background noise,1.04,2.28,000865.wav
+Background noise,3.36,8.28,000865.wav
+Background noise,9.0,9.76,000865.wav
+Background noise,10.0,22.52,000865.wav
+Generic impact sounds,3.76,4.16,000865.wav
+Background noise,0.16,10.0,000866.wav
+Generic impact sounds,3.76,4.0,000866.wav
+Generic impact sounds,5.2,5.56,000866.wav
+Generic impact sounds,7.72,8.32,000866.wav
+Generic impact sounds,9.04,9.84,000866.wav
+Mechanisms,22.6,26.68,000866.wav
+Microwave oven,10.0,23.04,000866.wav
+Microwave oven,23.48,24.24,000866.wav
+Mechanisms,10.0,20.08,000867.wav
+Toilet flush,3.12,9.96,000867.wav
+"Beep, bleep",13.56,13.8,000868.wav
+"Beep, bleep",14.16,14.48,000868.wav
+Generic impact sounds,15.76,16.0,000868.wav
+Generic impact sounds,17.48,17.84,000868.wav
+Background noise,16.4,16.84,000869.wav
+Mechanisms,0.16,10.0,000869.wav
+Mechanisms,10.0,17.52,000870.wav
+Boiling,30.0,31.8,000871.wav
+Mechanisms,10.68,31.8,000871.wav
+Generic impact sounds,17.92,18.16,000872.wav
+Mechanisms,8.76,9.2,000872.wav
+Mechanisms,9.24,9.36,000872.wav
+Mechanisms,9.44,30.92,000872.wav
+Microwave oven,4.88,6.24,000872.wav
+Microwave oven,6.72,7.68,000872.wav
+Microwave oven,7.84,7.92,000872.wav
+Microwave oven,8.0,8.08,000872.wav
+Background noise,0.2,9.96,000916.wav
+Ringtone,13.48,14.04,000916.wav
+Ringtone,15.64,16.12,000916.wav
+Ringtone,17.44,18.2,000916.wav
+Ringtone,19.56,19.88,000916.wav
+Generic impact sounds,9.52,9.84,000917.wav
+Mechanisms,0.2,19.2,000917.wav
+Mechanisms,4.48,5.0,000918.wav
+Mechanisms,5.2,21.88,000918.wav
+"Water tap, faucet",4.44,9.84,000918.wav
+Generic impact sounds,4.28,4.52,000919.wav
+Generic impact sounds,12.12,12.96,000919.wav
+Generic impact sounds,13.24,13.48,000919.wav
+Generic impact sounds,16.32,16.52,000919.wav
+Mechanisms,0.24,19.28,000919.wav
+Surface contact,10.68,11.0,000919.wav
+Mechanisms,0.32,9.96,000920.wav
+Microwave oven,12.28,26.32,000920.wav
+"Walk, footsteps",1.84,2.04,000920.wav
+Generic impact sounds,11.44,11.88,000921.wav
+Mechanisms,10.0,20.0,000921.wav
+Generic impact sounds,1.92,2.52,000922.wav
+Generic impact sounds,3.12,3.44,000922.wav
+Generic impact sounds,15.68,16.04,000923.wav
+Mechanisms,0.2,21.96,000923.wav
+Toilet flush,1.76,11.0,000923.wav
+"Male speech, man speaking",13.96,14.44,000933.wav
+"Male speech, man speaking",15.68,16.4,000933.wav
+Mechanisms,10.0,16.4,000933.wav
+Mechanisms,0.0,10.0,000934.wav
+"Water tap, faucet",1.2,9.8,000934.wav
+"Water tap, faucet",10.0,16.84,000934.wav
+Generic impact sounds,7.76,7.92,000936.wav
+Background noise,11.88,14.64,000937.wav
+Generic impact sounds,6.4,6.64,000937.wav
+Generic impact sounds,10.16,11.76,000937.wav
+Generic impact sounds,12.08,13.48,000937.wav
+Generic impact sounds,13.72,13.92,000937.wav
+"Walk, footsteps",1.16,1.48,000937.wav
+"Walk, footsteps",1.76,2.56,000937.wav
+"Walk, footsteps",2.88,3.2,000937.wav
+"Walk, footsteps",3.44,3.72,000937.wav
+"Walk, footsteps",3.96,4.28,000937.wav
+"Walk, footsteps",4.56,4.8,000937.wav
+Computer keyboard,20.4,21.28,000938.wav
+Computer keyboard,24.88,25.2,000938.wav
+Computer keyboard,25.72,26.36,000938.wav
+Computer keyboard,26.76,26.96,000938.wav
+Mechanisms,10.04,10.28,000938.wav
+Mechanisms,11.04,11.4,000938.wav
+Mechanisms,11.76,12.12,000938.wav
+Mechanisms,12.92,14.04,000938.wav
+Mechanisms,14.52,14.88,000938.wav
+Mechanisms,20.0,27.8,000938.wav
+Background noise,0.16,5.32,000939.wav
+Generic impact sounds,1.16,3.2,000939.wav
+Generic impact sounds,4.8,5.0,000939.wav
+Mechanisms,10.0,21.16,000939.wav
+Toilet flush,5.24,9.96,000939.wav
+Background noise,0.0,18.8,000940.wav
+Creak,8.12,8.72,000940.wav
+Generic impact sounds,4.04,4.36,000940.wav
+Generic impact sounds,10.52,10.72,000940.wav
+Surface contact,6.64,6.96,000940.wav
+Surface contact,13.28,13.56,000940.wav
+Ringtone,0.0,2.84,000941.wav
+Ringtone,4.04,8.2,000941.wav
+Mechanisms,0.0,19.48,000942.wav
+Background noise,0.2,23.8,000943.wav
+Generic impact sounds,8.44,8.8,000943.wav
+Generic impact sounds,10.96,11.16,000943.wav
+Generic impact sounds,17.84,18.16,000943.wav
+Generic impact sounds,18.4,18.76,000943.wav
+Generic impact sounds,22.4,22.64,000943.wav
+Microwave oven,6.44,8.44,000944.wav
+Ringtone,10.04,10.24,000944.wav
+Generic impact sounds,9.32,9.52,000945.wav
+Generic impact sounds,10.52,10.76,000945.wav
+Mechanisms,0.12,30.0,000945.wav
+Toilet flush,18.24,20.0,000945.wav
+Background noise,0.24,7.8,000946.wav
+Background noise,10.0,20.0,000946.wav
+Background noise,20.76,20.96,000946.wav
+Background noise,21.28,23.64,000946.wav
+Generic impact sounds,6.92,7.56,000946.wav
+Generic impact sounds,15.84,16.16,000946.wav
+Generic impact sounds,17.44,17.96,000946.wav
+Wind noise (microphone),20.0,20.96,000946.wav
+Background noise,30.04,30.56,000947.wav
+Background noise,30.76,30.96,000947.wav
+Mechanisms,2.32,8.72,000947.wav
+Ringtone,28.8,29.04,000947.wav
+Ringtone,29.6,29.8,000947.wav
+Ringtone,29.92,33.16,000947.wav
+Telephone bell ringing,0.4,1.84,000947.wav
+Generic impact sounds,4.48,5.04,000948.wav
+Generic impact sounds,6.08,6.36,000948.wav
+Generic impact sounds,7.24,7.52,000948.wav
+Mechanisms,0.12,10.0,000948.wav
+Mechanisms,10.36,11.0,000948.wav
+Mechanisms,11.08,11.16,000948.wav
+Mechanisms,11.24,11.32,000948.wav
+Mechanisms,11.4,11.44,000948.wav
+Mechanisms,12.72,13.08,000948.wav
+Mechanisms,13.36,13.4,000948.wav
+Mechanisms,13.48,13.56,000948.wav
+Mechanisms,13.64,13.72,000948.wav
+Mechanisms,13.8,13.88,000948.wav
+Mechanisms,13.96,14.04,000948.wav
+Mechanisms,14.08,14.84,000948.wav
+Mechanisms,15.12,15.28,000948.wav
+Microwave oven,17.16,19.84,000948.wav
+Generic impact sounds,21.28,21.64,000949.wav
+Generic impact sounds,22.4,22.6,000949.wav
+"Glass chink, clink",10.08,12.96,000949.wav
+"Glass chink, clink",13.4,14.88,000949.wav
+Mechanisms,10.0,20.04,000949.wav
+Mechanisms,20.36,23.28,000949.wav
+Mechanisms,27.92,27.96,000949.wav
+Mechanisms,28.04,28.08,000949.wav
+Mechanisms,29.04,29.08,000949.wav
+Mechanisms,29.16,29.24,000949.wav
+Mechanisms,29.32,29.4,000949.wav
+Mechanisms,29.92,34.32,000949.wav
+Toilet flush,23.24,29.92,000949.wav
+Vacuum cleaner,0.8,7.88,000949.wav
+Background noise,0.16,19.64,000950.wav
+Generic impact sounds,1.64,2.12,000950.wav
+Generic impact sounds,3.0,3.28,000950.wav
+Generic impact sounds,4.04,4.72,000950.wav
+Generic impact sounds,5.12,5.4,000950.wav
+Generic impact sounds,8.6,8.84,000994.wav
+Generic impact sounds,9.28,9.52,000994.wav
+Generic impact sounds,9.76,9.96,000994.wav
+Generic impact sounds,10.16,10.8,000994.wav
+Generic impact sounds,11.64,16.04,000994.wav
+Mechanisms,0.16,16.2,000994.wav
+Surface contact,7.0,7.32,000994.wav
+Mechanisms,0.12,9.92,000995.wav
+Mechanisms,23.0,24.48,000995.wav
+Generic impact sounds,3.68,4.12,000996.wav
+Generic impact sounds,4.32,4.6,000996.wav
+Mechanisms,0.16,21.8,000996.wav
+Surface contact,5.2,5.44,000996.wav
+Mechanisms,0.16,15.92,000997.wav
+Generic impact sounds,3.68,3.88,000998.wav
+Mechanisms,10.0,17.56,000998.wav
+Toilet flush,4.2,11.08,000998.wav
+Background noise,0.12,9.96,000999.wav
+Generic impact sounds,18.8,19.16,000999.wav
+Generic impact sounds,19.68,19.88,000999.wav
+Generic impact sounds,20.24,20.76,000999.wav
+Mechanisms,11.12,22.04,000999.wav
+"Walk, footsteps",14.28,14.52,000999.wav
+"Walk, footsteps",14.84,15.12,000999.wav
+"Walk, footsteps",15.96,16.2,000999.wav
+Background noise,0.12,9.96,001000.wav
+Mechanisms,0.12,16.04,001001.wav
+Surface contact,7.44,7.84,001001.wav
+Surface contact,15.6,15.8,001001.wav
+Background noise,0.24,0.68,001002.wav
+Background noise,10.52,11.12,001002.wav
+Background noise,11.48,11.96,001002.wav
+Background noise,12.4,24.68,001002.wav
+Generic impact sounds,20.04,20.36,001002.wav
+Cough,18.32,18.92,001003.wav
+Cough,19.4,19.84,001003.wav
+Cough,21.36,21.68,001003.wav
+Cough,21.88,22.08,001003.wav
+Mechanisms,0.56,9.92,001003.wav
+Mechanisms,20.0,28.36,001003.wav
+Surface contact,5.12,5.32,001003.wav
+Background noise,6.6,7.08,001004.wav
+Background noise,10.0,20.0,001004.wav
+Generic impact sounds,17.24,17.92,001004.wav
+Generic impact sounds,23.76,23.96,001004.wav
+"Dishes, pots, and pans",8.56,9.12,001005.wav
+"Dishes, pots, and pans",11.92,12.64,001005.wav
+"Dishes, pots, and pans",13.08,13.44,001005.wav
+Sink (filling or washing),10.0,11.8,001005.wav
+Sink (filling or washing),14.16,16.04,001005.wav
+Sink (filling or washing),18.04,18.56,001005.wav
+Sink (filling or washing),18.88,21.44,001005.wav
+Sink (filling or washing),23.44,23.64,001005.wav
+"Water tap, faucet",10.0,12.76,001005.wav
+"Water tap, faucet",13.0,21.68,001005.wav
+"Water tap, faucet",22.36,22.56,001005.wav
+"Water tap, faucet",23.04,23.92,001005.wav
+Background noise,10.0,20.0,001006.wav
+Generic impact sounds,20.08,20.56,001006.wav
+Generic impact sounds,29.64,29.84,001006.wav
+Toilet flush,22.36,28.68,001006.wav
+Wind noise (microphone),8.0,8.56,001006.wav
+Mechanisms,10.16,10.8,001007.wav
+Mechanisms,15.32,18.04,001007.wav
+Mechanisms,18.8,19.04,001007.wav
+Background noise,0.0,23.56,001008.wav
+Generic impact sounds,0.16,0.4,001008.wav
+Generic impact sounds,5.76,6.04,001008.wav
+Generic impact sounds,6.32,6.68,001008.wav
+Generic impact sounds,6.72,7.12,001008.wav
+Generic impact sounds,10.0,10.28,001008.wav
+Generic impact sounds,10.68,11.24,001008.wav
+Generic impact sounds,13.4,14.08,001008.wav
+Generic impact sounds,14.4,14.8,001008.wav
+Generic impact sounds,15.08,19.68,001008.wav
+Background noise,0.32,4.44,001009.wav
+Background noise,4.64,4.72,001009.wav
+Background noise,10.0,21.32,001009.wav
+Mechanisms,0.0,20.0,001010.wav
+Mechanisms,20.92,22.48,001010.wav
+Mechanisms,23.28,24.92,001010.wav
+Background noise,0.52,0.96,001126.wav
+Background noise,3.72,4.44,001126.wav
+Background noise,4.92,9.4,001126.wav
+Background noise,10.0,19.48,001126.wav
+Computer keyboard,14.08,14.32,001126.wav
+Knock,2.72,3.6,001126.wav
+Knock,4.64,5.6,001126.wav
+Background noise,0.2,25.92,001127.wav
+Generic impact sounds,6.56,6.76,001127.wav
+Generic impact sounds,10.44,11.0,001127.wav
+Background noise,0.24,20.04,001128.wav
+Generic impact sounds,3.92,4.76,001128.wav
+Generic impact sounds,6.8,7.72,001128.wav
+Ringtone,15.44,18.56,001128.wav
+Ringtone,18.88,19.88,001128.wav
+Wind noise (microphone),5.8,6.0,001128.wav
+Background noise,0.32,11.48,001129.wav
+Background noise,0.32,0.84,001130.wav
+Background noise,1.24,1.4,001130.wav
+Background noise,2.04,2.92,001130.wav
+Background noise,3.12,3.8,001130.wav
+Background noise,4.12,9.88,001130.wav
+Background noise,20.64,21.96,001130.wav
+Generic impact sounds,6.48,6.92,001130.wav
+Generic impact sounds,7.12,7.32,001130.wav
+Generic impact sounds,9.16,9.48,001130.wav
+Generic impact sounds,22.32,22.68,001130.wav
+Generic impact sounds,23.56,24.28,001130.wav
+Generic impact sounds,24.84,25.72,001130.wav
+Background noise,0.28,9.76,001131.wav
+Toilet flush,10.0,16.72,001131.wav
+Toilet flush,17.08,20.0,001131.wav
+Wind noise (microphone),6.8,8.96,001131.wav
+Wind noise (microphone),9.2,9.4,001131.wav
+"Water tap, faucet",2.2,9.76,001132.wav
+Background noise,0.24,20.0,001133.wav
+Generic impact sounds,12.04,12.28,001133.wav
+Generic impact sounds,14.12,14.68,001133.wav
+Pour,5.2,9.92,001133.wav
+Mechanisms,1.8,2.16,001134.wav
+Mechanisms,9.0,9.24,001134.wav
+Microwave oven,15.0,26.28,001134.wav
+Mechanisms,2.64,4.68,001135.wav
+Mechanisms,12.28,13.12,001135.wav
+Mechanisms,15.0,15.48,001135.wav
+Mechanisms,15.6,17.24,001135.wav
+Mechanisms,20.0,23.92,001135.wav
+Background noise,10.88,12.36,001136.wav
+Background noise,12.56,14.52,001136.wav
+Background noise,14.84,15.08,001136.wav
+Background noise,15.4,15.72,001136.wav
+Computer keyboard,21.8,22.6,001136.wav
+Computer keyboard,22.8,23.52,001136.wav
+Computer keyboard,23.92,24.56,001136.wav
+Computer keyboard,25.24,25.8,001136.wav
+Computer keyboard,26.48,27.08,001136.wav
+Computer keyboard,28.04,28.32,001136.wav
+Background noise,10.0,20.56,001137.wav
+Background noise,11.4,17.08,001138.wav
+Background noise,17.32,18.52,001138.wav
+Generic impact sounds,7.84,8.12,001138.wav
+Generic impact sounds,8.6,8.8,001138.wav
+Surface contact,1.68,2.0,001138.wav
+Surface contact,2.36,2.88,001138.wav
+Surface contact,4.8,5.08,001138.wav
+Surface contact,5.44,5.64,001138.wav
+Mechanisms,10.0,20.0,001139.wav
+Surface contact,1.28,1.88,001140.wav
+Ringtone,30.76,32.84,001141.wav
+Mechanisms,2.08,23.28,001142.wav
+Mechanisms,23.36,23.44,001142.wav
+Mechanisms,23.52,23.6,001142.wav
+Mechanisms,23.68,23.76,001142.wav
+Mechanisms,23.84,23.92,001142.wav
+Mechanisms,24.0,24.04,001142.wav
+Mechanisms,26.24,27.08,001142.wav
+Mechanisms,27.52,29.12,001142.wav
+Mechanisms,29.92,34.88,001142.wav
+Mechanisms,0.0,2.68,001143.wav
+Mechanisms,2.72,10.0,001143.wav
+Background noise,0.2,5.8,001144.wav
+Background noise,10.0,20.76,001144.wav
+Generic impact sounds,1.84,2.04,001144.wav
+Generic impact sounds,19.44,19.76,001144.wav
+"Water tap, faucet",5.96,9.92,001144.wav
+Generic impact sounds,9.24,9.48,001145.wav
+Mechanisms,0.16,10.0,001145.wav
+Background noise,0.0,10.0,001146.wav
+Background noise,22.64,28.12,001146.wav
+Generic impact sounds,28.24,28.52,001146.wav
+Toilet flush,2.12,8.04,001146.wav
+"Water tap, faucet",12.68,22.44,001146.wav
+Background noise,0.16,25.84,001148.wav
+Generic impact sounds,11.32,12.0,001148.wav
+Generic impact sounds,14.64,15.08,001148.wav
+Generic impact sounds,19.08,20.64,001148.wav
+Generic impact sounds,20.72,22.36,001148.wav
+Generic impact sounds,23.16,24.2,001148.wav
+Background noise,20.52,22.72,001149.wav
+Mechanisms,0.12,10.0,001149.wav
+Background noise,0.36,5.36,001150.wav
+Background noise,8.2,9.8,001150.wav
+Background noise,10.0,20.0,001150.wav
+Background noise,20.96,21.92,001150.wav
+"Crumpling, crinkling",5.44,7.24,001150.wav
+Generic impact sounds,3.84,4.04,001150.wav
+Generic impact sounds,11.72,12.08,001150.wav
+Mechanisms,19.16,19.8,001151.wav
+Music,20.0,26.32,001151.wav
+Generic impact sounds,2.64,3.0,001172.wav
+Generic impact sounds,4.56,5.04,001172.wav
+Generic impact sounds,5.68,5.92,001172.wav
+Mechanisms,10.4,12.64,001172.wav
+Mechanisms,13.64,16.8,001172.wav
+Mechanisms,17.12,17.92,001172.wav
+Mechanisms,18.8,19.48,001172.wav
+Background noise,0.32,3.32,001173.wav
+Background noise,3.52,9.92,001173.wav
+Background noise,20.0,32.16,001173.wav
+Generic impact sounds,3.8,3.88,001173.wav
+Generic impact sounds,7.84,8.04,001173.wav
+Generic impact sounds,8.4,9.16,001173.wav
+Generic impact sounds,9.48,9.68,001173.wav
+Generic impact sounds,10.0,10.24,001173.wav
+Generic impact sounds,18.44,18.84,001173.wav
+Generic impact sounds,20.32,21.76,001173.wav
+Generic impact sounds,23.12,23.32,001173.wav
+Generic impact sounds,25.28,25.52,001173.wav
+Generic impact sounds,26.64,26.92,001173.wav
+Generic impact sounds,31.6,32.32,001173.wav
+"Water tap, faucet",10.44,18.08,001173.wav
+"Water tap, faucet",18.2,19.92,001173.wav
+Background noise,10.12,11.96,001174.wav
+Background noise,20.0,20.36,001174.wav
+Background noise,23.6,28.88,001174.wav
+Background noise,29.08,30.0,001174.wav
+Generic impact sounds,2.52,2.64,001174.wav
+Generic impact sounds,6.36,6.64,001174.wav
+Background noise,20.0,24.76,001175.wav
+Generic impact sounds,16.64,16.92,001175.wav
+Generic impact sounds,17.6,17.8,001175.wav
+Generic impact sounds,18.52,19.88,001175.wav
+"Water tap, faucet",14.6,16.16,001175.wav
+Background noise,0.44,6.76,001176.wav
+Background noise,6.84,9.84,001176.wav
+Background noise,11.84,12.12,001176.wav
+Background noise,20.08,21.56,001176.wav
+Generic impact sounds,18.8,19.28,001176.wav
+Background noise,0.76,10.0,001177.wav
+Background noise,10.44,12.36,001177.wav
+Background noise,13.04,16.6,001177.wav
+Background noise,16.84,17.72,001177.wav
+Background noise,18.16,18.52,001177.wav
+Background noise,20.4,23.8,001177.wav
+Background noise,24.8,26.36,001177.wav
+Generic impact sounds,5.44,6.48,001177.wav
+Ringtone,20.48,23.04,001177.wav
+Ringtone,24.96,26.2,001177.wav
+Background noise,19.72,21.2,001178.wav
+Generic impact sounds,12.12,12.64,001178.wav
+Generic impact sounds,14.64,14.92,001178.wav
+Generic impact sounds,3.32,3.6,001179.wav
+Generic impact sounds,6.12,6.76,001179.wav
+Mechanisms,21.44,22.88,001179.wav
+Toilet flush,10.88,15.68,001179.wav
+Mechanisms,3.32,7.68,001180.wav
+Mechanisms,9.24,9.52,001180.wav
+Mechanisms,10.0,33.44,001180.wav
+Ringtone,0.28,2.0,001181.wav
+Ringtone,7.08,9.68,001181.wav
+Breathing,15.44,15.68,001192.wav
+Mechanisms,0.0,20.0,001192.wav
+"Water tap, faucet",6.56,9.8,001192.wav
+Generic impact sounds,17.12,17.16,001193.wav
+Mechanisms,0.0,17.16,001193.wav
+Sink (filling or washing),15.32,15.52,001193.wav
+Toilet flush,2.08,6.76,001193.wav
+"Water tap, faucet",10.4,15.92,001193.wav
+Background noise,0.0,10.0,001194.wav
+Computer keyboard,2.36,2.76,001194.wav
+Computer keyboard,3.44,4.2,001194.wav
+Computer keyboard,4.44,5.12,001194.wav
+Computer keyboard,5.52,9.92,001194.wav
+Background noise,10.0,18.6,001195.wav
+Background noise,19.32,20.32,001195.wav
+Generic impact sounds,7.6,7.88,001195.wav
+Generic impact sounds,8.2,8.4,001195.wav
+Generic impact sounds,8.6,9.24,001195.wav
+Generic impact sounds,10.0,10.36,001195.wav
+Generic impact sounds,12.04,12.32,001195.wav
+Generic impact sounds,12.72,13.44,001195.wav
+Mechanisms,3.12,6.6,001195.wav
+Background noise,3.6,4.88,001196.wav
+Background noise,5.24,6.0,001196.wav
+Background noise,6.36,9.88,001196.wav
+Generic impact sounds,11.32,12.48,001196.wav
+Generic impact sounds,12.68,12.92,001196.wav
+Generic impact sounds,13.36,13.8,001196.wav
+Generic impact sounds,15.84,16.08,001196.wav
+Generic impact sounds,16.6,16.92,001196.wav
+Mechanisms,10.0,11.4,001196.wav
+Mechanisms,14.76,20.0,001196.wav
+Surface contact,6.68,7.0,001196.wav
+Surface contact,20.36,20.68,001196.wav
+Background noise,0.0,10.0,001197.wav
+Background noise,20.0,22.6,001197.wav
+Breathing,17.76,19.28,001197.wav
+Generic impact sounds,14.04,15.8,001197.wav
+Mechanisms,10.32,14.6,001197.wav
+Mechanisms,15.04,20.0,001197.wav
+Music,5.88,7.32,001197.wav
+Mechanisms,10.0,17.52,001198.wav
+Microwave oven,4.4,4.92,001198.wav
+Microwave oven,5.84,9.36,001198.wav
+Microwave oven,10.0,10.96,001198.wav
+Microwave oven,11.44,15.12,001198.wav
+Background noise,1.0,3.24,001199.wav
+Generic impact sounds,14.28,14.52,001199.wav
+Generic impact sounds,15.0,15.64,001199.wav
+Generic impact sounds,17.16,17.48,001199.wav
+Generic impact sounds,18.48,18.76,001199.wav
+Generic impact sounds,19.44,19.68,001199.wav
+Mechanisms,12.52,20.0,001199.wav
+Vacuum cleaner,10.0,12.16,001199.wav
+Background noise,20.0,23.32,001216.wav
+Computer keyboard,2.68,3.2,001216.wav
+Computer keyboard,4.76,8.28,001216.wav
+Computer keyboard,8.84,12.24,001216.wav
+Computer keyboard,12.64,13.08,001216.wav
+Computer keyboard,13.52,14.0,001216.wav
+Computer keyboard,14.56,16.12,001216.wav
+Computer keyboard,16.44,18.16,001216.wav
+Computer keyboard,18.52,19.24,001216.wav
+Generic impact sounds,20.84,21.08,001216.wav
+Mechanisms,0.12,20.0,001216.wav
+Surface contact,3.88,4.12,001216.wav
+Generic impact sounds,1.96,2.24,001217.wav
+Generic impact sounds,6.92,7.12,001217.wav
+Mechanisms,0.52,0.8,001217.wav
+Mechanisms,1.8,26.28,001217.wav
+Pour,20.0,20.52,001217.wav
+"Water tap, faucet",7.28,9.96,001217.wav
+Generic impact sounds,2.0,2.32,001218.wav
+Generic impact sounds,2.72,3.2,001218.wav
+Generic impact sounds,5.28,5.52,001218.wav
+Generic impact sounds,7.12,7.44,001218.wav
+Mechanisms,0.16,8.08,001218.wav
+Generic impact sounds,10.0,10.24,001219.wav
+Generic impact sounds,10.68,10.96,001219.wav
+Generic impact sounds,11.24,11.44,001219.wav
+Generic impact sounds,11.96,12.24,001219.wav
+Generic impact sounds,12.68,12.92,001219.wav
+Generic impact sounds,20.36,20.68,001219.wav
+Generic impact sounds,21.24,21.68,001219.wav
+Generic impact sounds,22.96,23.24,001219.wav
+Mechanisms,12.96,27.52,001219.wav
+Computer keyboard,10.0,15.28,001220.wav
+Computer keyboard,15.52,15.84,001220.wav
+Computer keyboard,16.36,17.68,001220.wav
+Computer keyboard,19.76,20.08,001220.wav
+Mechanisms,0.24,20.0,001220.wav
+Computer keyboard,0.84,1.44,001221.wav
+Computer keyboard,1.8,2.76,001221.wav
+Computer keyboard,3.56,4.44,001221.wav
+Computer keyboard,4.64,8.16,001221.wav
+Computer keyboard,9.32,9.92,001221.wav
+Mechanisms,0.2,9.96,001221.wav
+Mechanisms,6.4,6.44,001222.wav
+Mechanisms,10.0,26.92,001222.wav
+Microwave oven,0.84,9.52,001222.wav
+Generic impact sounds,3.88,4.28,001223.wav
+Generic impact sounds,5.76,5.96,001223.wav
+Generic impact sounds,8.72,9.08,001223.wav
+Generic impact sounds,18.28,18.6,001223.wav
+Generic impact sounds,26.32,26.56,001223.wav
+Mechanisms,0.16,27.4,001223.wav
+Toilet flush,19.0,19.92,001223.wav
+"Water tap, faucet",10.92,15.36,001223.wav
+Mechanisms,10.0,20.0,001224.wav
+Music,20.56,23.88,001224.wav
+Ringtone,0.48,0.8,001224.wav
+Generic impact sounds,13.4,13.8,001225.wav
+Generic impact sounds,14.4,14.6,001225.wav
+Generic impact sounds,15.4,15.64,001225.wav
+Generic impact sounds,16.28,17.04,001225.wav
+Generic impact sounds,18.24,18.52,001225.wav
+Mechanisms,0.0,34.96,001225.wav
+"Water tap, faucet",10.0,20.0,001225.wav
+"Water tap, faucet",30.0,34.96,001225.wav
+Generic impact sounds,28.44,28.8,001246.wav
+Mechanisms,0.0,35.16,001246.wav
+Toilet flush,23.12,26.16,001246.wav
+"Water tap, faucet",3.28,9.88,001246.wav
+"Water tap, faucet",10.08,13.28,001246.wav
+Background noise,10.0,12.6,001247.wav
+Background noise,15.0,20.0,001247.wav
+Mechanisms,3.0,3.24,001247.wav
+Mechanisms,5.92,6.8,001247.wav
+Mechanisms,7.36,10.0,001247.wav
+Mechanisms,12.48,15.12,001247.wav
+Mechanisms,20.0,22.04,001247.wav
+Sliding door,12.76,14.8,001247.wav
+Background noise,0.0,0.2,001248.wav
+Background noise,1.32,2.04,001248.wav
+Background noise,9.2,10.0,001248.wav
+Background noise,32.24,32.44,001248.wav
+Generic impact sounds,29.44,30.0,001248.wav
+Mechanisms,10.0,20.0,001248.wav
+Mechanisms,27.68,28.2,001248.wav
+Microwave oven,11.8,13.88,001248.wav
+Microwave oven,15.12,15.64,001248.wav
+Microwave oven,17.32,17.92,001248.wav
+Microwave oven,20.0,30.0,001248.wav
+"Dishes, pots, and pans",12.36,12.6,001249.wav
+"Dishes, pots, and pans",14.16,14.72,001249.wav
+"Dishes, pots, and pans",16.92,17.12,001249.wav
+"Dishes, pots, and pans",17.6,17.88,001249.wav
+Mechanisms,0.0,32.12,001249.wav
+Generic impact sounds,5.12,5.48,001250.wav
+Generic impact sounds,6.04,7.04,001250.wav
+Generic impact sounds,9.68,10.0,001250.wav
+Generic impact sounds,13.76,14.08,001250.wav
+Generic impact sounds,19.08,19.6,001250.wav
+Generic impact sounds,20.72,22.16,001250.wav
+Generic impact sounds,22.8,23.76,001250.wav
+Generic impact sounds,24.36,24.6,001250.wav
+Generic impact sounds,25.56,26.24,001250.wav
+Mechanisms,0.16,28.24,001250.wav
+Computer keyboard,21.16,22.6,001251.wav
+Computer keyboard,22.8,24.52,001251.wav
+Generic impact sounds,17.56,17.8,001251.wav
+Mechanisms,20.0,31.32,001251.wav
+Surface contact,7.64,8.52,001251.wav
+Surface contact,19.2,19.8,001251.wav
+Surface contact,25.0,25.2,001251.wav
+Background noise,10.0,14.0,001252.wav
+Background noise,16.28,17.4,001252.wav
+Background noise,18.72,18.92,001252.wav
+Background noise,19.24,20.0,001252.wav
+Mechanisms,20.0,26.4,001252.wav
+Generic impact sounds,11.44,12.0,001253.wav
+Generic impact sounds,12.28,12.52,001253.wav
+Generic impact sounds,12.76,13.36,001253.wav
+Mechanisms,0.0,10.0,001253.wav
+Mechanisms,20.0,20.76,001253.wav
+Generic impact sounds,25.68,25.76,001254.wav
+Mechanisms,17.56,19.12,001254.wav
+Mechanisms,20.92,21.84,001254.wav
+Mechanisms,23.0,23.2,001254.wav
+Mechanisms,23.48,34.4,001254.wav
+Telephone bell ringing,17.16,18.8,001254.wav
+Telephone bell ringing,19.0,19.48,001254.wav
+Vacuum cleaner,20.0,24.96,001254.wav
+"Crumpling, crinkling",7.68,7.72,001255.wav
+"Crumpling, crinkling",7.8,7.92,001255.wav
+"Crumpling, crinkling",7.96,8.52,001255.wav
+Generic impact sounds,11.84,12.04,001255.wav
+Generic impact sounds,32.12,32.4,001255.wav
+Mechanisms,0.0,32.84,001255.wav
+Cough,14.72,15.88,001256.wav
+Vacuum cleaner,20.6,25.48,001257.wav
+Toilet flush,1.44,5.04,001259.wav
+"Beep, bleep",17.68,18.08,001263.wav
+"Beep, bleep",18.8,19.12,001263.wav
+"Beep, bleep",19.84,20.2,001263.wav
+"Beep, bleep",20.56,21.16,001263.wav
+"Beep, bleep",21.56,22.2,001263.wav
+Sink (filling or washing),1.44,9.6,001265.wav
+"Water tap, faucet",1.28,9.92,001265.wav
+Generic impact sounds,21.32,21.52,001284.wav
+Generic impact sounds,21.96,22.32,001284.wav
+Mechanisms,0.0,30.0,001284.wav
+Generic impact sounds,2.6,3.08,001285.wav
+Mechanisms,0.0,21.2,001285.wav
+Surface contact,3.6,3.8,001285.wav
+Computer keyboard,0.32,0.56,001286.wav
+Computer keyboard,0.96,1.36,001286.wav
+Computer keyboard,2.16,2.4,001286.wav
+Computer keyboard,2.68,3.04,001286.wav
+Computer keyboard,4.32,4.52,001286.wav
+Computer keyboard,4.8,5.24,001286.wav
+Computer keyboard,6.28,6.48,001286.wav
+Computer keyboard,6.72,7.44,001286.wav
+Computer keyboard,7.72,8.12,001286.wav
+Computer keyboard,8.48,10.48,001286.wav
+Computer keyboard,10.72,12.2,001286.wav
+Computer keyboard,19.0,20.0,001286.wav
+Mechanisms,0.0,39.64,001286.wav
+Generic impact sounds,2.8,3.6,001287.wav
+Generic impact sounds,14.84,15.48,001287.wav
+Generic impact sounds,35.48,35.72,001287.wav
+Mechanisms,0.2,38.04,001287.wav
+Sink (filling or washing),10.88,12.8,001287.wav
+"Water tap, faucet",5.28,13.68,001287.wav
+"Water tap, faucet",17.44,20.0,001287.wav
+Generic impact sounds,30.36,30.6,001288.wav
+Generic impact sounds,33.32,33.52,001288.wav
+Generic impact sounds,34.84,35.04,001288.wav
+Generic impact sounds,36.12,36.52,001288.wav
+Generic impact sounds,37.24,37.6,001288.wav
+Generic impact sounds,37.84,38.16,001288.wav
+Mechanisms,0.16,38.52,001288.wav
+"Water tap, faucet",2.52,6.96,001288.wav
+"Water tap, faucet",20.0,24.76,001288.wav
+"Water tap, faucet",24.96,25.24,001288.wav
+Mechanisms,0.2,18.96,001289.wav
+"Water tap, faucet",6.12,11.28,001289.wav
+Mechanisms,10.0,32.12,001290.wav
+"Water tap, faucet",10.0,20.0,001290.wav
+"Water tap, faucet",20.84,21.16,001290.wav
+Background noise,10.0,20.0,001291.wav
+Generic impact sounds,5.44,5.64,001291.wav
+Generic impact sounds,7.8,8.04,001291.wav
+Background noise,0.28,16.2,001292.wav
+Generic impact sounds,5.16,5.48,001292.wav
+Generic impact sounds,13.88,15.0,001292.wav
+Surface contact,10.0,10.76,001292.wav
+Surface contact,11.92,12.56,001292.wav
+Computer keyboard,1.72,2.92,001293.wav
+Computer keyboard,3.16,3.92,001293.wav
+Computer keyboard,4.12,5.2,001293.wav
+Computer keyboard,5.72,5.96,001293.wav
+Computer keyboard,11.68,12.28,001293.wav
+Mechanisms,0.2,28.76,001293.wav
+Background noise,0.0,15.32,001320.wav
+Generic impact sounds,4.04,4.28,001320.wav
+Generic impact sounds,4.64,6.0,001320.wav
+Generic impact sounds,6.28,8.0,001320.wav
+Generic impact sounds,8.4,8.6,001320.wav
+Generic impact sounds,9.56,9.8,001320.wav
+Generic impact sounds,10.28,10.52,001321.wav
+Mechanisms,10.0,20.0,001321.wav
+Mechanisms,30.0,34.32,001321.wav
+Mechanisms,0.0,17.04,001322.wav
+Surface contact,0.56,0.76,001322.wav
+Mechanisms,0.0,18.92,001323.wav
+Mechanisms,0.0,24.96,001324.wav
+Background noise,30.0,33.08,001325.wav
+Generic impact sounds,13.6,13.88,001325.wav
+Generic impact sounds,30.76,31.12,001325.wav
+Mechanisms,1.0,3.12,001325.wav
+Mechanisms,3.72,4.72,001325.wav
+Mechanisms,8.88,9.16,001325.wav
+Mechanisms,9.96,20.0,001325.wav
+Generic impact sounds,6.88,7.24,001326.wav
+Mechanisms,0.0,27.36,001326.wav
+Toilet flush,20.0,21.6,001326.wav
+Toilet flush,22.44,27.36,001326.wav
+"Water tap, faucet",8.52,20.0,001326.wav
+Mechanisms,0.0,22.24,001328.wav
+Generic impact sounds,1.72,2.16,001347.wav
+Generic impact sounds,3.0,3.44,001347.wav
+Generic impact sounds,15.04,15.32,001347.wav
+Generic impact sounds,15.6,16.04,001347.wav
+Mechanisms,10.0,26.12,001347.wav
+Sink (filling or washing),10.04,10.4,001347.wav
+Sink (filling or washing),11.68,12.28,001347.wav
+Toilet flush,3.96,5.08,001347.wav
+"Water tap, faucet",6.56,13.12,001347.wav
+"Water tap, faucet",17.12,20.0,001347.wav
+Computer keyboard,10.0,10.48,001348.wav
+Computer keyboard,11.24,11.48,001348.wav
+Computer keyboard,12.64,14.08,001348.wav
+Computer keyboard,15.24,15.6,001348.wav
+Computer keyboard,16.36,18.92,001348.wav
+Computer keyboard,19.28,19.88,001348.wav
+Mechanisms,0.0,20.0,001348.wav
+Mechanisms,10.0,15.56,001349.wav
+Mechanisms,15.6,30.0,001349.wav
+"Water tap, faucet",1.68,1.96,001349.wav
+"Water tap, faucet",2.8,3.6,001349.wav
+Boiling,20.0,23.72,001350.wav
+Boiling,24.12,24.56,001350.wav
+Mechanisms,0.0,20.0,001350.wav
+Mechanisms,20.36,24.36,001350.wav
+Generic impact sounds,0.56,1.12,001351.wav
+Generic impact sounds,1.76,2.72,001351.wav
+Generic impact sounds,2.92,3.12,001351.wav
+Generic impact sounds,6.6,7.52,001351.wav
+Generic impact sounds,7.96,8.16,001351.wav
+Generic impact sounds,10.8,11.08,001351.wav
+Generic impact sounds,11.6,11.8,001351.wav
+Generic impact sounds,12.12,12.56,001351.wav
+Generic impact sounds,20.0,20.4,001351.wav
+Generic impact sounds,24.8,25.4,001351.wav
+Generic impact sounds,26.16,26.44,001351.wav
+Mechanisms,0.0,13.4,001351.wav
+Mechanisms,16.04,16.44,001351.wav
+Mechanisms,18.88,31.32,001351.wav
+Microwave oven,13.24,19.12,001351.wav
+Microwave oven,20.48,24.48,001351.wav
+Doorbell,6.56,7.4,001352.wav
+Doorbell,8.12,9.04,001352.wav
+Doorbell,9.24,9.6,001352.wav
+Generic impact sounds,11.72,13.52,001352.wav
+Generic impact sounds,13.72,14.0,001352.wav
+Generic impact sounds,15.8,16.12,001352.wav
+Generic impact sounds,17.28,17.72,001352.wav
+Generic impact sounds,18.08,18.84,001352.wav
+Mechanisms,0.0,10.0,001352.wav
+Mechanisms,20.4,21.12,001352.wav
+Computer keyboard,0.16,0.44,001353.wav
+Computer keyboard,0.76,2.28,001353.wav
+Computer keyboard,4.52,9.64,001353.wav
+Generic impact sounds,11.24,11.8,001353.wav
+Generic impact sounds,17.68,17.88,001353.wav
+Generic impact sounds,18.08,18.4,001353.wav
+Mechanisms,0.0,12.44,001353.wav
+Mechanisms,14.24,14.6,001353.wav
+Mechanisms,19.28,20.0,001353.wav
+Background noise,1.0,2.84,001354.wav
+Background noise,3.36,3.8,001354.wav
+Background noise,11.12,11.48,001354.wav
+Generic impact sounds,10.0,10.24,001354.wav
+Generic impact sounds,11.44,14.52,001354.wav
+Mechanisms,16.84,18.16,001354.wav
+Background noise,20.0,30.4,001355.wav
+Background noise,30.6,31.28,001355.wav
+Bicycle bell,33.48,34.12,001355.wav
+Generic impact sounds,17.92,18.12,001355.wav
+Generic impact sounds,21.92,22.56,001355.wav
+Generic impact sounds,24.96,25.56,001355.wav
+Generic impact sounds,26.16,26.36,001355.wav
+Generic impact sounds,26.6,26.84,001355.wav
+Generic impact sounds,27.28,27.48,001355.wav
+Generic impact sounds,27.88,28.44,001355.wav
+Generic impact sounds,28.68,29.56,001355.wav
+Mechanisms,0.0,10.0,001355.wav
+Mechanisms,10.32,13.32,001355.wav
+Background noise,0.52,4.8,001356.wav
+Background noise,5.0,8.64,001356.wav
+Background noise,20.08,20.96,001356.wav
+Breathing,0.96,1.24,001356.wav
+Breathing,4.52,4.88,001356.wav
+Breathing,5.16,6.4,001356.wav
+Breathing,6.6,6.96,001356.wav
+Breathing,7.48,7.88,001356.wav
+Breathing,8.12,8.44,001356.wav
+Generic impact sounds,1.44,1.8,001356.wav
+Generic impact sounds,2.0,2.32,001356.wav
+Generic impact sounds,2.84,4.24,001356.wav
+Generic impact sounds,6.92,7.2,001356.wav
+Generic impact sounds,8.48,9.72,001356.wav
+Generic impact sounds,10.8,11.12,001356.wav
+Generic impact sounds,12.32,12.64,001356.wav
+Wind noise (microphone),15.2,15.84,001356.wav
+Generic impact sounds,8.72,8.92,001357.wav
+Mechanisms,1.52,2.64,001357.wav
+Mechanisms,6.04,9.96,001357.wav
+Background noise,0.44,20.0,001358.wav
+Background noise,20.72,20.76,001358.wav
+Background noise,20.96,21.24,001358.wav
+Generic impact sounds,13.96,14.64,001358.wav
+Generic impact sounds,16.52,16.76,001358.wav
+Generic impact sounds,22.28,22.6,001358.wav
+Background noise,0.44,9.96,001359.wav
+Background noise,10.4,10.88,001359.wav
+Background noise,14.48,14.68,001359.wav
+Generic impact sounds,2.64,3.12,001359.wav
+Generic impact sounds,7.4,7.68,001359.wav
+"Water tap, faucet",14.8,17.8,001359.wav
+Background noise,10.0,20.0,001360.wav
+Background noise,10.0,12.2,001361.wav
+Background noise,14.88,20.0,001361.wav
+Mechanisms,20.0,25.0,001361.wav
+Background noise,0.24,32.76,001362.wav
+Breathing,14.92,15.52,001362.wav
+Computer keyboard,8.0,8.36,001362.wav
+Computer keyboard,8.88,9.32,001362.wav
+Computer keyboard,10.12,10.72,001362.wav
+Computer keyboard,12.96,13.6,001362.wav
+Computer keyboard,17.56,18.72,001362.wav
+Cough,15.64,16.44,001362.wav
+Background noise,0.16,1.92,001520.wav
+Background noise,2.12,4.12,001520.wav
+Background noise,4.32,7.64,001520.wav
+Background noise,8.8,9.96,001520.wav
+Background noise,10.8,11.76,001520.wav
+Background noise,16.08,16.8,001520.wav
+Background noise,18.48,18.92,001520.wav
+Background noise,20.6,21.68,001520.wav
+Background noise,21.88,26.8,001520.wav
+Computer keyboard,0.16,1.88,001520.wav
+Computer keyboard,2.12,4.08,001520.wav
+Computer keyboard,4.32,7.56,001520.wav
+Background noise,14.76,15.4,001521.wav
+Background noise,17.04,17.44,001521.wav
+Background noise,20.0,20.28,001521.wav
+Ringtone,20.32,21.52,001521.wav
+"Water tap, faucet",2.0,11.16,001521.wav
+Background noise,4.6,4.84,001522.wav
+Background noise,10.24,10.64,001522.wav
+Toilet flush,4.72,9.96,001522.wav
+Generic impact sounds,10.0,10.52,001523.wav
+Generic impact sounds,14.44,15.24,001523.wav
+Generic impact sounds,18.44,18.72,001523.wav
+Generic impact sounds,19.48,19.96,001523.wav
+Ringtone,3.64,4.44,001523.wav
+Background noise,2.4,9.12,001524.wav
+Background noise,32.2,32.6,001524.wav
+Generic impact sounds,13.12,13.6,001524.wav
+Background noise,11.8,12.16,001525.wav
+Background noise,12.56,17.04,001525.wav
+Computer keyboard,2.96,3.24,001525.wav
+Computer keyboard,5.0,5.2,001525.wav
+Generic impact sounds,30.84,31.16,001525.wav
+Microwave oven,20.0,24.32,001525.wav
+Background noise,0.68,7.24,001526.wav
+Background noise,8.56,9.72,001526.wav
+Background noise,12.08,13.12,001526.wav
+Background noise,13.32,16.4,001526.wav
+Background noise,16.64,24.4,001526.wav
+Background noise,26.16,27.48,001526.wav
+Background noise,15.48,15.96,001527.wav
+Background noise,20.0,25.24,001527.wav
+Sink (filling or washing),2.56,2.6,001527.wav
+Sink (filling or washing),2.68,4.04,001527.wav
+Sink (filling or washing),4.36,5.44,001527.wav
+Sink (filling or washing),7.24,9.68,001527.wav
+"Water tap, faucet",1.0,14.64,001527.wav
+Generic impact sounds,0.52,0.84,001528.wav
+Generic impact sounds,1.16,2.16,001528.wav
+Generic impact sounds,2.92,3.12,001528.wav
+Generic impact sounds,21.84,22.2,001528.wav
+Mechanisms,10.08,20.0,001528.wav
+Background noise,10.0,30.0,001617.wav
+Computer keyboard,30.28,30.72,001617.wav
+Computer keyboard,31.24,31.72,001617.wav
+Computer keyboard,32.04,32.56,001617.wav
+Computer keyboard,33.0,33.36,001617.wav
+Mechanisms,0.0,20.0,001618.wav
+Sink (filling or washing),20.2,23.04,001618.wav
+"Water tap, faucet",20.0,23.28,001618.wav
+Background noise,0.52,2.88,001619.wav
+Background noise,3.16,5.76,001619.wav
+Background noise,6.12,10.0,001619.wav
+Generic impact sounds,25.08,25.32,001619.wav
+Surface contact,22.36,22.84,001619.wav
+Generic impact sounds,2.68,2.92,001620.wav
+Mechanisms,20.0,25.6,001620.wav
+"Water tap, faucet",7.4,12.52,001620.wav
+"Water tap, faucet",13.04,13.8,001620.wav
+Generic impact sounds,26.76,26.96,001621.wav
+Mechanisms,0.16,10.12,001621.wav
+Mechanisms,10.36,29.44,001621.wav
+Mechanisms,10.0,31.24,001622.wav
+Toilet flush,1.6,2.36,001622.wav
+Toilet flush,5.56,7.0,001622.wav
+Background noise,0.0,10.0,001623.wav
+Background noise,14.0,14.56,001623.wav
+Background noise,30.0,34.56,001623.wav
+Computer keyboard,10.0,10.36,001623.wav
+Computer keyboard,10.72,11.24,001623.wav
+Computer keyboard,19.0,20.0,001623.wav
+Background noise,3.84,5.96,001624.wav
+Background noise,10.0,19.32,001624.wav
+Background noise,20.0,25.36,001624.wav
+Generic impact sounds,20.2,22.52,001624.wav
+Generic impact sounds,22.8,23.12,001624.wav
+Generic impact sounds,23.84,24.08,001624.wav
+Surface contact,13.76,14.68,001624.wav
+Generic impact sounds,4.8,5.0,001625.wav
+Music,20.0,24.76,001625.wav
+Sink (filling or washing),1.32,3.64,001625.wav
+Sink (filling or washing),4.08,4.28,001625.wav
+Sink (filling or washing),6.88,9.84,001625.wav
+"Water tap, faucet",1.28,10.4,001625.wav
+"Water tap, faucet",10.92,11.2,001625.wav
+"Water tap, faucet",11.76,11.96,001625.wav
+"Water tap, faucet",12.4,12.64,001625.wav
+"Water tap, faucet",13.28,13.52,001625.wav
+"Water tap, faucet",15.04,15.36,001625.wav
+"Water tap, faucet",15.84,16.24,001625.wav
+"Water tap, faucet",20.0,23.8,001625.wav
+Background noise,0.16,1.88,001626.wav
+Background noise,2.68,7.24,001626.wav
+Background noise,3.32,4.04,001738.wav
+Background noise,4.56,5.12,001738.wav
+Doorbell,2.2,2.48,001738.wav
+Generic impact sounds,3.68,3.88,001738.wav
+Generic impact sounds,6.44,6.64,001739.wav
+Vacuum cleaner,10.0,11.2,001739.wav
+Computer keyboard,0.52,2.96,001740.wav
+Computer keyboard,4.08,5.88,001740.wav
+Computer keyboard,8.48,9.92,001740.wav
+Computer keyboard,20.4,22.4,001740.wav
+Ringtone,11.84,13.32,001740.wav
+Ringtone,13.68,16.52,001740.wav
+Generic impact sounds,5.2,6.12,001742.wav
+Background noise,13.68,15.32,001744.wav
+Background noise,12.56,14.2,001745.wav
+Toilet flush,19.4,21.52,001745.wav
+Background noise,20.0,27.48,001914.wav
+Music,7.96,9.96,001914.wav
+Background noise,0.0,31.72,001915.wav
+Breathing,30.24,30.52,001915.wav
+Background noise,0.0,34.0,001916.wav
+Breathing,24.12,24.88,001916.wav
+Computer keyboard,32.12,32.76,001916.wav
+Background noise,0.68,30.0,001917.wav
+Computer keyboard,4.0,4.52,001917.wav
+Computer keyboard,9.32,9.52,001917.wav
+Background noise,0.0,9.08,001918.wav
+Background noise,10.0,15.0,001918.wav
+Background noise,15.4,18.6,001918.wav
+Background noise,19.24,19.76,001918.wav
+Background noise,19.92,34.56,001918.wav
+Background noise,0.0,10.0,001919.wav
+Background noise,11.6,13.04,001919.wav
+Background noise,13.28,13.64,001919.wav
+Background noise,14.36,15.44,001919.wav
+Background noise,20.0,29.56,001919.wav
+Generic impact sounds,21.4,21.64,001919.wav
+Generic impact sounds,26.16,29.12,001919.wav
+Background noise,30.92,31.64,001920.wav
+Background noise,31.92,32.8,001920.wav
+Wind noise (microphone),10.76,10.96,001920.wav
+Wind noise (microphone),11.28,11.64,001920.wav
+Wind noise (microphone),12.08,12.8,001920.wav
+Wind noise (microphone),13.44,13.68,001920.wav
+Wind noise (microphone),17.32,17.84,001920.wav
+Wind noise (microphone),18.32,18.64,001920.wav
+"Water tap, faucet",20.04,20.56,001921.wav
+"Water tap, faucet",23.32,24.36,001921.wav
+Background noise,20.04,22.36,001922.wav
+Background noise,23.36,26.8,001922.wav
+Ringtone,21.52,22.76,001922.wav
+Ringtone,22.96,25.0,001922.wav
+Mechanisms,30.0,30.84,001923.wav
+Music,24.6,24.92,001923.wav
+Music,27.0,27.64,001923.wav
+Background noise,0.28,9.96,001924.wav
+Computer keyboard,3.88,4.48,001924.wav
+Computer keyboard,4.92,5.16,001924.wav
+Computer keyboard,6.08,7.88,001924.wav
+Computer keyboard,8.36,9.96,001924.wav
+Computer keyboard,11.0,11.52,001924.wav
+Surface contact,3.16,3.4,001924.wav
+Vacuum cleaner,14.04,19.92,001924.wav
+Background noise,0.28,20.0,001925.wav
+Generic impact sounds,8.16,8.4,001925.wav
+Generic impact sounds,8.72,9.76,001925.wav
+Toilet flush,20.0,23.64,001925.wav
+Background noise,0.52,0.72,001926.wav
+Background noise,5.32,5.96,001926.wav
+Breathing,17.04,17.32,001926.wav
+Computer keyboard,14.04,14.28,001926.wav
+Computer keyboard,14.56,17.16,001926.wav
+Computer keyboard,17.36,17.68,001926.wav
+Cough,17.92,18.96,001926.wav
+Ringtone,6.04,7.64,001926.wav
+Ringtone,8.04,9.96,001926.wav
+Background noise,0.28,14.72,001927.wav
+Background noise,0.28,9.92,001928.wav
+Sink (filling or washing),16.6,16.64,001928.wav
+Sink (filling or washing),17.08,17.12,001928.wav
+"Water tap, faucet",11.76,18.44,001928.wav
+Background noise,0.24,5.76,001929.wav
+Background noise,16.52,19.76,001929.wav
+Background noise,20.0,24.76,001929.wav
+"Beep, bleep",3.36,3.6,001929.wav
+Generic impact sounds,2.68,3.16,001929.wav
+Generic impact sounds,16.0,16.56,001929.wav
+Microwave oven,5.72,15.4,001929.wav
+Background noise,0.24,18.04,001930.wav
+Surface contact,8.72,8.96,001930.wav
+Background noise,0.32,9.92,001931.wav
+Generic impact sounds,2.88,3.36,001931.wav
+Generic impact sounds,3.88,4.8,001931.wav
+Generic impact sounds,5.12,6.2,001931.wav
+Generic impact sounds,8.16,8.48,001931.wav
+Mechanisms,11.2,21.92,001931.wav
+Surface contact,7.36,7.68,001931.wav
+Toilet flush,10.88,14.32,001931.wav
+Toilet flush,17.56,19.88,001931.wav
+Background noise,1.08,4.08,001932.wav
+Mechanisms,7.52,9.52,001932.wav
+Mechanisms,10.0,20.0,001932.wav
+Surface contact,0.4,0.76,001932.wav
+"Water tap, faucet",11.12,12.72,001932.wav
+Background noise,0.28,9.96,001933.wav
+Microwave oven,12.68,12.92,001933.wav
+Microwave oven,14.84,15.28,001933.wav
+Microwave oven,16.52,16.64,001933.wav
+Microwave oven,17.6,19.56,001933.wav
+Ringtone,7.88,8.76,001933.wav
+Background noise,0.64,2.72,001962.wav
+Background noise,6.12,6.36,001962.wav
+Mechanisms,11.36,11.6,001962.wav
+Mechanisms,11.96,13.48,001962.wav
+Mechanisms,13.76,14.08,001962.wav
+Mechanisms,14.36,14.68,001962.wav
+Background noise,1.48,1.64,001963.wav
+Background noise,6.28,6.48,001963.wav
+Mechanisms,9.44,9.8,001964.wav
+Toilet flush,1.04,9.0,001964.wav
+"Water tap, faucet",21.96,24.96,001966.wav
+Wind noise (microphone),16.12,16.44,001968.wav
+Wind noise (microphone),16.8,17.24,001968.wav
+Background noise,8.08,9.04,001969.wav
+Background noise,10.0,17.84,001969.wav
+Computer keyboard,0.6,1.68,001969.wav
+Computer keyboard,2.24,3.08,001969.wav
+Computer keyboard,3.92,5.36,001969.wav
+Computer keyboard,5.6,6.24,001969.wav
+Computer keyboard,6.76,8.08,001969.wav
+Computer keyboard,9.2,9.88,001969.wav
+Music,13.96,14.2,001969.wav
+Music,16.76,18.28,001969.wav
+Background noise,31.0,32.08,001990.wav
+Background noise,32.28,32.6,001990.wav
+Background noise,35.92,37.2,001990.wav
+Computer keyboard,3.96,4.2,001990.wav
+Background noise,1.32,9.0,001991.wav
+Background noise,20.0,39.92,001991.wav
+Mechanisms,3.64,11.56,001992.wav
+Mechanisms,12.12,12.2,001992.wav
+Mechanisms,12.28,12.36,001992.wav
+Mechanisms,15.2,20.0,001992.wav
+Background noise,20.6,21.16,001994.wav
+Background noise,21.6,21.92,001994.wav
+Background noise,23.32,29.96,001994.wav
+Mechanisms,10.04,12.04,001994.wav
+Mechanisms,14.0,14.32,001994.wav
+Mechanisms,16.56,17.16,001994.wav
+"Dishes, pots, and pans",5.92,6.16,001995.wav
+"Water tap, faucet",30.0,37.88,001995.wav
+Background noise,0.12,30.04,001996.wav
+"Crumpling, crinkling",20.0,23.52,001996.wav
+"Crumpling, crinkling",29.72,30.0,001996.wav
+"Crumpling, crinkling",31.6,33.8,001996.wav
+"Crumpling, crinkling",34.2,34.72,001996.wav
+Background noise,2.28,2.64,001997.wav
+Computer keyboard,20.2,21.0,001997.wav
+Computer keyboard,27.16,28.04,001997.wav
+Mechanisms,7.32,7.64,001997.wav
+Mechanisms,10.0,19.2,001997.wav
+Mechanisms,19.6,28.64,001997.wav
+Mechanisms,30.44,31.04,001997.wav
+Mechanisms,32.04,32.6,001997.wav
+Mechanisms,35.0,35.56,001997.wav
+Mechanisms,35.88,38.2,001997.wav
+Background noise,10.0,16.32,002008.wav
+Generic impact sounds,6.84,7.08,002008.wav
+Generic impact sounds,8.36,8.68,002008.wav
+Generic impact sounds,9.2,9.76,002008.wav
+Generic impact sounds,10.2,10.52,002008.wav
+Generic impact sounds,10.88,11.28,002008.wav
+Generic impact sounds,14.4,14.92,002008.wav
+"Male speech, man speaking",12.32,12.76,002008.wav
+"Male speech, man speaking",13.24,13.52,002008.wav
+Mechanisms,0.0,9.96,002008.wav
+Wind noise (microphone),11.44,11.76,002008.wav
+Wind noise (microphone),13.36,13.8,002008.wav
+Computer keyboard,10.0,18.2,002009.wav
+Computer keyboard,18.68,20.0,002009.wav
+Mechanisms,0.0,20.0,002009.wav
+Mechanisms,0.0,21.6,002010.wav
+"Walk, footsteps",3.88,4.12,002010.wav
+"Water tap, faucet",14.04,21.04,002010.wav
+Generic impact sounds,8.08,8.52,002011.wav
+Mechanisms,11.08,11.36,002011.wav
+Vacuum cleaner,11.36,34.08,002011.wav
+"Beep, bleep",7.44,7.64,002012.wav
+Computer keyboard,30.28,32.48,002012.wav
+Generic impact sounds,36.92,37.52,002012.wav
+Mechanisms,0.0,20.2,002012.wav
+Mechanisms,21.04,32.92,002012.wav
+Background noise,1.88,3.96,002013.wav
+Background noise,14.32,14.76,002013.wav
+Background noise,14.96,15.52,002013.wav
+Mechanisms,0.12,16.24,002014.wav
+Toilet flush,10.0,14.68,002014.wav
+"Dishes, pots, and pans",26.12,26.36,002015.wav
+Mechanisms,0.0,30.0,002015.wav
+Mechanisms,0.0,10.0,002016.wav
+Vacuum cleaner,10.0,20.0,002016.wav
+Generic impact sounds,2.0,2.36,002017.wav
+Mechanisms,0.0,31.36,002017.wav
+Microwave oven,5.28,6.72,002017.wav
+Microwave oven,7.04,7.32,002017.wav
+Microwave oven,7.64,8.16,002017.wav
+Generic impact sounds,17.92,18.2,002034.wav
+Generic impact sounds,18.68,18.92,002034.wav
+Generic impact sounds,19.6,19.88,002034.wav
+Mechanisms,20.08,25.88,002034.wav
+Surface contact,21.72,22.0,002034.wav
+Mechanisms,0.0,27.28,002035.wav
+Generic impact sounds,17.68,18.16,002036.wav
+Mechanisms,0.12,9.96,002036.wav
+Mechanisms,18.48,26.72,002036.wav
+"Water tap, faucet",7.84,9.8,002036.wav
+"Water tap, faucet",10.08,13.12,002036.wav
+Computer keyboard,1.64,2.32,002037.wav
+Computer keyboard,2.64,3.8,002037.wav
+Computer keyboard,4.08,4.84,002037.wav
+Computer keyboard,5.2,7.12,002037.wav
+Computer keyboard,7.44,7.72,002037.wav
+Computer keyboard,8.0,9.48,002037.wav
+Doorbell,15.92,16.68,002037.wav
+Mechanisms,0.0,20.0,002037.wav
+Mechanisms,30.0,33.0,002037.wav
+Breathing,5.28,5.6,002038.wav
+Generic impact sounds,1.48,1.68,002038.wav
+Generic impact sounds,2.04,2.52,002038.wav
+Generic impact sounds,3.08,4.56,002038.wav
+Generic impact sounds,20.92,21.24,002038.wav
+Generic impact sounds,21.64,21.88,002038.wav
+Generic impact sounds,22.12,22.44,002038.wav
+Mechanisms,0.0,24.04,002038.wav
+Mechanisms,0.0,27.0,002039.wav
+Sliding door,15.6,17.84,002039.wav
+Mechanisms,0.0,24.72,002040.wav
+Telephone bell ringing,19.6,19.88,002040.wav
+Mechanisms,0.12,20.0,002041.wav
+Mechanisms,6.2,6.76,002042.wav
+Mechanisms,10.0,23.24,002042.wav
+Microwave oven,1.96,9.96,002042.wav
+Mechanisms,0.0,34.32,002043.wav
+"Crumpling, crinkling",12.68,15.76,002084.wav
+Mechanisms,6.96,7.48,002084.wav
+Mechanisms,8.88,9.16,002084.wav
+Mechanisms,10.0,18.96,002084.wav
+"Water tap, faucet",1.68,4.56,002085.wav
+"Water tap, faucet",4.92,5.32,002085.wav
+"Water tap, faucet",10.0,23.72,002085.wav
+Background noise,0.28,1.28,002086.wav
+Background noise,1.76,2.08,002086.wav
+Background noise,2.4,2.6,002086.wav
+Background noise,6.6,6.8,002086.wav
+Background noise,7.24,7.48,002086.wav
+Generic impact sounds,9.04,9.44,002086.wav
+Generic impact sounds,19.52,19.56,002086.wav
+Mechanisms,12.04,17.72,002086.wav
+Computer keyboard,3.48,4.56,002087.wav
+Computer keyboard,4.8,5.28,002087.wav
+Computer keyboard,5.48,6.2,002087.wav
+Computer keyboard,6.48,9.0,002087.wav
+Mechanisms,10.0,12.92,002087.wav
+Mechanisms,15.72,16.88,002087.wav
+Mechanisms,19.28,23.32,002087.wav
+Ringtone,12.24,19.96,002087.wav
+Mechanisms,10.0,18.28,002088.wav
+Generic impact sounds,2.32,2.56,002089.wav
+Generic impact sounds,2.96,3.16,002089.wav
+Generic impact sounds,17.28,18.16,002089.wav
+Generic impact sounds,19.12,19.2,002089.wav
+Mechanisms,1.0,1.2,002089.wav
+Mechanisms,1.68,19.2,002089.wav
+"Water tap, faucet",10.0,16.12,002089.wav
+Generic impact sounds,13.08,13.72,002090.wav
+Generic impact sounds,16.4,16.64,002090.wav
+Mechanisms,2.64,16.64,002090.wav
+Surface contact,11.28,11.52,002090.wav
+Background noise,3.4,3.72,002091.wav
+Generic impact sounds,18.0,18.88,002091.wav
+Mechanisms,10.0,18.88,002091.wav
+Surface contact,1.96,2.08,002091.wav
+Surface contact,3.0,3.24,002091.wav
+Toilet flush,3.92,9.96,002091.wav
+Background noise,0.12,10.0,002126.wav
+Background noise,22.8,25.0,002126.wav
+Background noise,26.68,28.36,002126.wav
+Generic impact sounds,3.56,3.76,002126.wav
+Generic impact sounds,4.0,4.24,002126.wav
+Generic impact sounds,7.84,8.24,002126.wav
+Generic impact sounds,9.52,9.72,002126.wav
+Generic impact sounds,23.6,23.96,002126.wav
+Generic impact sounds,26.24,26.96,002126.wav
+Keys jangling,21.2,22.44,002126.wav
+Background noise,11.96,12.32,002127.wav
+Background noise,13.48,13.64,002127.wav
+Background noise,13.76,13.8,002127.wav
+Background noise,14.92,15.72,002127.wav
+Background noise,16.72,18.28,002127.wav
+Background noise,18.52,18.8,002127.wav
+Background noise,19.12,19.44,002127.wav
+Mechanisms,20.0,21.12,002127.wav
+Mechanisms,26.24,26.84,002127.wav
+"Water tap, faucet",21.2,25.6,002127.wav
+Background noise,0.0,10.0,002128.wav
+Generic impact sounds,8.08,8.48,002128.wav
+Generic impact sounds,8.96,9.72,002128.wav
+"Water tap, faucet",11.76,17.32,002128.wav
+Cough,15.16,15.68,002129.wav
+Music,4.88,8.28,002129.wav
+Background noise,0.12,10.0,002130.wav
+Generic impact sounds,28.36,28.96,002130.wav
+Vacuum cleaner,11.96,19.68,002130.wav
+Vacuum cleaner,20.0,27.68,002130.wav
+"Crumpling, crinkling",10.64,10.84,002131.wav
+"Crumpling, crinkling",11.24,14.8,002131.wav
+"Glass chink, clink",25.2,25.68,002131.wav
+Mechanisms,3.08,7.68,002131.wav
+Mechanisms,15.4,17.92,002131.wav
+Mechanisms,20.0,29.68,002131.wav
+Pour,3.36,7.2,002131.wav
+Generic impact sounds,2.12,3.12,002132.wav
+Mechanisms,10.0,20.0,002132.wav
+Microwave oven,5.4,10.0,002132.wav
+Microwave oven,20.0,21.68,002132.wav
+Microwave oven,21.76,21.8,002132.wav
+Microwave oven,22.96,23.32,002132.wav
+Microwave oven,23.4,23.96,002132.wav
+Background noise,0.24,10.0,002133.wav
+"Water tap, faucet",13.68,15.32,002133.wav
+"Water tap, faucet",15.96,17.76,002133.wav
+Background noise,2.84,3.2,002136.wav
+Background noise,5.76,8.12,002136.wav
+Background noise,10.0,14.68,002136.wav
+Background noise,14.96,20.52,002136.wav
+Background noise,22.08,24.92,002136.wav
+Background noise,28.6,30.0,002136.wav
+Background noise,30.76,31.12,002136.wav
+Background noise,2.44,6.0,002137.wav
+Background noise,6.24,7.68,002137.wav
+Background noise,13.24,14.88,002137.wav
+Knock,23.44,24.24,002138.wav
+Mechanisms,10.0,20.0,002139.wav
+Toilet flush,1.44,5.76,002139.wav
+Toilet flush,6.8,7.04,002139.wav
+Toilet flush,7.52,7.84,002139.wav
+Toilet flush,8.8,9.64,002139.wav
+Background noise,10.56,10.84,002140.wav
+Background noise,11.12,11.44,002140.wav
+Background noise,13.24,18.68,002140.wav
+Generic impact sounds,13.32,13.72,002141.wav
+Background noise,14.28,14.64,002142.wav
+Background noise,14.12,15.32,002143.wav
+Background noise,31.08,32.72,002143.wav
+Mechanisms,0.84,20.0,002145.wav
+Mechanisms,30.0,34.2,002145.wav
+Pump (liquid),30.04,33.96,002145.wav
+"Beep, bleep",22.2,22.68,002146.wav
+"Beep, bleep",23.16,23.48,002146.wav
+Mechanisms,10.0,20.0,002146.wav
+Microwave oven,2.6,10.04,002146.wav
+Microwave oven,10.44,10.72,002146.wav
+Microwave oven,19.0,19.84,002146.wav
+Mechanisms,0.48,23.92,002147.wav
+Background noise,0.0,10.0,002148.wav
+Generic impact sounds,9.72,9.92,002148.wav
+Mechanisms,10.0,20.0,002149.wav
+Sink (filling or washing),20.0,22.6,002149.wav
+Toilet flush,0.64,8.0,002149.wav
+"Water tap, faucet",16.24,23.56,002149.wav
+Background noise,0.16,15.24,002150.wav
+Generic impact sounds,5.84,6.4,002150.wav
+Generic impact sounds,6.72,7.12,002150.wav
+Background noise,10.0,16.28,002151.wav
+Generic impact sounds,11.52,12.72,002151.wav
+Generic impact sounds,13.56,13.76,002151.wav
+Generic impact sounds,15.04,15.64,002151.wav
+Generic impact sounds,15.88,16.28,002151.wav
+Background noise,20.0,20.84,002152.wav
+Mechanisms,0.36,2.76,002152.wav
+Mechanisms,3.32,3.56,002152.wav
+Mechanisms,4.08,9.88,002152.wav
+Generic impact sounds,4.68,4.88,002153.wav
+Mechanisms,0.12,19.04,002153.wav
+"Water tap, faucet",7.6,15.24,002153.wav
+Toilet flush,3.76,4.32,002332.wav
+Toilet flush,4.56,4.76,002332.wav
+Mechanisms,10.0,21.56,002334.wav
+Microwave oven,1.88,9.88,002334.wav
+Computer keyboard,2.4,9.88,002335.wav
+Background noise,0.24,1.68,002356.wav
+Generic impact sounds,13.28,13.84,002356.wav
+Generic impact sounds,14.64,14.84,002356.wav
+Generic impact sounds,15.6,15.96,002356.wav
+Generic impact sounds,18.56,18.92,002356.wav
+Generic impact sounds,20.32,20.96,002356.wav
+Generic impact sounds,21.64,21.84,002356.wav
+Mechanisms,10.0,23.24,002356.wav
+"Water tap, faucet",1.96,9.92,002356.wav
+Background noise,0.0,10.0,002357.wav
+Background noise,10.56,16.6,002357.wav
+Background noise,19.88,25.2,002357.wav
+Computer keyboard,1.32,1.48,002357.wav
+Computer keyboard,2.4,5.72,002357.wav
+Computer keyboard,6.0,6.36,002357.wav
+Computer keyboard,6.64,6.92,002357.wav
+Computer keyboard,7.12,9.08,002357.wav
+Computer keyboard,9.32,9.52,002357.wav
+Drawer open or close,21.32,21.52,002357.wav
+Music,18.84,19.16,002357.wav
+Background noise,0.08,23.72,002358.wav
+Background noise,14.96,17.52,002359.wav
+Generic impact sounds,18.4,19.24,002359.wav
+Generic impact sounds,19.72,20.08,002359.wav
+Generic impact sounds,20.2,20.32,002359.wav
+Generic impact sounds,21.0,21.32,002359.wav
+Generic impact sounds,21.48,21.52,002359.wav
+Background noise,0.24,10.0,002360.wav
+Mechanisms,10.0,13.28,002360.wav
+Toilet flush,13.16,18.64,002360.wav
+Background noise,0.24,19.6,002361.wav
+Mechanisms,10.0,20.0,002362.wav
+Background noise,0.0,10.0,002363.wav
+Mechanisms,15.68,21.52,002363.wav
+Background noise,0.0,12.08,002364.wav
+Background noise,14.92,21.6,002364.wav
+Background noise,0.0,20.92,002365.wav
+Computer keyboard,0.84,1.88,002365.wav
+Computer keyboard,2.12,2.64,002365.wav
+Computer keyboard,3.08,6.2,002365.wav
+Computer keyboard,6.4,6.72,002365.wav
+Computer keyboard,6.92,7.6,002365.wav
+Computer keyboard,8.88,9.84,002365.wav
+Computer keyboard,10.36,12.44,002365.wav
+Computer keyboard,13.28,13.52,002365.wav
+Computer keyboard,13.88,15.32,002365.wav
+Computer keyboard,15.6,16.0,002365.wav
+Computer keyboard,16.92,17.12,002365.wav
+Music,16.36,16.92,002365.wav
+Music,17.12,19.72,002365.wav
+Music,20.08,20.36,002365.wav
+Background noise,20.28,24.76,002438.wav
+Generic impact sounds,17.12,17.32,002438.wav
+"Glass chink, clink",20.44,21.36,002438.wav
+"Glass chink, clink",21.6,21.96,002438.wav
+"Glass chink, clink",22.8,23.48,002438.wav
+Background noise,0.0,10.0,002439.wav
+Computer keyboard,10.0,14.64,002439.wav
+Generic impact sounds,6.84,7.32,002439.wav
+Generic impact sounds,7.92,8.32,002439.wav
+Background noise,0.0,10.0,002440.wav
+Background noise,12.0,13.08,002440.wav
+Generic impact sounds,0.0,0.36,002440.wav
+Generic impact sounds,5.36,5.56,002440.wav
+Ringtone,10.04,12.28,002440.wav
+Surface contact,5.68,6.12,002440.wav
+Background noise,0.0,0.28,002441.wav
+Background noise,0.76,1.88,002441.wav
+Background noise,2.2,6.0,002441.wav
+Generic impact sounds,1.0,1.2,002441.wav
+"Water tap, faucet",6.48,9.96,002441.wav
+Background noise,0.96,2.92,002442.wav
+Background noise,3.32,3.6,002442.wav
+Background noise,3.84,5.48,002442.wav
+Background noise,14.8,15.52,002442.wav
+Background noise,15.76,20.0,002442.wav
+Background noise,20.88,21.48,002442.wav
+Generic impact sounds,1.0,1.2,002442.wav
+Generic impact sounds,1.44,1.88,002442.wav
+Toilet flush,6.28,14.96,002442.wav
+Background noise,10.04,16.68,002443.wav
+Background noise,0.0,10.0,002444.wav
+Background noise,17.16,17.36,002444.wav
+Ringtone,9.4,11.4,002444.wav
+Ringtone,15.16,17.16,002444.wav
+Mechanisms,10.0,20.0,002445.wav
+Background noise,0.2,9.92,002564.wav
+Generic impact sounds,1.04,1.32,002564.wav
+Generic impact sounds,2.6,2.8,002564.wav
+Generic impact sounds,3.36,3.56,002564.wav
+Mechanisms,18.24,19.92,002564.wav
+Microwave oven,23.24,23.84,002564.wav
+Microwave oven,24.04,24.92,002564.wav
+Mechanisms,0.16,23.4,002565.wav
+Surface contact,21.6,22.04,002565.wav
+Toilet flush,7.56,9.96,002565.wav
+Toilet flush,12.12,12.36,002565.wav
+Background noise,0.2,20.0,002567.wav
+Generic impact sounds,13.44,13.92,002567.wav
+Generic impact sounds,14.48,14.88,002567.wav
+Background noise,0.24,10.0,002568.wav
+Computer keyboard,15.04,15.6,002568.wav
+Computer keyboard,17.92,18.56,002568.wav
+Computer keyboard,20.0,20.52,002568.wav
+Generic impact sounds,9.68,9.92,002568.wav
+Mechanisms,10.0,21.64,002568.wav
+Surface contact,16.76,17.16,002568.wav
+Background noise,0.2,1.6,002569.wav
+Background noise,2.04,5.2,002569.wav
+Background noise,5.52,5.92,002569.wav
+Background noise,6.16,6.2,002569.wav
+Background noise,6.28,6.36,002569.wav
+Background noise,6.6,6.64,002569.wav
+Generic impact sounds,0.44,0.84,002569.wav
+Toilet flush,1.76,2.2,002569.wav
+Background noise,3.76,9.88,002570.wav
+Background noise,20.0,24.84,002570.wav
+Generic impact sounds,5.4,5.6,002570.wav
+Generic impact sounds,5.8,6.04,002570.wav
+Generic impact sounds,6.32,6.56,002570.wav
+Generic impact sounds,7.76,8.48,002570.wav
+Generic impact sounds,8.72,9.32,002570.wav
+Generic impact sounds,9.68,9.92,002570.wav
+Surface contact,23.84,24.16,002570.wav
+Vacuum cleaner,10.0,20.0,002570.wav
+Background noise,11.32,12.4,002571.wav
+Background noise,16.72,30.0,002571.wav
+Generic impact sounds,19.84,19.96,002571.wav
+Generic impact sounds,31.96,32.32,002571.wav
+Mechanisms,5.04,5.36,002572.wav
+Mechanisms,5.44,5.8,002572.wav
+Mechanisms,6.16,6.28,002572.wav
+Mechanisms,6.32,6.4,002572.wav
+Mechanisms,6.56,6.68,002572.wav
+Generic impact sounds,3.84,4.08,002573.wav
+Mechanisms,30.0,31.76,002573.wav
+Background noise,0.0,9.92,002594.wav
+Background noise,10.68,15.84,002594.wav
+Generic impact sounds,1.76,2.2,002594.wav
+Generic impact sounds,4.68,4.88,002594.wav
+Generic impact sounds,5.16,6.04,002594.wav
+Generic impact sounds,4.24,4.48,002595.wav
+Ringtone,17.68,18.04,002595.wav
+Ringtone,25.84,26.12,002595.wav
+"Water tap, faucet",8.36,9.2,002596.wav
+Generic impact sounds,3.6,3.8,002597.wav
+Generic impact sounds,4.12,4.44,002597.wav
+Background noise,0.0,6.68,002598.wav
+Background noise,10.64,18.44,002598.wav
+Toilet flush,11.24,11.28,002598.wav
+Toilet flush,11.32,11.56,002598.wav
+Toilet flush,17.24,21.96,002598.wav
+Generic impact sounds,1.16,1.44,002599.wav
+Generic impact sounds,1.64,1.84,002599.wav
+Generic impact sounds,4.24,4.6,002599.wav
+Generic impact sounds,4.92,5.2,002599.wav
+Generic impact sounds,5.48,6.2,002599.wav
+Background noise,0.0,15.76,002600.wav
+Generic impact sounds,12.56,14.2,002600.wav
+Ringtone,8.88,9.24,002600.wav
+Background noise,0.0,18.76,002601.wav
+Generic impact sounds,4.6,4.84,002602.wav
+Generic impact sounds,5.16,5.4,002602.wav
+Generic impact sounds,6.16,6.76,002602.wav
+Generic impact sounds,7.36,7.68,002602.wav
+Generic impact sounds,7.88,8.12,002602.wav
+Generic impact sounds,8.4,8.8,002602.wav
+Generic impact sounds,10.0,10.24,002602.wav
+Generic impact sounds,10.52,10.72,002602.wav
+Telephone bell ringing,22.56,23.2,002602.wav
+"Water tap, faucet",12.72,18.16,002602.wav
+Background noise,0.0,20.0,002603.wav
+Computer keyboard,1.4,2.2,002603.wav
+Computer keyboard,3.36,4.08,002603.wav
+Computer keyboard,4.76,5.2,002603.wav
+Computer keyboard,8.64,8.92,002603.wav
+Surface contact,0.12,0.6,002603.wav
+Background noise,0.16,27.72,002614.wav
+Computer keyboard,20.0,21.24,002614.wav
+Computer keyboard,21.52,21.76,002614.wav
+Computer keyboard,21.96,22.88,002614.wav
+Computer keyboard,23.28,25.12,002614.wav
+Computer keyboard,25.44,26.92,002614.wav
+Generic impact sounds,3.0,3.2,002614.wav
+Generic impact sounds,3.52,3.88,002614.wav
+Generic impact sounds,4.6,4.84,002614.wav
+Generic impact sounds,6.24,7.04,002614.wav
+Generic impact sounds,7.36,8.52,002614.wav
+Generic impact sounds,9.0,9.88,002614.wav
+Generic impact sounds,10.24,10.72,002614.wav
+Generic impact sounds,10.96,11.76,002614.wav
+Generic impact sounds,12.24,12.96,002614.wav
+Generic impact sounds,19.28,19.56,002614.wav
+Background noise,10.0,27.36,002615.wav
+Computer keyboard,17.32,17.96,002615.wav
+Computer keyboard,18.32,19.6,002615.wav
+Computer keyboard,20.0,21.2,002615.wav
+Computer keyboard,21.4,21.6,002615.wav
+Computer keyboard,21.8,22.24,002615.wav
+Computer keyboard,22.64,23.08,002615.wav
+Computer keyboard,23.8,24.48,002615.wav
+Computer keyboard,25.72,26.92,002615.wav
+Generic impact sounds,3.32,4.52,002615.wav
+Generic impact sounds,4.8,5.04,002615.wav
+Generic impact sounds,11.88,12.24,002615.wav
+Generic impact sounds,13.44,13.64,002615.wav
+Background noise,0.0,24.84,002616.wav
+Drawer open or close,13.96,14.2,002616.wav
+Drawer open or close,17.44,18.04,002616.wav
+Drawer open or close,18.88,19.64,002616.wav
+Generic impact sounds,23.56,23.76,002616.wav
+Background noise,0.16,16.96,002617.wav
+Generic impact sounds,1.4,2.24,002617.wav
+Generic impact sounds,2.92,3.08,002617.wav
+Wind noise (microphone),14.68,15.24,002617.wav
+Background noise,0.12,21.36,002618.wav
+Generic impact sounds,4.68,5.48,002618.wav
+Generic impact sounds,8.52,9.0,002618.wav
+Background noise,0.24,0.92,002619.wav
+Mechanisms,6.92,9.48,002619.wav
+Mechanisms,10.0,20.0,002619.wav
+Toilet flush,1.16,7.84,002619.wav
+Toilet flush,9.28,10.0,002619.wav
+Background noise,0.12,9.92,002620.wav
+Generic impact sounds,1.28,1.56,002620.wav
+Generic impact sounds,1.76,1.96,002620.wav
+Toilet flush,7.8,14.36,002620.wav
+Toilet flush,14.68,15.28,002620.wav
+Mechanisms,7.48,8.68,002621.wav
+Mechanisms,10.0,16.92,002621.wav
+Mechanisms,10.0,34.56,002622.wav
+Background noise,0.12,10.0,002623.wav
+Mechanisms,20.0,34.8,002623.wav
+Background noise,0.72,1.08,002642.wav
+Background noise,1.24,2.72,002642.wav
+Background noise,20.0,29.6,002642.wav
+"Walk, footsteps",24.2,24.4,002642.wav
+"Walk, footsteps",24.68,26.08,002642.wav
+"Walk, footsteps",26.28,27.36,002642.wav
+"Walk, footsteps",27.68,27.92,002642.wav
+"Walk, footsteps",28.24,28.48,002642.wav
+Background noise,20.0,25.96,002643.wav
+Background noise,20.0,23.12,002644.wav
+Mechanisms,0.2,10.04,002644.wav
+Generic impact sounds,7.84,8.08,002645.wav
+Generic impact sounds,9.24,9.44,002645.wav
+Mechanisms,0.16,10.0,002645.wav
+Mechanisms,21.96,29.92,002645.wav
+Toilet flush,2.32,7.2,002645.wav
+Wind noise (microphone),13.8,16.0,002645.wav
+Wind noise (microphone),17.88,19.8,002645.wav
+Background noise,0.2,8.76,002646.wav
+Background noise,9.2,9.56,002646.wav
+Mechanisms,10.0,20.0,002646.wav
+Microwave oven,8.56,9.28,002646.wav
+Microwave oven,9.48,9.88,002646.wav
+Background noise,20.0,30.0,002647.wav
+Background noise,30.28,31.0,002647.wav
+Mechanisms,0.24,9.96,002647.wav
+Background noise,0.2,9.4,002648.wav
+Background noise,10.88,15.88,002648.wav
+Background noise,16.12,18.0,002648.wav
+Background noise,20.0,26.36,002648.wav
+"Walk, footsteps",1.48,1.76,002648.wav
+"Walk, footsteps",2.24,2.6,002648.wav
+"Walk, footsteps",2.88,3.12,002648.wav
+"Walk, footsteps",3.52,3.88,002648.wav
+"Walk, footsteps",4.2,4.52,002648.wav
+"Walk, footsteps",4.84,5.2,002648.wav
+Mechanisms,20.0,24.36,002649.wav
+Wind noise (microphone),2.12,3.04,002649.wav
+Background noise,0.32,17.96,002700.wav
+Generic impact sounds,2.76,3.0,002700.wav
+Generic impact sounds,3.2,3.8,002700.wav
+Generic impact sounds,4.04,6.2,002700.wav
+Generic impact sounds,6.52,7.32,002700.wav
+Generic impact sounds,7.6,9.24,002700.wav
+Generic impact sounds,9.64,9.88,002700.wav
+Generic impact sounds,13.56,13.76,002700.wav
+Mechanisms,1.12,16.24,002701.wav
+Toilet flush,3.44,9.92,002701.wav
+"Water tap, faucet",10.0,12.16,002701.wav
+Background noise,3.12,7.36,002702.wav
+Background noise,0.16,5.36,002703.wav
+Background noise,14.56,16.44,002703.wav
+Generic impact sounds,2.12,2.4,002703.wav
+Surface contact,14.16,14.4,002703.wav
+"Water tap, faucet",5.44,12.56,002703.wav
+Background noise,0.4,16.76,002704.wav
+Background noise,0.4,9.96,002705.wav
+Computer keyboard,2.12,2.68,002705.wav
+Computer keyboard,13.56,17.24,002705.wav
+Computer keyboard,17.8,18.32,002705.wav
+Mechanisms,11.68,12.16,002705.wav
+Generic impact sounds,16.92,17.0,002706.wav
+Mechanisms,10.0,17.0,002706.wav
+Music,4.52,6.64,002706.wav
+Music,6.76,9.8,002706.wav
+Music,10.8,11.2,002706.wav
+Generic impact sounds,18.12,18.56,002707.wav
+Vacuum cleaner,0.0,10.0,002707.wav
+Mechanisms,10.0,20.0,002708.wav
+Toilet flush,10.0,11.04,002708.wav
+Mechanisms,5.32,7.4,002709.wav
+Mechanisms,10.08,12.0,002709.wav
+Mechanisms,17.68,20.0,002709.wav
+Music,9.52,9.88,002709.wav
+"Water tap, faucet",2.4,3.16,002709.wav
+"Water tap, faucet",10.16,10.6,002709.wav
+"Water tap, faucet",11.0,13.4,002709.wav
+"Water tap, faucet",13.8,14.36,002709.wav
+Generic impact sounds,17.44,17.68,002720.wav
+Mechanisms,10.24,10.6,002720.wav
+Rattle,11.64,11.88,002720.wav
+Rattle,12.08,15.0,002720.wav
+Rattle,15.36,16.28,002720.wav
+Background noise,0.0,15.8,002721.wav
+Background noise,16.44,18.48,002721.wav
+Background noise,18.68,20.0,002721.wav
+Computer keyboard,2.48,3.52,002721.wav
+Computer keyboard,4.36,5.8,002721.wav
+Computer keyboard,6.56,7.44,002721.wav
+Computer keyboard,8.56,9.12,002721.wav
+Computer keyboard,11.64,13.36,002721.wav
+Computer keyboard,14.64,15.6,002721.wav
+Computer keyboard,16.52,17.68,002721.wav
+Computer keyboard,19.84,21.2,002721.wav
+Mechanisms,13.8,14.24,002721.wav
+Mechanisms,15.4,16.64,002721.wav
+Mechanisms,18.44,19.52,002721.wav
+Background noise,0.12,20.0,002722.wav
+Mechanisms,1.36,1.72,002722.wav
+Mechanisms,3.88,5.64,002722.wav
+Mechanisms,0.0,14.8,002723.wav
+Mechanisms,15.36,16.44,002723.wav
+Sliding door,1.88,5.04,002723.wav
+Mechanisms,0.48,20.0,002724.wav
+Mechanisms,20.0,20.92,002725.wav
+Microwave oven,10.0,20.0,002725.wav
+Generic impact sounds,27.8,29.24,002726.wav
+Mechanisms,3.84,4.08,002726.wav
+Mechanisms,5.16,5.6,002726.wav
+Mechanisms,16.32,16.92,002726.wav
+Mechanisms,18.96,19.04,002727.wav
+Mechanisms,19.12,19.2,002727.wav
+Mechanisms,19.28,19.36,002727.wav
+Mechanisms,19.4,19.84,002727.wav
+Background noise,0.44,9.52,002728.wav
+Background noise,10.0,26.04,002728.wav
+Background noise,4.16,9.64,002729.wav
+Generic impact sounds,4.44,4.96,002729.wav
+Generic impact sounds,5.64,5.84,002729.wav
+Generic impact sounds,6.48,6.72,002729.wav
+Generic impact sounds,7.52,8.0,002729.wav
+Generic impact sounds,8.4,8.88,002729.wav
+Generic impact sounds,9.24,9.48,002729.wav
+Toilet flush,0.4,4.16,002729.wav
+Background noise,0.0,10.0,002802.wav
+Background noise,0.0,8.96,002803.wav
+Background noise,11.32,18.36,002803.wav
+Background noise,21.16,22.88,002803.wav
+Breathing,7.48,8.08,002803.wav
+Breathing,12.36,13.16,002803.wav
+Breathing,13.6,14.12,002803.wav
+Breathing,17.36,17.84,002803.wav
+Breathing,22.76,23.16,002803.wav
+Music,8.44,11.44,002803.wav
+Music,18.16,21.52,002803.wav
+Background noise,20.0,22.64,002804.wav
+Bark,5.56,5.96,002804.wav
+Bark,7.08,7.36,002804.wav
+Bark,7.92,8.4,002804.wav
+Bark,10.0,10.4,002804.wav
+Bark,11.76,12.24,002804.wav
+Generic impact sounds,6.56,6.72,002804.wav
+Generic impact sounds,10.48,10.76,002804.wav
+Generic impact sounds,15.32,18.64,002804.wav
+Wind noise (microphone),12.64,13.04,002804.wav
+Background noise,0.0,19.6,002805.wav
+Breathing,18.72,18.92,002805.wav
+Breathing,14.08,14.44,002806.wav
+Generic impact sounds,1.84,2.04,002806.wav
+Generic impact sounds,13.12,14.0,002806.wav
+Generic impact sounds,14.68,14.88,002806.wav
+Generic impact sounds,16.92,17.24,002806.wav
+Mechanisms,1.36,3.72,002806.wav
+Mechanisms,10.0,17.24,002806.wav
+Surface contact,15.52,15.72,002806.wav
+"Water tap, faucet",7.08,7.48,002806.wav
+"Water tap, faucet",8.68,9.12,002806.wav
+"Water tap, faucet",9.16,9.72,002806.wav
+"Water tap, faucet",10.0,11.32,002806.wav
+Vacuum cleaner,1.92,2.96,002807.wav
+Vacuum cleaner,3.52,3.56,002807.wav
+Vacuum cleaner,8.68,8.72,002807.wav
+Vacuum cleaner,10.0,20.0,002807.wav
+Bark,4.92,5.24,002808.wav
+Bark,5.44,6.28,002808.wav
+Bark,6.96,7.32,002808.wav
+Mechanisms,3.72,4.64,002808.wav
+Mechanisms,20.0,31.52,002808.wav
+Generic impact sounds,1.32,1.68,002809.wav
+Generic impact sounds,24.16,24.44,002809.wav
+Generic impact sounds,28.2,28.44,002809.wav
+Mechanisms,0.0,10.0,002809.wav
+Mechanisms,22.0,22.16,002809.wav
+Mechanisms,23.12,23.36,002809.wav
+Mechanisms,23.6,29.44,002809.wav
+Mechanisms,30.0,31.6,002809.wav
+Microwave oven,20.24,21.0,002809.wav
+Microwave oven,21.32,21.52,002809.wav
+Microwave oven,25.12,26.92,002809.wav
+Microwave oven,27.4,27.92,002809.wav
+Microwave oven,28.52,28.76,002809.wav
+Microwave oven,29.0,29.32,002809.wav
+Surface contact,0.8,1.12,002809.wav
+Surface contact,6.32,6.8,002809.wav
+Surface contact,7.36,7.72,002809.wav
+"Beep, bleep",26.88,27.76,002810.wav
+Generic impact sounds,26.52,26.72,002810.wav
+Mechanisms,3.32,4.52,002810.wav
+Mechanisms,5.16,26.44,002810.wav
+Mechanisms,26.8,28.76,002810.wav
+Mechanisms,29.92,30.44,002810.wav
+Mechanisms,30.88,35.48,002810.wav
+Microwave oven,20.0,26.12,002810.wav
+Microwave oven,29.12,30.0,002810.wav
+Mechanisms,0.12,18.2,002811.wav
+Music,13.56,13.8,002811.wav
+Background noise,2.08,5.2,002812.wav
+Background noise,10.56,11.8,002812.wav
+Background noise,12.08,17.72,002812.wav
+Background noise,17.84,19.44,002812.wav
+Generic impact sounds,11.48,11.72,002812.wav
+Background noise,0.16,4.92,002813.wav
+Background noise,5.32,5.6,002813.wav
+Background noise,6.08,8.96,002813.wav
+Generic impact sounds,3.52,3.84,002813.wav
+Toilet flush,6.48,10.0,002813.wav
+"Water tap, faucet",12.0,17.52,002813.wav
+Background noise,0.16,1.52,002814.wav
+Background noise,1.72,2.08,002814.wav
+Background noise,2.44,3.92,002814.wav
+Background noise,4.96,5.68,002814.wav
+Background noise,5.8,9.72,002814.wav
+Computer keyboard,0.2,0.48,002814.wav
+Computer keyboard,0.84,2.12,002814.wav
+Computer keyboard,2.36,2.84,002814.wav
+Computer keyboard,3.32,3.92,002814.wav
+Computer keyboard,4.16,4.48,002814.wav
+Computer keyboard,4.68,5.72,002814.wav
+Background noise,0.32,9.76,002815.wav
+Background noise,10.12,10.56,002815.wav
+Background noise,13.76,17.56,002815.wav
+Generic impact sounds,0.4,0.6,002815.wav
+Generic impact sounds,3.08,3.88,002815.wav
+Generic impact sounds,4.64,4.88,002815.wav
+Generic impact sounds,5.68,5.92,002815.wav
+Generic impact sounds,8.56,9.08,002815.wav
+Generic impact sounds,9.36,9.72,002815.wav
+Generic impact sounds,10.16,11.04,002815.wav
+Generic impact sounds,11.92,12.12,002815.wav
+Generic impact sounds,12.6,12.84,002815.wav
+Background noise,10.2,11.76,002817.wav
+Background noise,0.2,10.0,002818.wav
+Background noise,10.6,16.16,002818.wav
+Background noise,1.84,4.6,002819.wav
+Background noise,6.56,6.96,002819.wav
+Background noise,7.0,7.04,002819.wav
+Background noise,7.68,8.64,002819.wav
+Background noise,20.68,23.76,002819.wav
+Background noise,24.04,25.4,002819.wav
+Background noise,26.04,27.72,002819.wav
+"Water tap, faucet",10.96,18.88,002819.wav
+Mechanisms,0.0,25.0,002820.wav
+"Trickle, dribble",20.64,22.8,002820.wav
+Music,20.0,20.84,002821.wav
+Generic impact sounds,0.52,1.24,002822.wav
+Generic impact sounds,2.76,3.24,002822.wav
+Generic impact sounds,6.4,7.2,002822.wav
+Generic impact sounds,7.44,7.84,002822.wav
+Generic impact sounds,8.08,8.6,002822.wav
+Generic impact sounds,9.68,9.92,002822.wav
+Generic impact sounds,24.04,24.36,002822.wav
+Mechanisms,14.84,16.68,002822.wav
+Mechanisms,17.16,17.4,002822.wav
+Mechanisms,17.8,18.16,002822.wav
+Mechanisms,1.76,8.28,002823.wav
+Mechanisms,10.0,20.0,002823.wav
+Generic impact sounds,20.76,21.04,002824.wav
+Generic impact sounds,21.28,21.48,002824.wav
+Mechanisms,3.8,4.96,002824.wav
+Mechanisms,5.32,9.2,002824.wav
+Mechanisms,10.0,26.12,002824.wav
+Generic impact sounds,1.96,2.92,002825.wav
+Generic impact sounds,6.6,7.52,002825.wav
+Mechanisms,0.16,20.0,002825.wav
+Toilet flush,8.92,10.0,002825.wav
+Mechanisms,2.28,2.84,002826.wav
+Mechanisms,2.92,5.0,002826.wav
+Mechanisms,6.32,7.36,002826.wav
+Mechanisms,10.0,23.84,002826.wav
+Generic impact sounds,21.44,21.84,002827.wav
+Generic impact sounds,22.4,23.12,002827.wav
+Generic impact sounds,23.36,23.92,002827.wav
+Wind noise (microphone),22.12,22.36,002827.wav
+Generic impact sounds,15.96,16.36,002828.wav
+Generic impact sounds,17.64,18.44,002828.wav
+Mechanisms,10.0,15.6,002828.wav
+Mechanisms,15.84,18.56,002828.wav
+Mechanisms,19.2,20.0,002828.wav
+Generic impact sounds,5.8,6.48,002829.wav
+Generic impact sounds,7.08,7.4,002829.wav
+Generic impact sounds,9.08,9.76,002829.wav
+Generic impact sounds,9.96,11.04,002829.wav
+Generic impact sounds,12.16,12.52,002829.wav
+Generic impact sounds,20.68,21.44,002829.wav
+Generic impact sounds,22.48,22.8,002829.wav
+Mechanisms,6.84,9.88,002829.wav
+Mechanisms,11.28,12.2,002829.wav
+Mechanisms,12.92,18.08,002829.wav
+Mechanisms,18.4,19.2,002829.wav
+Mechanisms,19.56,20.0,002829.wav
+Generic impact sounds,8.08,8.28,002831.wav
+Generic impact sounds,8.64,8.96,002831.wav
+Generic impact sounds,9.2,9.44,002831.wav
+Mechanisms,0.16,20.0,002831.wav
+Computer keyboard,7.08,9.96,002852.wav
+Mechanisms,0.16,9.96,002852.wav
+Mechanisms,21.68,25.2,002852.wav
+Mechanisms,0.0,10.0,002853.wav
+Toilet flush,1.2,3.76,002853.wav
+Toilet flush,9.52,9.8,002853.wav
+Background noise,10.0,10.76,002855.wav
+Background noise,11.04,11.4,002855.wav
+Background noise,12.72,20.0,002855.wav
+Cough,9.2,9.84,002855.wav
+Generic impact sounds,6.32,6.68,002855.wav
+Generic impact sounds,7.6,7.88,002855.wav
+Generic impact sounds,8.48,8.76,002855.wav
+Generic impact sounds,11.84,12.6,002855.wav
+Generic impact sounds,18.52,18.72,002855.wav
+Generic impact sounds,19.08,19.52,002855.wav
+Mechanisms,0.0,10.0,002857.wav
+Background noise,0.0,12.24,002858.wav
+Background noise,15.0,20.0,002858.wav
+Generic impact sounds,1.16,1.36,002858.wav
+Generic impact sounds,1.92,2.28,002858.wav
+Generic impact sounds,2.76,3.0,002858.wav
+Generic impact sounds,8.04,8.28,002858.wav
+Mechanisms,0.0,20.0,002859.wav
+"Water tap, faucet",9.16,13.36,002859.wav
+"Dishes, pots, and pans",3.84,4.24,002860.wav
+"Dishes, pots, and pans",6.28,6.6,002860.wav
+"Dishes, pots, and pans",8.76,9.36,002860.wav
+Mechanisms,1.56,1.88,002860.wav
+Mechanisms,2.24,2.28,002860.wav
+Mechanisms,2.32,8.6,002860.wav
+Mechanisms,9.44,9.76,002860.wav
+Computer keyboard,5.36,6.12,002861.wav
+Computer keyboard,7.0,7.64,002861.wav
+Computer keyboard,8.76,9.48,002861.wav
+Mechanisms,0.0,25.68,002861.wav
+Generic impact sounds,5.12,5.48,002872.wav
+Generic impact sounds,7.12,8.12,002872.wav
+Generic impact sounds,11.2,11.4,002872.wav
+Generic impact sounds,11.72,12.36,002872.wav
+Generic impact sounds,27.64,28.28,002872.wav
+Mechanisms,0.16,30.0,002872.wav
+Surface contact,13.16,13.6,002872.wav
+Surface contact,15.64,15.92,002872.wav
+Surface contact,16.24,16.8,002872.wav
+Surface contact,17.04,17.24,002872.wav
+Surface contact,18.68,19.2,002872.wav
+Generic impact sounds,1.4,1.72,002873.wav
+Generic impact sounds,15.84,16.04,002873.wav
+Mechanisms,0.0,19.96,002873.wav
+Toilet flush,2.04,10.0,002873.wav
+Computer keyboard,4.12,4.72,002874.wav
+Computer keyboard,5.24,7.12,002874.wav
+Computer keyboard,7.64,8.4,002874.wav
+Computer keyboard,8.64,10.0,002874.wav
+Mechanisms,0.16,10.0,002874.wav
+Mechanisms,14.28,15.6,002874.wav
+Surface contact,0.84,1.2,002874.wav
+Surface contact,15.92,16.64,002874.wav
+Surface contact,16.96,17.64,002874.wav
+Computer keyboard,6.32,6.6,002875.wav
+Computer keyboard,7.48,7.76,002875.wav
+Computer keyboard,7.96,8.32,002875.wav
+Computer keyboard,8.68,9.0,002875.wav
+Computer keyboard,9.2,9.48,002875.wav
+Mechanisms,0.0,16.04,002875.wav
+Breathing,5.28,5.92,002876.wav
+Cough,6.28,6.92,002876.wav
+Generic impact sounds,1.52,1.88,002876.wav
+Generic impact sounds,2.36,4.76,002876.wav
+Mechanisms,0.24,5.24,002876.wav
+Mechanisms,6.28,8.72,002876.wav
+Mechanisms,10.0,25.96,002876.wav
+Whistling,11.0,12.16,002876.wav
+Background noise,0.36,0.68,002877.wav
+Background noise,1.32,8.84,002877.wav
+Background noise,20.0,23.72,002877.wav
+Generic impact sounds,6.96,7.64,002877.wav
+Mechanisms,10.0,20.0,002877.wav
+Surface contact,4.64,5.6,002877.wav
+Computer keyboard,1.92,2.28,002878.wav
+Computer keyboard,2.72,2.92,002878.wav
+Computer keyboard,9.72,9.92,002878.wav
+Computer keyboard,10.56,10.8,002878.wav
+"Glass chink, clink",20.08,21.48,002878.wav
+Mechanisms,0.28,20.0,002878.wav
+Computer keyboard,12.2,12.44,002879.wav
+Computer keyboard,12.64,13.92,002879.wav
+Computer keyboard,14.4,14.84,002879.wav
+Computer keyboard,15.2,16.16,002879.wav
+Computer keyboard,17.24,17.84,002879.wav
+Computer keyboard,18.12,18.36,002879.wav
+Generic impact sounds,4.44,4.76,002879.wav
+Generic impact sounds,5.04,5.56,002879.wav
+Mechanisms,0.12,20.0,002879.wav
+Surface contact,3.24,3.64,002879.wav
+Surface contact,5.68,5.92,002879.wav
+Surface contact,6.56,7.08,002879.wav
+Surface contact,9.36,11.36,002879.wav
+Surface contact,22.0,22.88,002879.wav
+Surface contact,23.2,23.56,002879.wav
+Mechanisms,4.0,22.28,002880.wav
+Generic impact sounds,1.44,1.76,002881.wav
+Mechanisms,0.28,0.84,002881.wav
+Mechanisms,1.08,25.32,002881.wav
+Background noise,20.6,24.48,002882.wav
+Generic impact sounds,20.64,20.88,002882.wav
+Generic impact sounds,21.28,21.84,002882.wav
+"Water tap, faucet",4.0,9.96,002882.wav
+"Water tap, faucet",13.2,13.24,002882.wav
+Background noise,0.12,20.0,002883.wav
+Mechanisms,20.0,20.96,002883.wav
+Background noise,0.0,19.16,002885.wav
+Computer keyboard,3.84,4.84,002885.wav
+Computer keyboard,5.12,8.68,002885.wav
+Computer keyboard,8.88,9.92,002885.wav
+Background noise,2.36,5.32,002886.wav
+Mechanisms,10.0,22.4,002886.wav
+Toilet flush,4.96,9.92,002886.wav
+"Water tap, faucet",13.08,19.6,002886.wav
+Background noise,3.6,6.12,002887.wav
+Background noise,10.0,18.6,002887.wav
+Background noise,20.0,21.32,002887.wav
+"Walk, footsteps",11.32,11.56,002887.wav
+"Walk, footsteps",12.24,12.44,002887.wav
+Mechanisms,3.64,9.92,002888.wav
+Mechanisms,22.84,23.12,002888.wav
+Mechanisms,10.0,15.6,002889.wav
+Cough,4.36,4.64,003041.wav
+Mechanisms,11.48,12.08,003041.wav
+Mechanisms,12.2,12.24,003041.wav
+Background noise,0.2,15.48,003042.wav
+Generic impact sounds,7.92,9.88,003042.wav
+Telephone bell ringing,4.52,5.72,003042.wav
+Generic impact sounds,5.28,5.56,003043.wav
+Generic impact sounds,9.92,10.2,003043.wav
+"Glass chink, clink",8.52,9.56,003043.wav
+Mechanisms,0.0,16.16,003043.wav
+Microwave oven,11.04,13.8,003043.wav
+Background noise,0.12,8.16,003044.wav
+Background noise,14.0,16.28,003044.wav
+Generic impact sounds,0.8,1.04,003044.wav
+Generic impact sounds,4.04,5.04,003044.wav
+Generic impact sounds,5.44,6.88,003044.wav
+Generic impact sounds,14.68,14.88,003044.wav
+Generic impact sounds,17.44,18.08,003044.wav
+"Water tap, faucet",8.12,11.84,003044.wav
+Mechanisms,0.0,16.16,003045.wav
+Toilet flush,1.64,8.4,003045.wav
+Background noise,0.0,16.56,003046.wav
+Generic impact sounds,10.2,10.76,003046.wav
+Generic impact sounds,12.48,13.28,003046.wav
+Background noise,0.24,1.16,003047.wav
+Background noise,7.44,7.8,003047.wav
+Background noise,10.0,16.76,003047.wav
+Generic impact sounds,11.4,11.6,003047.wav
+Background noise,0.16,0.96,003048.wav
+Background noise,20.36,20.72,003048.wav
+"Crumpling, crinkling",1.12,9.8,003048.wav
+Mechanisms,18.24,19.88,003048.wav
+Background noise,0.12,4.24,003095.wav
+Background noise,5.52,9.68,003095.wav
+Generic impact sounds,6.4,7.08,003095.wav
+Generic impact sounds,7.4,7.8,003095.wav
+Generic impact sounds,9.28,9.92,003095.wav
+Mechanisms,20.4,20.72,003096.wav
+"Walk, footsteps",1.76,1.96,003096.wav
+"Walk, footsteps",2.32,2.56,003096.wav
+"Walk, footsteps",2.92,3.2,003096.wav
+"Walk, footsteps",3.68,3.96,003096.wav
+Wind noise (microphone),8.64,8.88,003096.wav
+Mechanisms,0.12,21.08,003097.wav
+"Water tap, faucet",14.48,18.92,003097.wav
+Mechanisms,0.0,23.12,003098.wav
+Toilet flush,6.76,9.6,003098.wav
+Background noise,0.0,1.68,003099.wav
+Computer keyboard,1.76,5.32,003099.wav
+Computer keyboard,9.28,9.48,003099.wav
+Computer keyboard,14.72,14.96,003099.wav
+Computer keyboard,15.2,17.12,003099.wav
+Vacuum cleaner,20.0,21.4,003100.wav
+Background noise,0.2,2.08,003101.wav
+Background noise,6.0,6.36,003101.wav
+Background noise,6.92,8.68,003101.wav
+Background noise,9.0,9.2,003101.wav
+Background noise,12.04,15.0,003101.wav
+Background noise,0.16,2.52,003102.wav
+Background noise,7.72,8.16,003102.wav
+Background noise,8.4,8.64,003102.wav
+Surface contact,22.16,22.4,003153.wav
+Surface contact,25.8,26.08,003153.wav
+Surface contact,26.6,27.0,003153.wav
+Generic impact sounds,0.92,1.24,003154.wav
+Generic impact sounds,6.48,8.16,003154.wav
+Generic impact sounds,10.2,10.72,003154.wav
+Generic impact sounds,11.12,11.72,003154.wav
+Generic impact sounds,11.96,12.2,003154.wav
+Generic impact sounds,12.48,13.52,003154.wav
+Generic impact sounds,13.96,14.76,003154.wav
+Generic impact sounds,15.08,15.28,003154.wav
+Generic impact sounds,15.76,17.16,003154.wav
+Generic impact sounds,17.44,17.76,003154.wav
+Generic impact sounds,18.24,18.44,003154.wav
+Generic impact sounds,21.0,21.4,003154.wav
+Generic impact sounds,22.44,22.72,003154.wav
+Generic impact sounds,25.96,26.4,003154.wav
+Mechanisms,0.0,10.72,003154.wav
+Mechanisms,12.0,12.24,003154.wav
+Mechanisms,18.8,34.92,003154.wav
+Surface contact,5.4,6.28,003154.wav
+Surface contact,8.4,9.6,003154.wav
+Background noise,0.2,0.8,003155.wav
+Background noise,30.04,33.44,003155.wav
+Generic impact sounds,1.12,1.32,003155.wav
+Generic impact sounds,19.16,19.76,003155.wav
+Generic impact sounds,21.04,21.84,003155.wav
+Generic impact sounds,23.52,25.36,003155.wav
+Surface contact,27.72,28.04,003155.wav
+Generic impact sounds,18.92,19.12,003156.wav
+Mechanisms,0.0,20.0,003156.wav
+Mechanisms,21.6,24.52,003156.wav
+Mechanisms,25.92,26.28,003156.wav
+Background noise,23.16,29.84,003157.wav
+Generic impact sounds,0.8,1.28,003157.wav
+Generic impact sounds,2.08,2.36,003157.wav
+Mechanisms,10.0,20.0,003157.wav
+Surface contact,25.48,25.8,003157.wav
+Surface contact,27.6,28.08,003157.wav
+Surface contact,29.32,29.68,003157.wav
+"Water tap, faucet",5.44,9.92,003157.wav
+"Water tap, faucet",20.0,22.92,003157.wav
+Wind noise (microphone),2.88,3.16,003157.wav
+Wind noise (microphone),30.44,31.44,003157.wav
+Wind noise (microphone),32.28,32.6,003157.wav
+Background noise,29.44,29.72,003158.wav
+Background noise,30.0,34.48,003158.wav
+Background noise,0.0,0.36,003159.wav
+Background noise,2.4,10.0,003159.wav
+Background noise,17.68,18.44,003159.wav
+Background noise,30.0,34.68,003159.wav
+Generic impact sounds,23.76,24.04,003160.wav
+Generic impact sounds,25.32,25.52,003160.wav
+Generic impact sounds,29.64,29.88,003160.wav
+Mechanisms,10.0,32.44,003160.wav
+Surface contact,9.04,9.44,003160.wav
+Surface contact,9.76,10.0,003160.wav
+Background noise,0.0,0.56,003161.wav
+Background noise,1.16,1.44,003161.wav
+Generic impact sounds,0.56,1.0,003161.wav
+Generic impact sounds,6.92,7.12,003161.wav
+Generic impact sounds,9.44,9.72,003161.wav
+Generic impact sounds,10.56,11.44,003161.wav
+Generic impact sounds,25.76,26.04,003161.wav
+Mechanisms,4.72,8.28,003161.wav
+Mechanisms,8.56,35.0,003161.wav
+Generic impact sounds,2.48,2.76,003162.wav
+Generic impact sounds,4.2,4.64,003162.wav
+Generic impact sounds,6.56,6.96,003162.wav
+Generic impact sounds,12.88,13.2,003162.wav
+Generic impact sounds,14.68,15.0,003162.wav
+Mechanisms,0.0,10.0,003162.wav
+Mechanisms,20.0,30.0,003162.wav
+Surface contact,3.64,4.0,003162.wav
+Toilet flush,7.76,10.0,003162.wav
+"Water tap, faucet",18.52,19.88,003162.wav
+"Water tap, faucet",20.12,21.96,003162.wav
+Wind noise (microphone),10.88,11.32,003162.wav
+Wind noise (microphone),12.76,14.2,003162.wav
+Wind noise (microphone),15.92,17.56,003162.wav
+Wind noise (microphone),31.4,32.0,003162.wav
+Background noise,0.12,16.4,003208.wav
+Generic impact sounds,7.16,7.52,003208.wav
+Generic impact sounds,12.76,12.96,003208.wav
+Wind noise (microphone),8.4,9.24,003208.wav
+Background noise,0.0,20.0,003209.wav
+Surface contact,13.36,13.6,003209.wav
+Background noise,0.24,9.8,003210.wav
+Background noise,10.0,30.0,003210.wav
+"Walk, footsteps",17.44,17.64,003210.wav
+Mechanisms,12.32,12.64,003211.wav
+Mechanisms,18.4,19.8,003211.wav
+Mechanisms,20.0,22.72,003211.wav
+Background noise,0.0,10.0,003212.wav
+Background noise,17.72,20.24,003212.wav
+Background noise,20.64,30.0,003212.wav
+Background noise,30.88,32.0,003212.wav
+Generic impact sounds,18.0,18.28,003212.wav
+Generic impact sounds,30.6,31.0,003212.wav
+Background noise,0.0,16.2,003213.wav
+Background noise,0.0,24.84,003214.wav
+Background noise,0.0,22.36,003215.wav
+Breathing,20.08,20.48,003215.wav
+Wind noise (microphone),9.36,9.64,003215.wav
+Mechanisms,10.0,20.0,003290.wav
+Mechanisms,22.72,23.04,003290.wav
+Sink (filling or washing),14.08,22.28,003290.wav
+Toilet flush,2.32,9.96,003290.wav
+"Water tap, faucet",13.96,22.6,003290.wav
+Drawer open or close,5.32,5.64,003291.wav
+Mechanisms,10.0,16.4,003291.wav
+Mechanisms,0.0,10.0,003292.wav
+"Water tap, faucet",10.0,16.84,003292.wav
+Background noise,0.0,10.0,003293.wav
+Computer keyboard,10.96,14.92,003293.wav
+Computer keyboard,15.32,15.6,003293.wav
+Computer keyboard,15.96,17.72,003293.wav
+Computer keyboard,18.32,21.04,003293.wav
+Generic impact sounds,2.56,2.8,003293.wav
+Generic impact sounds,7.28,7.6,003293.wav
+Mechanisms,10.0,20.0,003293.wav
+Vacuum cleaner,0.88,18.36,003294.wav
+Generic impact sounds,7.2,7.48,003295.wav
+Generic impact sounds,8.0,8.68,003295.wav
+Generic impact sounds,10.0,12.24,003295.wav
+Generic impact sounds,13.08,13.44,003295.wav
+Generic impact sounds,13.96,14.16,003295.wav
+Generic impact sounds,16.04,16.44,003295.wav
+Generic impact sounds,16.76,18.84,003295.wav
+Keys jangling,14.24,15.52,003295.wav
+Keys jangling,15.96,16.36,003295.wav
+Mechanisms,0.12,10.0,003295.wav
+Mechanisms,10.48,11.96,003295.wav
+Mechanisms,13.08,19.04,003295.wav
+Generic impact sounds,0.72,1.08,003296.wav
+Mechanisms,0.0,19.0,003296.wav
+Mechanisms,0.0,18.52,003297.wav
+Mechanisms,0.0,28.88,003298.wav
+"Water tap, faucet",20.0,22.08,003298.wav
+"Water tap, faucet",23.8,25.24,003298.wav
+Mechanisms,20.16,20.8,003299.wav
+Music,20.0,20.2,003299.wav
+Toilet flush,11.6,19.0,003299.wav
+Background noise,20.0,21.24,003341.wav
+Background noise,21.6,23.32,003341.wav
+Generic impact sounds,12.24,12.48,003341.wav
+Generic impact sounds,13.64,14.64,003341.wav
+Generic impact sounds,15.36,16.04,003341.wav
+Mechanisms,10.32,19.56,003341.wav
+"Walk, footsteps",4.4,4.64,003342.wav
+"Walk, footsteps",5.04,5.28,003342.wav
+"Walk, footsteps",5.64,5.88,003342.wav
+"Walk, footsteps",6.2,6.44,003342.wav
+"Walk, footsteps",6.8,7.68,003342.wav
+"Walk, footsteps",8.08,8.36,003342.wav
+"Walk, footsteps",8.64,8.96,003342.wav
+Wind noise (microphone),4.68,4.88,003342.wav
+Wind noise (microphone),5.8,6.88,003342.wav
+Wind noise (microphone),7.08,7.52,003342.wav
+Wind noise (microphone),7.92,8.64,003342.wav
+Wind noise (microphone),9.12,9.6,003342.wav
+Background noise,11.88,12.16,003343.wav
+Computer keyboard,4.52,4.88,003343.wav
+Generic impact sounds,22.64,22.68,003343.wav
+"Walk, footsteps",16.32,16.52,003343.wav
+"Walk, footsteps",17.6,17.8,003343.wav
+"Walk, footsteps",18.76,18.96,003343.wav
+Mechanisms,10.0,27.8,003344.wav
+Sink (filling or washing),21.92,22.24,003344.wav
+Toilet flush,13.36,20.0,003344.wav
+"Water tap, faucet",20.32,27.6,003344.wav
+Mechanisms,4.24,5.4,003345.wav
+Mechanisms,5.76,25.4,003345.wav
+Microwave oven,5.4,6.52,003345.wav
+Computer keyboard,0.88,2.88,003346.wav
+Computer keyboard,3.08,6.24,003346.wav
+Computer keyboard,6.8,9.84,003346.wav
+Snoring,22.16,22.48,003346.wav
+Mechanisms,0.12,10.0,003347.wav
+Music,10.44,10.84,003347.wav
+Music,11.04,11.64,003347.wav
+Music,12.08,18.6,003347.wav
+Music,19.08,19.4,003347.wav
+Ringtone,2.88,9.96,003347.wav
+Generic impact sounds,8.52,8.88,003348.wav
+Generic impact sounds,9.16,9.48,003348.wav
+Generic impact sounds,9.72,9.92,003348.wav
+Ringtone,15.48,16.64,003348.wav
+Background noise,7.72,8.44,003349.wav
+Background noise,10.0,20.0,003349.wav
+Generic impact sounds,0.52,0.76,003349.wav
+Generic impact sounds,1.0,1.36,003349.wav
+Generic impact sounds,1.68,1.92,003349.wav
+Generic impact sounds,2.12,2.48,003349.wav
+Generic impact sounds,3.2,3.48,003349.wav
+Generic impact sounds,10.8,11.0,003349.wav
+Generic impact sounds,11.44,11.68,003349.wav
+Generic impact sounds,15.96,16.44,003349.wav
+Surface contact,7.04,7.24,003349.wav
+Surface contact,14.84,15.04,003349.wav
+Generic impact sounds,3.36,3.64,003350.wav
+Mechanisms,0.0,20.0,003350.wav
+Mechanisms,20.32,20.8,003350.wav
+Mechanisms,22.2,25.04,003350.wav
+Mechanisms,25.24,29.96,003350.wav
+Music,30.0,31.48,003350.wav
+Toilet flush,0.16,3.04,003350.wav
+"Water tap, faucet",13.56,16.48,003350.wav
+Background noise,3.92,16.92,003351.wav
+Background noise,18.12,19.6,003351.wav
+Background noise,20.0,28.28,003351.wav
+Generic impact sounds,5.52,6.04,003351.wav
+Generic impact sounds,7.64,7.84,003351.wav
+Generic impact sounds,9.32,9.92,003351.wav
+Generic impact sounds,21.52,21.8,003351.wav
+Generic impact sounds,22.4,24.32,003351.wav
+Generic impact sounds,24.52,25.0,003351.wav
+Generic impact sounds,25.28,26.84,003351.wav
+Background noise,20.0,27.8,003352.wav
+Doorbell,21.36,21.76,003352.wav
+Doorbell,22.24,22.48,003352.wav
+Doorbell,23.0,23.32,003352.wav
+Generic impact sounds,24.76,24.96,003352.wav
+Generic impact sounds,25.2,26.2,003352.wav
+Vacuum cleaner,0.0,10.0,003352.wav
+Background noise,0.0,10.0,003353.wav
+Computer keyboard,15.8,16.36,003353.wav
+Computer keyboard,16.68,17.24,003353.wav
+Computer keyboard,17.72,18.48,003353.wav
+"Female speech, woman speaking",11.36,12.4,003353.wav
+Generic impact sounds,0.48,0.68,003353.wav
+Generic impact sounds,1.0,1.36,003353.wav
+Generic impact sounds,2.84,3.8,003353.wav
+Generic impact sounds,4.2,4.52,003353.wav
+Generic impact sounds,8.96,9.32,003353.wav
+Mechanisms,10.56,14.28,003353.wav
+"Beep, bleep",6.04,6.36,003354.wav
+"Beep, bleep",6.96,7.6,003354.wav
+"Beep, bleep",8.44,8.76,003354.wav
+Generic impact sounds,0.6,1.16,003354.wav
+Generic impact sounds,2.2,2.48,003354.wav
+Mechanisms,10.0,28.24,003354.wav
+Microwave oven,5.6,5.92,003354.wav
+Microwave oven,8.48,10.0,003354.wav
+Computer keyboard,18.36,18.64,003355.wav
+Generic impact sounds,2.32,3.0,003355.wav
+Mechanisms,0.0,29.88,003355.wav
+Surface contact,7.24,7.72,003355.wav
+Surface contact,8.0,9.68,003355.wav
+"Beep, bleep",13.04,13.28,003356.wav
+"Beep, bleep",14.04,14.24,003356.wav
+Generic impact sounds,30.08,30.4,003356.wav
+Generic impact sounds,31.16,31.36,003356.wav
+Generic impact sounds,31.56,31.8,003356.wav
+Mechanisms,10.0,15.16,003356.wav
+Mechanisms,20.0,33.96,003356.wav
+Microwave oven,2.28,7.64,003356.wav
+Microwave oven,7.92,9.96,003356.wav
+Mechanisms,0.24,5.56,003357.wav
+Mechanisms,5.68,6.4,003357.wav
+Mechanisms,7.44,8.0,003357.wav
+Mechanisms,8.2,20.0,003357.wav
+Background noise,0.0,2.12,003388.wav
+Background noise,10.0,20.0,003388.wav
+Generic impact sounds,0.52,0.72,003388.wav
+Generic impact sounds,1.6,1.96,003388.wav
+Generic impact sounds,25.92,26.32,003388.wav
+Generic impact sounds,30.2,30.6,003389.wav
+Mechanisms,30.0,33.28,003389.wav
+Background noise,30.0,33.48,003390.wav
+Mechanisms,10.72,11.76,003390.wav
+Microwave oven,20.72,21.16,003390.wav
+Microwave oven,25.28,25.48,003390.wav
+Microwave oven,26.32,27.48,003390.wav
+Microwave oven,29.28,29.52,003390.wav
+Background noise,0.0,28.16,003391.wav
+Background noise,10.0,27.92,003392.wav
+Generic impact sounds,11.16,11.8,003392.wav
+Generic impact sounds,15.2,16.36,003392.wav
+Generic impact sounds,16.88,17.24,003392.wav
+Background noise,0.0,6.32,003393.wav
+Generic impact sounds,4.52,4.84,003393.wav
+Generic impact sounds,5.72,6.24,003393.wav
+Surface contact,3.28,4.04,003393.wav
+Vacuum cleaner,6.6,9.92,003393.wav
+Vacuum cleaner,20.0,25.0,003393.wav
+Background noise,0.0,10.0,003394.wav
+Toilet flush,14.08,17.36,003394.wav
+Background noise,0.32,2.28,003395.wav
+Background noise,13.2,15.4,003395.wav
+"Beep, bleep",9.04,9.52,003396.wav
+"Beep, bleep",13.12,13.32,003396.wav
+"Beep, bleep",14.92,15.24,003396.wav
+Mechanisms,20.0,21.32,003396.wav
+Microwave oven,1.08,10.56,003396.wav
+Microwave oven,11.84,12.28,003396.wav
+Microwave oven,13.52,13.92,003396.wav
+Microwave oven,14.32,19.96,003396.wav
+Mechanisms,10.0,20.0,003397.wav
+Toilet flush,16.32,19.64,003397.wav
+Vacuum cleaner,2.92,9.96,003397.wav
+Background noise,0.16,16.32,003398.wav
+Background noise,18.36,20.0,003398.wav
+Generic impact sounds,4.84,5.12,003398.wav
+Generic impact sounds,5.8,6.68,003398.wav
+Generic impact sounds,7.72,8.0,003398.wav
+Surface contact,1.6,2.12,003398.wav
+Surface contact,9.08,9.84,003398.wav
+Background noise,0.12,2.24,003399.wav
+"Dishes, pots, and pans",18.12,18.6,003399.wav
+Generic impact sounds,1.72,1.92,003399.wav
+Mechanisms,10.0,36.32,003399.wav
+Toilet flush,2.2,10.0,003399.wav
+"Water tap, faucet",20.08,20.4,003399.wav
+"Water tap, faucet",22.92,23.56,003399.wav
+Background noise,0.0,18.04,003400.wav
+Generic impact sounds,9.64,9.96,003400.wav
+Surface contact,2.56,2.8,003400.wav
+Surface contact,6.92,7.32,003400.wav
+Background noise,0.0,16.52,003401.wav
+Background noise,16.96,17.24,003401.wav
+Computer keyboard,1.24,1.44,003401.wav
+Computer keyboard,2.28,3.52,003401.wav
+Computer keyboard,5.12,6.44,003401.wav
+Computer keyboard,6.8,8.6,003401.wav
+Computer keyboard,8.8,9.88,003401.wav
+Computer keyboard,10.08,10.68,003401.wav
+Background noise,0.0,10.0,003402.wav
+"Walk, footsteps",1.12,1.36,003402.wav
+"Walk, footsteps",1.6,1.84,003402.wav
+"Walk, footsteps",5.0,5.44,003402.wav
+"Walk, footsteps",5.84,6.12,003402.wav
+"Walk, footsteps",6.32,7.8,003402.wav
+"Walk, footsteps",8.08,9.28,003402.wav
+"Walk, footsteps",9.6,9.88,003402.wav
+Background noise,0.36,5.0,003403.wav
+Background noise,5.48,9.8,003403.wav
+Generic impact sounds,3.76,4.0,003404.wav
+Vacuum cleaner,4.56,9.88,003404.wav
+Background noise,6.32,6.64,003405.wav
+Generic impact sounds,5.44,6.0,003405.wav
+Mechanisms,3.32,5.32,003405.wav
+Mechanisms,10.0,28.0,003405.wav
+"Water tap, faucet",14.24,22.0,003405.wav
+Drawer open or close,5.32,5.68,003424.wav
+Generic impact sounds,3.4,3.56,003424.wav
+Mechanisms,0.0,18.84,003424.wav
+Mechanisms,10.0,18.72,003425.wav
+"Walk, footsteps",13.68,13.96,003425.wav
+"Walk, footsteps",14.28,14.6,003425.wav
+"Walk, footsteps",14.8,15.08,003425.wav
+"Walk, footsteps",15.48,15.68,003425.wav
+"Walk, footsteps",16.04,16.32,003425.wav
+"Walk, footsteps",16.6,17.48,003425.wav
+"Walk, footsteps",17.8,18.04,003425.wav
+Background noise,0.0,10.0,003426.wav
+Generic impact sounds,19.28,19.72,003426.wav
+Surface contact,5.8,6.12,003426.wav
+Surface contact,10.24,10.76,003426.wav
+"Walk, footsteps",2.08,2.32,003426.wav
+"Walk, footsteps",2.76,2.96,003426.wav
+"Walk, footsteps",3.28,3.6,003426.wav
+Microwave oven,20.0,26.16,003427.wav
+Sink (filling or washing),20.24,24.44,003428.wav
+"Water tap, faucet",1.56,1.8,003428.wav
+"Water tap, faucet",2.6,6.48,003428.wav
+"Water tap, faucet",20.0,25.08,003428.wav
+Background noise,0.12,10.0,003429.wav
+Background noise,11.44,19.92,003429.wav
+Generic impact sounds,6.48,8.8,003429.wav
+Generic impact sounds,9.04,11.16,003429.wav
+Generic impact sounds,11.36,11.64,003429.wav
+Generic impact sounds,11.96,12.2,003429.wav
+Generic impact sounds,15.4,15.72,003429.wav
+"Walk, footsteps",1.32,1.56,003429.wav
+"Walk, footsteps",1.92,2.2,003429.wav
+"Walk, footsteps",2.48,2.88,003429.wav
+"Walk, footsteps",3.08,5.2,003429.wav
+"Walk, footsteps",5.48,5.76,003429.wav
+"Walk, footsteps",14.08,14.44,003429.wav
+"Walk, footsteps",18.56,19.16,003429.wav
+"Walk, footsteps",19.36,19.64,003429.wav
+Background noise,0.0,20.0,003430.wav
+"Beep, bleep",20.0,21.32,003476.wav
+Mechanisms,0.4,1.32,003476.wav
+Mechanisms,20.0,23.92,003476.wav
+Microwave oven,3.28,10.0,003476.wav
+Microwave oven,12.24,15.28,003476.wav
+Microwave oven,15.8,18.72,003476.wav
+Generic impact sounds,26.68,26.92,003477.wav
+Generic impact sounds,27.76,27.96,003477.wav
+Generic impact sounds,32.96,33.72,003477.wav
+Mechanisms,0.0,35.96,003477.wav
+Toilet flush,2.48,7.84,003477.wav
+Background noise,10.0,16.08,003478.wav
+Generic impact sounds,12.76,14.32,003478.wav
+Background noise,0.0,10.0,003479.wav
+Generic impact sounds,3.4,4.12,003479.wav
+Generic impact sounds,7.24,7.44,003479.wav
+Generic impact sounds,9.44,9.92,003479.wav
+Surface contact,6.92,7.2,003479.wav
+Surface contact,7.68,7.88,003479.wav
+Wind,10.44,14.16,003479.wav
+Wind,15.28,15.44,003479.wav
+"Dishes, pots, and pans",20.92,21.48,003480.wav
+Mechanisms,0.0,26.2,003480.wav
+Mechanisms,10.0,20.0,003481.wav
+Background noise,2.4,4.32,003482.wav
+Background noise,4.72,5.08,003482.wav
+Background noise,0.16,7.16,003483.wav
+Cough,5.48,6.24,003483.wav
+Music,23.8,24.64,003483.wav
+Music,28.84,29.52,003483.wav
+Vacuum cleaner,7.12,9.96,003483.wav
+Generic impact sounds,0.48,0.84,003512.wav
+Mechanisms,0.0,25.48,003512.wav
+Microwave oven,20.08,20.36,003512.wav
+Doorbell,1.44,2.04,003513.wav
+Mechanisms,2.96,3.28,003513.wav
+"Walk, footsteps",8.36,8.56,003513.wav
+"Walk, footsteps",8.92,9.16,003513.wav
+"Walk, footsteps",9.6,9.8,003513.wav
+Music,13.4,21.68,003514.wav
+Ringtone,20.0,21.68,003514.wav
+Sink (filling or washing),10.44,12.8,003515.wav
+"Water tap, faucet",10.0,13.32,003515.wav
+Generic impact sounds,3.36,3.68,003516.wav
+Generic impact sounds,7.16,7.48,003516.wav
+Keys jangling,3.92,4.2,003516.wav
+Keys jangling,9.72,9.92,003516.wav
+Mechanisms,10.0,16.92,003516.wav
+Generic impact sounds,10.4,10.96,003517.wav
+Generic impact sounds,14.32,14.52,003517.wav
+Mechanisms,0.0,20.0,003517.wav
+Toilet flush,15.2,19.92,003517.wav
+"Water tap, faucet",20.0,21.84,003517.wav
+Vacuum cleaner,20.0,23.64,003518.wav
+Background noise,0.0,10.0,003519.wav
+Generic impact sounds,16.36,16.56,003519.wav
+"Walk, footsteps",10.56,10.8,003519.wav
+Wind noise (microphone),14.04,14.24,003519.wav
+Wind noise (microphone),15.84,16.12,003519.wav
+Breathing,15.28,15.88,003520.wav
+Breathing,16.32,16.68,003520.wav
+Generic impact sounds,16.8,17.12,003520.wav
+Mechanisms,0.8,6.92,003520.wav
+Mechanisms,10.0,13.8,003520.wav
+Mechanisms,17.08,18.44,003520.wav
+Generic impact sounds,7.48,8.24,003521.wav
+Generic impact sounds,9.08,9.32,003521.wav
+Generic impact sounds,13.92,14.52,003521.wav
+Background noise,0.0,16.68,003522.wav
+Generic impact sounds,4.92,5.96,003522.wav
+Generic impact sounds,6.24,6.44,003522.wav
+Generic impact sounds,6.64,7.04,003522.wav
+Generic impact sounds,7.44,7.8,003522.wav
+Generic impact sounds,8.24,8.68,003522.wav
+Generic impact sounds,9.08,9.32,003522.wav
+Generic impact sounds,16.0,16.12,003522.wav
+Generic impact sounds,8.12,9.28,003523.wav
+Generic impact sounds,9.48,9.96,003523.wav
+Generic impact sounds,10.96,12.56,003523.wav
+Generic impact sounds,12.76,13.36,003523.wav
+Generic impact sounds,14.76,15.16,003523.wav
+Mechanisms,0.56,2.4,003523.wav
+Mechanisms,2.6,7.8,003523.wav
+Background noise,0.16,1.84,003525.wav
+Background noise,3.8,6.32,003525.wav
+Background noise,14.04,14.52,003525.wav
+Background noise,13.04,17.4,003526.wav
+Generic impact sounds,10.84,11.04,003526.wav
+Mechanisms,9.48,9.8,003528.wav
+Telephone bell ringing,6.88,9.88,003528.wav
+Telephone bell ringing,10.12,10.64,003528.wav
+Telephone bell ringing,12.08,15.2,003528.wav
+Telephone bell ringing,0.96,1.68,003529.wav
+Telephone bell ringing,2.56,3.0,003529.wav
+Telephone bell ringing,6.08,8.88,003529.wav
+Telephone bell ringing,12.56,14.44,003529.wav
+Background noise,7.88,9.8,003660.wav
+Mechanisms,22.28,27.92,003660.wav
+"Walk, footsteps",5.68,5.92,003660.wav
+"Walk, footsteps",6.4,6.64,003660.wav
+"Walk, footsteps",7.04,7.24,003660.wav
+Background noise,0.0,10.0,003661.wav
+Computer keyboard,0.6,4.0,003661.wav
+Computer keyboard,4.2,6.4,003661.wav
+Computer keyboard,12.4,12.76,003661.wav
+Computer keyboard,13.16,14.52,003661.wav
+Computer keyboard,15.56,16.32,003661.wav
+Computer keyboard,17.16,17.4,003661.wav
+Ringtone,20.0,22.64,003661.wav
+Generic impact sounds,29.52,29.72,003662.wav
+Mechanisms,0.2,9.76,003662.wav
+Mechanisms,10.0,30.0,003662.wav
+Toilet flush,20.0,25.48,003662.wav
+Toilet flush,25.84,28.6,003662.wav
+Background noise,0.84,2.44,003664.wav
+Background noise,2.72,20.0,003664.wav
+Generic impact sounds,10.24,10.52,003664.wav
+Generic impact sounds,11.16,11.64,003664.wav
+Generic impact sounds,13.76,14.04,003664.wav
+Generic impact sounds,14.64,15.12,003664.wav
+Generic impact sounds,15.96,16.2,003664.wav
+Generic impact sounds,16.92,17.16,003664.wav
+Generic impact sounds,21.24,24.24,003664.wav
+Generic impact sounds,24.44,25.0,003664.wav
+Telephone bell ringing,0.84,1.84,003664.wav
+Telephone bell ringing,4.12,5.36,003664.wav
+Generic impact sounds,16.12,16.84,003665.wav
+Mechanisms,0.0,20.0,003665.wav
+Sink (filling or washing),10.92,10.96,003665.wav
+Vacuum cleaner,24.2,25.2,003665.wav
+Vacuum cleaner,25.28,25.68,003665.wav
+"Water tap, faucet",10.0,13.0,003665.wav
+Background noise,0.96,1.16,003666.wav
+Background noise,1.44,2.6,003666.wav
+Background noise,2.8,7.88,003666.wav
+Background noise,8.16,8.56,003666.wav
+Background noise,8.8,9.92,003666.wav
+Background noise,11.88,16.0,003666.wav
+Background noise,16.6,17.24,003666.wav
+"Beep, bleep",20.0,20.2,003666.wav
+"Beep, bleep",20.72,21.0,003666.wav
+"Beep, bleep",21.52,21.84,003666.wav
+"Beep, bleep",22.92,23.2,003666.wav
+Background noise,0.16,11.0,003667.wav
+Background noise,13.84,14.4,003667.wav
+Background noise,15.72,15.88,003667.wav
+Background noise,16.64,17.24,003667.wav
+Background noise,19.2,19.48,003667.wav
+Background noise,20.04,24.6,003667.wav
+Generic impact sounds,3.96,4.6,003667.wav
+Generic impact sounds,11.76,11.96,003667.wav
+Generic impact sounds,14.0,14.24,003667.wav
+Generic impact sounds,15.72,16.12,003667.wav
+Generic impact sounds,16.76,17.0,003667.wav
+Background noise,1.32,9.04,003819.wav
+Background noise,11.44,12.68,003819.wav
+Background noise,14.76,16.76,003819.wav
+Background noise,10.12,11.04,003820.wav
+Background noise,0.0,10.6,003821.wav
+Background noise,11.4,16.64,003821.wav
+Background noise,17.52,20.0,003821.wav
+Generic impact sounds,15.8,16.2,003821.wav
+Generic impact sounds,18.48,18.76,003821.wav
+Wind noise (microphone),1.48,1.96,003821.wav
+Background noise,10.44,11.16,003822.wav
+"Water tap, faucet",8.28,8.44,003822.wav
+"Water tap, faucet",9.28,9.8,003822.wav
+Mechanisms,10.0,17.8,003823.wav
+Microwave oven,7.68,9.64,003823.wav
+Microwave oven,10.72,12.4,003823.wav
+Microwave oven,12.84,13.24,003823.wav
+Microwave oven,17.04,17.4,003823.wav
+Background noise,13.16,13.2,003824.wav
+Breathing,13.08,13.56,003824.wav
+Computer keyboard,20.0,20.6,003824.wav
+Mechanisms,1.16,9.84,003846.wav
+"Walk, footsteps",3.44,3.68,003846.wav
+"Walk, footsteps",4.04,4.32,003846.wav
+"Walk, footsteps",4.76,5.08,003846.wav
+"Walk, footsteps",5.36,5.68,003846.wav
+"Walk, footsteps",6.28,6.52,003846.wav
+"Walk, footsteps",6.96,7.28,003846.wav
+"Walk, footsteps",7.72,7.96,003846.wav
+"Walk, footsteps",10.84,11.84,003846.wav
+"Walk, footsteps",12.2,12.6,003846.wav
+"Walk, footsteps",12.96,13.28,003846.wav
+"Walk, footsteps",13.6,13.96,003846.wav
+"Walk, footsteps",14.2,15.24,003846.wav
+"Walk, footsteps",15.52,16.4,003846.wav
+"Walk, footsteps",16.72,16.96,003846.wav
+"Water tap, faucet",17.6,23.96,003846.wav
+Background noise,6.24,6.36,003847.wav
+Background noise,6.52,6.84,003847.wav
+Generic impact sounds,21.88,22.12,003847.wav
+Generic impact sounds,22.4,23.32,003847.wav
+Mechanisms,20.0,23.08,003847.wav
+"Walk, footsteps",11.0,11.24,003847.wav
+"Walk, footsteps",11.76,11.96,003847.wav
+"Walk, footsteps",13.48,13.68,003847.wav
+"Walk, footsteps",14.28,14.52,003847.wav
+"Walk, footsteps",15.04,15.28,003847.wav
+"Walk, footsteps",17.2,17.4,003847.wav
+"Walk, footsteps",17.88,18.12,003847.wav
+"Walk, footsteps",18.6,18.8,003847.wav
+Mechanisms,15.16,18.4,003848.wav
+"Walk, footsteps",0.72,1.92,003848.wav
+"Walk, footsteps",2.2,2.48,003848.wav
+"Walk, footsteps",2.84,3.08,003848.wav
+"Walk, footsteps",3.48,3.8,003848.wav
+"Walk, footsteps",4.16,4.56,003848.wav
+"Walk, footsteps",4.8,5.2,003848.wav
+"Walk, footsteps",5.52,5.92,003848.wav
+"Walk, footsteps",6.24,6.6,003848.wav
+"Walk, footsteps",7.0,7.36,003848.wav
+"Walk, footsteps",7.68,8.12,003848.wav
+"Walk, footsteps",8.4,8.8,003848.wav
+"Walk, footsteps",9.16,9.52,003848.wav
+"Walk, footsteps",10.68,10.88,003848.wav
+"Walk, footsteps",11.44,11.64,003848.wav
+"Walk, footsteps",12.12,12.36,003848.wav
+"Walk, footsteps",12.8,13.04,003848.wav
+"Walk, footsteps",13.4,13.68,003848.wav
+"Walk, footsteps",14.04,14.24,003848.wav
+"Walk, footsteps",14.6,14.88,003848.wav
+"Beep, bleep",1.04,1.64,003849.wav
+Generic impact sounds,22.28,23.08,003849.wav
+Generic impact sounds,23.56,23.96,003849.wav
+Mechanisms,0.6,24.68,003849.wav
+Microwave oven,0.68,9.96,003849.wav
+Mechanisms,10.12,16.08,003850.wav
+Sink (filling or washing),10.24,10.88,003850.wav
+Sink (filling or washing),11.36,12.84,003850.wav
+Sink (filling or washing),13.04,15.24,003850.wav
+Toilet flush,7.08,9.8,003850.wav
+"Water tap, faucet",2.04,6.16,003850.wav
+"Water tap, faucet",10.0,15.72,003850.wav
+Mechanisms,10.0,18.8,003851.wav
+Toilet flush,0.88,8.76,003851.wav
+"Water tap, faucet",10.72,17.44,003851.wav
+Computer keyboard,11.16,11.48,003852.wav
+Computer keyboard,11.84,12.04,003852.wav
+Computer keyboard,12.28,12.52,003852.wav
+Computer keyboard,14.6,16.6,003852.wav
+Computer keyboard,16.92,18.16,003852.wav
+Computer keyboard,18.8,20.0,003852.wav
+Generic impact sounds,25.16,25.44,003852.wav
+Generic impact sounds,26.52,28.04,003852.wav
+Mechanisms,0.0,30.0,003852.wav
+Background noise,0.0,34.28,003853.wav
+Music,2.2,5.24,003853.wav
+Music,7.44,8.68,003853.wav
+Background noise,0.2,18.24,003913.wav
+"Heart sounds, heartbeat",8.0,8.2,003914.wav
+"Heart sounds, heartbeat",10.08,10.32,003914.wav
+"Heart sounds, heartbeat",10.88,11.12,003914.wav
+"Heart sounds, heartbeat",11.72,11.96,003914.wav
+"Heart sounds, heartbeat",12.44,12.68,003914.wav
+Microwave oven,2.32,5.28,003914.wav
+Microwave oven,5.52,5.84,003914.wav
+Microwave oven,6.28,6.6,003914.wav
+Mechanisms,2.56,9.76,003915.wav
+Mechanisms,9.92,20.0,003915.wav
+"Water tap, faucet",2.48,9.92,003915.wav
+"Water tap, faucet",20.0,21.36,003915.wav
+Background noise,0.0,17.56,003916.wav
+Mechanisms,10.0,17.56,003917.wav
+Microwave oven,7.84,9.84,003917.wav
+Background noise,0.16,9.96,003918.wav
+Mechanisms,10.0,18.0,003918.wav
+Generic impact sounds,7.4,7.76,003919.wav
+Mechanisms,10.0,19.04,003919.wav
+Surface contact,13.0,13.44,003919.wav
+Surface contact,15.88,16.16,003919.wav
+Wind noise (microphone),6.0,6.2,003919.wav
+Computer keyboard,1.92,2.12,003920.wav
+Computer keyboard,2.4,3.92,003920.wav
+Computer keyboard,5.64,6.44,003920.wav
+Computer keyboard,7.04,7.6,003920.wav
+Computer keyboard,7.84,8.76,003920.wav
+Computer keyboard,9.12,9.64,003920.wav
+Computer keyboard,10.6,10.88,003920.wav
+Computer keyboard,11.36,12.4,003920.wav
+Computer keyboard,14.04,15.0,003920.wav
+Computer keyboard,15.32,15.52,003920.wav
+Computer keyboard,16.6,17.16,003920.wav
+Computer keyboard,17.4,18.12,003920.wav
+Computer keyboard,19.6,20.0,003920.wav
+Computer keyboard,20.44,20.68,003920.wav
+Mechanisms,0.0,10.0,003920.wav
+Music,11.72,12.0,003920.wav
+Music,12.4,24.24,003920.wav
+Mechanisms,0.0,25.96,003940.wav
+Music,7.0,26.6,003941.wav
+Background noise,8.04,8.44,003942.wav
+Background noise,10.0,19.56,003942.wav
+Generic impact sounds,3.68,3.92,003942.wav
+Generic impact sounds,7.4,7.72,003942.wav
+Generic impact sounds,8.4,8.92,003942.wav
+Generic impact sounds,9.24,9.68,003942.wav
+Background noise,20.0,21.84,003944.wav
+Mechanisms,7.56,9.88,003944.wav
+"Walk, footsteps",1.32,1.64,003944.wav
+"Walk, footsteps",1.96,2.24,003944.wav
+"Walk, footsteps",2.64,2.84,003944.wav
+"Walk, footsteps",3.2,3.48,003944.wav
+"Walk, footsteps",3.84,4.08,003944.wav
+"Walk, footsteps",4.32,4.68,003944.wav
+"Walk, footsteps",4.96,5.28,003944.wav
+"Walk, footsteps",5.6,5.96,003944.wav
+"Walk, footsteps",6.2,6.56,003944.wav
+Background noise,0.0,21.04,003945.wav
+Background noise,20.0,22.96,003947.wav
+Generic impact sounds,4.88,5.08,003947.wav
+Generic impact sounds,8.72,8.96,003947.wav
+Mechanisms,0.16,9.96,003947.wav
+Mechanisms,10.92,11.8,003947.wav
+Mechanisms,18.12,19.84,003947.wav
+Background noise,0.0,25.2,004037.wav
+Computer keyboard,20.08,20.28,004037.wav
+Computer keyboard,21.48,21.76,004037.wav
+Computer keyboard,23.52,23.84,004037.wav
+Generic impact sounds,6.08,6.52,004037.wav
+Generic impact sounds,8.92,9.72,004037.wav
+Mechanisms,0.0,17.0,004038.wav
+Background noise,0.16,6.48,004039.wav
+Background noise,8.68,9.8,004039.wav
+Background noise,10.04,17.16,004039.wav
+Generic impact sounds,17.56,17.88,004039.wav
+Background noise,0.0,3.28,004040.wav
+Mechanisms,10.0,20.0,004040.wav
+Toilet flush,3.2,9.92,004040.wav
+Generic impact sounds,28.2,28.44,004041.wav
+Mechanisms,2.16,3.32,004041.wav
+Background noise,13.64,17.6,004042.wav
+Background noise,0.0,2.64,004043.wav
+Background noise,8.48,9.92,004043.wav
+Computer keyboard,20.92,21.84,004043.wav
+Computer keyboard,22.36,23.48,004043.wav
+Computer keyboard,25.28,27.36,004043.wav
+Mechanisms,10.0,10.44,004043.wav
+Mechanisms,11.36,11.76,004043.wav
+Mechanisms,12.48,13.32,004043.wav
+Mechanisms,20.0,29.48,004043.wav
+Surface contact,15.72,15.92,004043.wav
+Mechanisms,0.0,21.6,004044.wav
+Mechanisms,10.0,25.6,004045.wav
+Vacuum cleaner,5.64,9.76,004046.wav
+Mechanisms,0.0,17.52,004144.wav
+Background noise,0.0,10.0,004145.wav
+Background noise,10.24,14.24,004145.wav
+Generic impact sounds,16.08,16.64,004145.wav
+Generic impact sounds,18.56,19.0,004145.wav
+Computer keyboard,10.2,11.64,004146.wav
+Computer keyboard,12.44,13.24,004146.wav
+Computer keyboard,13.52,14.0,004146.wav
+Computer keyboard,14.32,15.32,004146.wav
+Computer keyboard,15.68,17.08,004146.wav
+Mechanisms,0.0,18.8,004146.wav
+Mechanisms,0.0,10.0,004147.wav
+"Water tap, faucet",8.48,9.96,004147.wav
+Mechanisms,5.92,6.28,004148.wav
+Mechanisms,6.56,6.76,004148.wav
+Mechanisms,10.0,20.0,004148.wav
+"Beep, bleep",14.04,14.32,004149.wav
+"Beep, bleep",14.68,14.92,004149.wav
+"Beep, bleep",15.6,15.84,004149.wav
+"Beep, bleep",16.36,16.6,004149.wav
+Generic impact sounds,9.52,9.84,004149.wav
+Mechanisms,10.4,11.72,004149.wav
+Microwave oven,10.0,10.6,004149.wav
+Microwave oven,11.12,12.36,004149.wav
+Microwave oven,12.64,20.0,004149.wav
+Mechanisms,1.32,17.0,004150.wav
+Toilet flush,1.36,1.8,004150.wav
+Toilet flush,4.6,10.0,004150.wav
+Generic impact sounds,0.84,1.6,004151.wav
+Generic impact sounds,3.6,4.04,004151.wav
+Generic impact sounds,19.12,19.36,004151.wav
+Generic impact sounds,20.52,22.72,004151.wav
+Mechanisms,0.0,11.88,004151.wav
+Mechanisms,16.96,20.0,004151.wav
+Mechanisms,0.16,6.8,004152.wav
+Mechanisms,6.84,6.92,004152.wav
+Mechanisms,7.0,7.08,004152.wav
+Mechanisms,7.16,9.92,004152.wav
+Mechanisms,30.08,30.48,004152.wav
+Ringtone,10.0,10.52,004152.wav
+Ringtone,12.16,14.44,004152.wav
+Ringtone,15.96,18.28,004152.wav
+Ringtone,19.76,20.0,004152.wav
+Mechanisms,0.0,24.52,004153.wav
+Background noise,0.16,9.92,004172.wav
+Background noise,20.0,21.0,004172.wav
+Background noise,21.4,21.68,004172.wav
+Generic impact sounds,14.0,14.24,004172.wav
+Ringtone,20.88,21.16,004172.wav
+Ringtone,22.76,24.8,004172.wav
+"Walk, footsteps",2.32,2.52,004172.wav
+"Walk, footsteps",2.92,3.12,004172.wav
+"Walk, footsteps",3.64,3.88,004172.wav
+"Walk, footsteps",5.12,5.36,004172.wav
+"Walk, footsteps",5.8,6.04,004172.wav
+"Walk, footsteps",7.16,7.36,004172.wav
+"Walk, footsteps",7.88,8.08,004172.wav
+Generic impact sounds,8.2,8.44,004173.wav
+Generic impact sounds,8.72,9.04,004173.wav
+Mechanisms,6.48,8.96,004173.wav
+Mechanisms,20.52,29.36,004173.wav
+Microwave oven,10.8,17.48,004173.wav
+Background noise,4.56,4.76,004174.wav
+Background noise,5.16,5.52,004174.wav
+Background noise,6.52,6.92,004174.wav
+Background noise,7.12,7.36,004174.wav
+Background noise,10.0,11.32,004174.wav
+Background noise,12.88,13.12,004174.wav
+Background noise,15.28,17.32,004174.wav
+Background noise,5.56,7.44,004175.wav
+Background noise,21.68,22.08,004175.wav
+Mechanisms,1.2,2.64,004175.wav
+Mechanisms,11.32,20.0,004175.wav
+Background noise,0.16,9.88,004176.wav
+Ringtone,2.08,3.24,004176.wav
+Ringtone,3.48,3.52,004176.wav
+Ringtone,5.44,5.64,004176.wav
+Toilet flush,9.12,9.92,004176.wav
+Background noise,0.0,12.92,004177.wav
+Computer keyboard,6.48,8.8,004177.wav
+Computer keyboard,9.16,9.4,004177.wav
+Generic impact sounds,10.6,11.12,004177.wav
+Background noise,10.0,20.0,004178.wav
+"Walk, footsteps",3.0,3.2,004178.wav
+Background noise,0.0,20.0,004179.wav
+Computer keyboard,12.92,14.16,004179.wav
+Computer keyboard,14.4,14.64,004179.wav
+Computer keyboard,14.84,16.44,004179.wav
+Mechanisms,0.0,10.0,004180.wav
+Microwave oven,7.44,8.32,004180.wav
+Microwave oven,9.56,9.88,004180.wav
+Background noise,20.0,21.6,004181.wav
+Mechanisms,3.08,16.2,004181.wav
+Mechanisms,18.32,20.0,004181.wav
+Mechanisms,0.0,24.6,004356.wav
+Generic impact sounds,0.96,1.16,004357.wav
+Generic impact sounds,1.88,2.12,004357.wav
+Generic impact sounds,14.04,14.24,004357.wav
+Generic impact sounds,15.12,15.44,004357.wav
+Generic impact sounds,16.76,17.08,004357.wav
+Generic impact sounds,28.56,28.8,004357.wav
+Mechanisms,0.0,29.2,004357.wav
+Sink (filling or washing),20.04,26.92,004357.wav
+Toilet flush,3.24,9.92,004357.wav
+"Water tap, faucet",10.0,10.2,004357.wav
+"Water tap, faucet",18.64,27.4,004357.wav
+Background noise,0.0,5.08,004358.wav
+Generic impact sounds,0.72,1.08,004358.wav
+Generic impact sounds,2.24,2.56,004358.wav
+Generic impact sounds,2.92,3.12,004358.wav
+Generic impact sounds,3.32,4.36,004358.wav
+Generic impact sounds,14.76,15.12,004358.wav
+Generic impact sounds,15.48,17.56,004358.wav
+Generic impact sounds,17.84,18.44,004358.wav
+Generic impact sounds,18.72,19.84,004358.wav
+Microwave oven,5.24,14.88,004358.wav
+Background noise,0.6,0.92,004359.wav
+Background noise,1.16,1.44,004359.wav
+Background noise,1.68,2.0,004359.wav
+Background noise,2.2,2.56,004359.wav
+Background noise,2.76,5.08,004359.wav
+Background noise,6.84,9.56,004359.wav
+Background noise,10.0,19.2,004359.wav
+Generic impact sounds,10.68,10.92,004359.wav
+Generic impact sounds,12.8,13.08,004359.wav
+Generic impact sounds,13.84,14.08,004359.wav
+Generic impact sounds,14.48,16.6,004359.wav
+Generic impact sounds,17.88,18.28,004360.wav
+Vacuum cleaner,4.92,16.72,004360.wav
+Background noise,23.44,24.68,004361.wav
+Computer keyboard,12.64,12.84,004361.wav
+Computer keyboard,14.52,14.64,004361.wav
+Computer keyboard,14.84,16.48,004361.wav
+Computer keyboard,16.76,19.84,004361.wav
+Computer keyboard,20.24,21.64,004361.wav
+Music,22.12,23.8,004361.wav
+Background noise,0.0,20.0,004362.wav
+Background noise,22.28,22.68,004362.wav
+Generic impact sounds,2.4,2.6,004362.wav
+Generic impact sounds,3.52,3.76,004362.wav
+Generic impact sounds,5.04,5.52,004362.wav
+Generic impact sounds,5.88,6.84,004362.wav
+Generic impact sounds,7.16,8.48,004362.wav
+Generic impact sounds,16.0,16.48,004362.wav
+Background noise,0.0,10.0,004363.wav
+Mechanisms,0.0,17.76,004364.wav
+Music,10.0,10.4,004365.wav
+Music,10.44,12.4,004365.wav
+Music,14.6,14.92,004365.wav
+Music,15.12,17.36,004365.wav
+Background noise,0.0,20.0,004366.wav
+Generic impact sounds,7.52,8.48,004366.wav
+Background noise,0.68,6.04,004367.wav
+Toilet flush,5.88,10.0,004367.wav
+Background noise,0.0,19.32,004368.wav
+Computer keyboard,0.92,2.68,004368.wav
+Computer keyboard,2.88,4.88,004368.wav
+Computer keyboard,5.2,6.8,004368.wav
+Computer keyboard,7.0,10.8,004368.wav
+Computer keyboard,11.0,12.52,004368.wav
+Computer keyboard,12.72,13.56,004368.wav
+Computer keyboard,14.08,14.8,004368.wav
+Computer keyboard,15.24,15.44,004368.wav
+Computer keyboard,16.04,18.32,004368.wav
+Computer keyboard,18.52,18.76,004368.wav
+Background noise,1.24,2.24,004369.wav
+Background noise,3.16,3.96,004369.wav
+Background noise,7.32,7.8,004369.wav
+Background noise,8.0,9.88,004369.wav
+Music,11.4,15.92,004371.wav
+Vacuum cleaner,0.76,9.92,004371.wav
+Background noise,3.84,4.2,004372.wav
+Background noise,6.36,6.44,004372.wav
+Background noise,13.6,20.0,004372.wav
+Background noise,0.0,20.0,004373.wav
+Background noise,2.72,9.52,004413.wav
+Background noise,0.28,3.48,004414.wav
+Background noise,3.96,4.28,004414.wav
+Background noise,7.16,9.04,004414.wav
+Background noise,11.12,12.32,004414.wav
+Computer keyboard,0.84,2.4,004414.wav
+Computer keyboard,2.84,4.36,004414.wav
+Computer keyboard,4.76,5.0,004414.wav
+Computer keyboard,5.44,5.68,004414.wav
+Computer keyboard,6.0,6.28,004414.wav
+Computer keyboard,6.52,6.88,004414.wav
+Background noise,0.12,17.24,004415.wav
+Computer keyboard,1.4,8.44,004415.wav
+Computer keyboard,8.64,9.44,004415.wav
+Generic impact sounds,11.64,12.16,004415.wav
+Background noise,3.16,3.4,004416.wav
+Background noise,5.72,9.8,004416.wav
+Background noise,10.28,12.28,004416.wav
+"Heart sounds, heartbeat",9.56,9.76,004417.wav
+"Water tap, faucet",13.4,13.84,004417.wav
+"Water tap, faucet",14.08,15.36,004417.wav
+Mechanisms,5.92,6.08,004418.wav
+Mechanisms,6.6,6.68,004418.wav
+Mechanisms,6.72,9.96,004418.wav
+Mechanisms,10.76,15.92,004418.wav
+Toilet flush,1.6,9.56,004418.wav
+"Water tap, faucet",10.16,15.92,004418.wav
+Mechanisms,10.0,15.68,004420.wav
+Mechanisms,10.0,10.28,004421.wav
+Mechanisms,10.52,16.64,004421.wav
+Background noise,0.0,11.48,004469.wav
+Background noise,11.64,16.04,004469.wav
+Computer keyboard,2.56,3.28,004469.wav
+"Glass chink, clink",7.56,7.8,004469.wav
+"Glass chink, clink",9.72,9.92,004469.wav
+Background noise,0.0,15.72,004470.wav
+Background noise,20.0,23.48,004471.wav
+Mechanisms,0.0,10.0,004471.wav
+Ringtone,20.08,20.4,004471.wav
+Ringtone,21.56,22.6,004471.wav
+Background noise,3.12,3.32,004472.wav
+Background noise,4.16,6.84,004472.wav
+Background noise,7.6,9.64,004472.wav
+Mechanisms,10.0,18.92,004472.wav
+"Walk, footsteps",5.12,5.36,004472.wav
+"Walk, footsteps",5.68,5.88,004472.wav
+"Walk, footsteps",8.96,9.16,004472.wav
+Background noise,1.52,4.0,004473.wav
+Background noise,4.24,7.4,004473.wav
+Generic impact sounds,15.28,15.72,004473.wav
+Mechanisms,10.0,15.72,004473.wav
+Background noise,0.2,5.16,004474.wav
+Background noise,5.48,5.76,004474.wav
+Generic impact sounds,2.92,3.4,004474.wav
+Generic impact sounds,3.8,4.32,004474.wav
+Generic impact sounds,4.56,4.88,004474.wav
+Mechanisms,10.0,18.88,004474.wav
+Generic impact sounds,14.44,14.88,004475.wav
+Mechanisms,10.0,15.36,004475.wav
+Toilet flush,15.32,19.96,004475.wav
+"Walk, footsteps",1.28,1.52,004475.wav
+"Walk, footsteps",1.72,2.0,004475.wav
+"Walk, footsteps",2.28,2.52,004475.wav
+"Walk, footsteps",2.8,3.08,004475.wav
+"Beep, bleep",11.36,11.6,004476.wav
+"Beep, bleep",11.92,12.68,004476.wav
+Mechanisms,0.96,9.92,004476.wav
+Mechanisms,12.96,18.52,004476.wav
+Microwave oven,10.0,12.88,004476.wav
+"Walk, footsteps",14.0,14.2,004476.wav
+"Walk, footsteps",14.4,16.92,004476.wav
+Generic impact sounds,12.92,13.72,004477.wav
+Mechanisms,10.0,24.96,004477.wav
+Mechanisms,0.0,17.96,004478.wav
+Toilet flush,6.04,9.96,004478.wav
+Background noise,0.0,10.0,004525.wav
+Background noise,13.32,14.4,004525.wav
+Background noise,19.92,27.96,004525.wav
+Breathing,25.4,25.68,004525.wav
+Cough,24.64,25.2,004525.wav
+Cough,25.88,26.88,004525.wav
+Generic impact sounds,23.8,24.04,004525.wav
+Generic impact sounds,28.08,28.36,004525.wav
+"Dishes, pots, and pans",8.84,9.68,004526.wav
+"Dishes, pots, and pans",25.44,25.8,004526.wav
+Mechanisms,0.8,26.16,004526.wav
+Pour,20.84,23.4,004526.wav
+Background noise,6.32,7.2,004527.wav
+Background noise,8.92,9.24,004527.wav
+Generic impact sounds,4.04,4.28,004527.wav
+Surface contact,7.72,8.2,004527.wav
+Background noise,0.0,2.6,004528.wav
+Background noise,5.68,14.08,004528.wav
+Background noise,14.28,33.88,004528.wav
+Breathing,9.28,9.72,004528.wav
+Computer keyboard,21.0,21.4,004528.wav
+Computer keyboard,21.6,22.76,004528.wav
+Computer keyboard,23.2,24.68,004528.wav
+Computer keyboard,24.96,26.12,004528.wav
+Computer keyboard,26.68,27.16,004528.wav
+Cough,7.96,9.16,004528.wav
+Cough,9.92,10.84,004528.wav
+Background noise,20.88,21.32,004529.wav
+Computer keyboard,14.32,14.76,004529.wav
+Computer keyboard,19.04,19.48,004529.wav
+Computer keyboard,20.0,21.04,004529.wav
+Computer keyboard,21.4,21.6,004529.wav
+Generic impact sounds,11.8,12.0,004529.wav
+Mechanisms,12.16,12.52,004529.wav
+Mechanisms,14.16,20.0,004529.wav
+Wind noise (microphone),1.8,2.12,004529.wav
+Background noise,0.0,10.0,004530.wav
+Generic impact sounds,0.48,1.4,004530.wav
+Generic impact sounds,4.6,5.84,004530.wav
+Generic impact sounds,6.16,6.64,004530.wav
+Surface contact,3.6,4.0,004530.wav
+Toilet flush,9.44,9.92,004530.wav
+Toilet flush,20.16,20.96,004530.wav
+Background noise,0.4,7.64,004531.wav
+Background noise,8.4,9.0,004531.wav
+Generic impact sounds,3.12,3.56,004531.wav
+Generic impact sounds,13.52,13.76,004531.wav
+Generic impact sounds,22.48,22.84,004531.wav
+Generic impact sounds,23.72,24.12,004531.wav
+Mechanisms,20.0,24.12,004531.wav
+Background noise,0.0,17.12,004532.wav
+Generic impact sounds,2.24,2.44,004532.wav
+Generic impact sounds,5.0,5.2,004532.wav
+Generic impact sounds,14.2,14.4,004532.wav
+Surface contact,6.56,6.8,004532.wav
+Telephone bell ringing,7.88,9.36,004533.wav
+Vacuum cleaner,20.0,21.92,004533.wav
+Generic impact sounds,18.2,18.28,004563.wav
+Mechanisms,0.16,18.28,004563.wav
+Surface contact,16.36,16.56,004563.wav
+"Water tap, faucet",1.6,3.68,004563.wav
+"Water tap, faucet",3.84,5.52,004563.wav
+"Water tap, faucet",6.04,10.96,004563.wav
+"Water tap, faucet",12.4,13.44,004563.wav
+Mechanisms,10.0,26.32,004564.wav
+Toilet flush,2.32,9.96,004564.wav
+Background noise,0.16,6.36,004565.wav
+Background noise,8.68,9.52,004565.wav
+Background noise,10.0,21.12,004565.wav
+Generic impact sounds,9.52,9.8,004565.wav
+Generic impact sounds,11.48,11.72,004565.wav
+Generic impact sounds,15.88,16.2,004565.wav
+Keys jangling,6.56,7.0,004565.wav
+Wind noise (microphone),10.36,10.56,004565.wav
+Background noise,0.2,1.2,004566.wav
+Background noise,4.16,5.64,004566.wav
+Generic impact sounds,1.96,2.32,004566.wav
+Generic impact sounds,21.16,21.4,004566.wav
+Mechanisms,10.0,23.64,004566.wav
+Microwave oven,7.88,9.28,004566.wav
+Microwave oven,9.64,9.88,004566.wav
+Mechanisms,0.0,19.92,004567.wav
+Computer keyboard,20.0,22.28,004568.wav
+Computer keyboard,22.8,23.76,004568.wav
+Mechanisms,0.0,24.84,004568.wav
+Music,10.28,14.08,004568.wav
+"Crumpling, crinkling",4.8,7.4,004569.wav
+"Crumpling, crinkling",14.24,15.48,004569.wav
+Mechanisms,0.0,19.04,004569.wav
+Mechanisms,0.0,20.64,004570.wav
+Surface contact,13.52,14.08,004570.wav
+Generic impact sounds,1.4,1.84,004571.wav
+Mechanisms,0.0,25.2,004571.wav
+Mechanisms,0.12,8.8,004572.wav
+Music,3.4,4.64,004572.wav
+Music,4.88,6.44,004572.wav
+Music,8.44,9.92,004572.wav
+Mechanisms,4.52,8.08,004581.wav
+Mechanisms,20.0,31.8,004581.wav
+Surface contact,6.88,7.16,004581.wav
+Toilet flush,21.08,29.92,004581.wav
+Background noise,0.0,20.0,004582.wav
+Background noise,24.32,25.36,004582.wav
+Generic impact sounds,12.92,13.28,004582.wav
+Generic impact sounds,15.88,16.44,004582.wav
+Generic impact sounds,17.96,18.92,004582.wav
+Generic impact sounds,19.52,19.72,004582.wav
+Mechanisms,22.08,23.24,004582.wav
+Mechanisms,24.92,28.68,004582.wav
+Background noise,0.0,24.0,004583.wav
+Music,4.64,8.12,004583.wav
+Background noise,0.0,19.72,004584.wav
+Generic impact sounds,10.12,10.64,004584.wav
+Generic impact sounds,10.84,11.44,004584.wav
+Generic impact sounds,14.56,15.2,004584.wav
+Generic impact sounds,16.48,16.68,004584.wav
+Generic impact sounds,17.04,17.88,004584.wav
+Surface contact,12.4,12.96,004584.wav
+Surface contact,13.28,13.64,004584.wav
+Surface contact,16.72,16.92,004584.wav
+"Water tap, faucet",20.0,25.88,004584.wav
+Background noise,0.0,20.0,004585.wav
+Ringtone,19.12,19.72,004585.wav
+Ringtone,20.0,20.8,004585.wav
+Background noise,0.0,4.92,004586.wav
+Generic impact sounds,1.68,1.88,004586.wav
+Vacuum cleaner,20.0,27.92,004586.wav
+Background noise,0.0,25.96,004587.wav
+Generic impact sounds,4.16,4.8,004587.wav
+Generic impact sounds,10.28,10.48,004587.wav
+Generic impact sounds,10.84,11.16,004587.wav
+Generic impact sounds,16.28,16.52,004587.wav
+Generic impact sounds,18.24,18.76,004587.wav
+Generic impact sounds,19.04,20.0,004587.wav
+Generic impact sounds,25.68,25.96,004587.wav
+Surface contact,16.84,17.64,004587.wav
+Mechanisms,0.0,10.0,004588.wav
+Mechanisms,20.0,21.28,004588.wav
+Background noise,0.0,1.36,004589.wav
+"Beep, bleep",2.4,2.6,004589.wav
+"Beep, bleep",2.84,3.08,004589.wav
+"Beep, bleep",3.4,3.6,004589.wav
+"Beep, bleep",4.04,4.24,004589.wav
+Generic impact sounds,32.48,32.72,004589.wav
+Mechanisms,30.0,34.68,004589.wav
+Microwave oven,1.68,9.64,004589.wav
+Vacuum cleaner,10.0,26.96,004589.wav
+Vacuum cleaner,28.48,30.0,004589.wav
+"Beep, bleep",2.12,2.36,004590.wav
+"Beep, bleep",3.56,3.8,004590.wav
+Generic impact sounds,5.84,6.08,004590.wav
+Mechanisms,0.0,1.16,004590.wav
+Mechanisms,1.88,2.08,004590.wav
+Mechanisms,2.6,2.84,004590.wav
+Mechanisms,3.24,3.6,004590.wav
+Mechanisms,3.92,28.96,004590.wav
+Microwave oven,1.4,10.0,004590.wav
+"Water tap, faucet",21.68,22.08,004590.wav
+"Water tap, faucet",22.16,22.88,004590.wav
+"Male speech, man speaking",22.68,23.56,004591.wav
+Mechanisms,1.08,3.12,004591.wav
+Mechanisms,10.0,20.0,004591.wav
+Background noise,0.0,6.12,004592.wav
+Generic impact sounds,4.36,4.6,004592.wav
+Vacuum cleaner,6.32,15.08,004592.wav
+Ringtone,11.96,17.56,004593.wav
+Mechanisms,3.12,3.48,004595.wav
+Mechanisms,3.64,5.84,004595.wav
+Mechanisms,11.08,13.0,004595.wav
+Mechanisms,14.2,15.08,004595.wav
+Background noise,12.12,12.72,004596.wav
+Background noise,13.2,13.44,004596.wav
+Background noise,14.84,15.16,004596.wav
+Computer keyboard,30.32,30.4,004596.wav
+Sink (filling or washing),23.36,23.92,004596.wav
+Sink (filling or washing),25.52,25.8,004596.wav
+Toilet flush,1.84,9.88,004596.wav
+"Water tap, faucet",20.92,27.64,004596.wav
+Generic impact sounds,17.92,18.0,004597.wav
+Microwave oven,5.88,16.8,004597.wav
+Background noise,0.0,9.04,004598.wav
+Background noise,9.92,11.48,004598.wav
+Background noise,12.56,12.88,004598.wav
+Background noise,16.36,17.52,004598.wav
+Background noise,18.64,20.0,004598.wav
+Ringtone,10.08,11.48,004599.wav
+Ringtone,12.68,16.12,004599.wav
+Toilet flush,1.68,6.12,004599.wav
+Mechanisms,2.04,10.48,004600.wav
+Background noise,0.16,9.72,004639.wav
+Background noise,10.0,18.04,004639.wav
+Background noise,18.16,18.28,004639.wav
+Background noise,18.92,19.64,004639.wav
+Generic impact sounds,7.4,8.88,004639.wav
+Background noise,3.92,6.2,004640.wav
+Background noise,20.0,30.44,004640.wav
+Generic impact sounds,20.0,21.2,004640.wav
+Generic impact sounds,21.44,21.84,004640.wav
+Generic impact sounds,22.32,22.64,004640.wav
+Generic impact sounds,28.24,28.48,004640.wav
+Generic impact sounds,29.08,29.36,004640.wav
+Generic impact sounds,29.76,30.0,004640.wav
+Background noise,0.16,7.88,004641.wav
+Background noise,10.0,20.0,004641.wav
+Generic impact sounds,13.64,14.48,004641.wav
+Generic impact sounds,15.92,16.44,004641.wav
+Generic impact sounds,16.76,17.08,004641.wav
+Generic impact sounds,17.52,17.8,004641.wav
+Generic impact sounds,18.0,18.2,004641.wav
+Background noise,0.0,30.56,004642.wav
+Computer keyboard,6.6,6.88,004642.wav
+Computer keyboard,7.44,7.68,004642.wav
+Generic impact sounds,17.44,17.64,004643.wav
+Mechanisms,0.0,23.24,004643.wav
+Background noise,0.0,22.48,004644.wav
+Computer keyboard,0.8,2.76,004644.wav
+Computer keyboard,3.04,3.32,004644.wav
+Computer keyboard,3.68,4.16,004644.wav
+Computer keyboard,4.36,5.92,004644.wav
+Computer keyboard,6.64,6.92,004644.wav
+Computer keyboard,7.6,7.92,004644.wav
+Computer keyboard,8.24,8.88,004644.wav
+Computer keyboard,9.08,9.4,004644.wav
+Background noise,0.0,2.6,004645.wav
+Background noise,2.88,23.76,004645.wav
+Generic impact sounds,1.08,1.48,004645.wav
+Generic impact sounds,4.64,4.96,004645.wav
+Generic impact sounds,13.4,13.6,004645.wav
+Generic impact sounds,15.0,15.24,004645.wav
+Generic impact sounds,22.88,23.16,004645.wav
+Background noise,0.0,9.76,004646.wav
+Background noise,10.0,24.08,004646.wav
+Generic impact sounds,0.28,1.2,004646.wav
+Generic impact sounds,3.88,5.0,004646.wav
+Generic impact sounds,5.2,5.8,004646.wav
+Generic impact sounds,7.92,9.72,004646.wav
+Generic impact sounds,15.04,16.44,004646.wav
+Generic impact sounds,17.48,17.84,004646.wav
+Generic impact sounds,18.12,18.32,004646.wav
+Generic impact sounds,18.56,18.76,004646.wav
+Generic impact sounds,19.0,19.44,004646.wav
+Generic impact sounds,20.44,20.72,004646.wav
+Generic impact sounds,21.4,21.64,004646.wav
+Generic impact sounds,22.6,22.8,004646.wav
+Generic impact sounds,23.24,23.56,004646.wav
+Background noise,3.6,3.92,004647.wav
+Mechanisms,10.0,22.6,004647.wav
+Microwave oven,5.4,7.8,004647.wav
+Microwave oven,8.04,9.04,004647.wav
+Microwave oven,9.52,9.92,004647.wav
+Background noise,0.2,3.96,004648.wav
+Mechanisms,20.32,24.68,004648.wav
+Toilet flush,10.8,15.08,004648.wav
+"Water tap, faucet",4.0,10.0,004648.wav
+"Water tap, faucet",20.0,21.4,004648.wav
+Music,10.0,15.88,004659.wav
+Background noise,0.0,10.64,004660.wav
+Background noise,16.32,17.08,004660.wav
+"Water tap, faucet",10.88,15.36,004660.wav
+Mechanisms,1.24,16.48,004661.wav
+Background noise,0.12,16.16,004662.wav
+Background noise,10.04,17.68,004663.wav
+Doorbell,2.72,5.24,004663.wav
+Background noise,0.16,16.08,004664.wav
+Computer keyboard,11.36,13.12,004664.wav
+Computer keyboard,13.92,15.48,004664.wav
+Creak,3.72,5.72,004664.wav
+Background noise,0.12,10.0,004665.wav
+Generic impact sounds,1.52,1.92,004665.wav
+Generic impact sounds,2.28,2.6,004665.wav
+Generic impact sounds,5.68,6.04,004665.wav
+Toilet flush,10.56,16.0,004665.wav
+Background noise,0.0,10.0,004666.wav
+Background noise,15.4,18.36,004666.wav
+Wind noise (microphone),14.52,14.8,004666.wav
+Generic impact sounds,1.96,2.2,004667.wav
+Mechanisms,0.2,3.44,004667.wav
+Mechanisms,10.0,16.72,004667.wav
+Microwave oven,3.56,10.0,004667.wav
+Generic impact sounds,2.6,3.0,004668.wav
+Generic impact sounds,3.44,3.68,004668.wav
+Generic impact sounds,4.16,4.28,004668.wav
+Mechanisms,0.0,16.16,004668.wav
+Mechanisms,0.0,18.4,004669.wav
+Toilet flush,2.64,9.96,004669.wav
+Mechanisms,0.0,18.64,004670.wav
+"Water tap, faucet",1.88,17.8,004670.wav
+Generic impact sounds,0.96,1.32,004671.wav
+Generic impact sounds,2.68,3.0,004671.wav
+Generic impact sounds,3.48,3.76,004671.wav
+Generic impact sounds,4.24,4.6,004671.wav
+Generic impact sounds,6.44,6.8,004671.wav
+Generic impact sounds,7.12,7.76,004671.wav
+Generic impact sounds,8.04,8.32,004671.wav
+Generic impact sounds,9.52,9.92,004671.wav
+Mechanisms,0.12,1.6,004671.wav
+Mechanisms,2.32,16.6,004671.wav
+Computer keyboard,1.16,1.88,004672.wav
+Computer keyboard,2.24,3.64,004672.wav
+Computer keyboard,3.88,5.56,004672.wav
+Computer keyboard,5.92,6.44,004672.wav
+Computer keyboard,7.16,7.96,004672.wav
+Computer keyboard,12.68,14.6,004672.wav
+Computer keyboard,15.16,15.68,004672.wav
+Generic impact sounds,11.96,12.2,004672.wav
+Mechanisms,0.0,16.44,004672.wav
+Surface contact,8.88,9.28,004672.wav
+Mechanisms,2.88,9.84,004673.wav
+Mechanisms,13.72,15.56,004673.wav
+Mechanisms,0.72,2.48,004674.wav
+Ringtone,0.0,1.28,004674.wav
+Ringtone,2.72,5.0,004674.wav
+Ringtone,6.12,8.56,004674.wav
+Ringtone,9.2,12.24,004674.wav
+Ringtone,12.48,14.12,004674.wav
+Ringtone,14.72,16.24,004674.wav
+Generic impact sounds,20.0,20.24,004675.wav
+Generic impact sounds,20.56,21.16,004675.wav
+Generic impact sounds,21.76,22.92,004675.wav
+Generic impact sounds,23.0,23.2,004675.wav
+Generic impact sounds,23.92,24.08,004675.wav
+Generic impact sounds,24.4,25.32,004675.wav
+Generic impact sounds,25.56,25.76,004675.wav
+Generic impact sounds,26.16,26.8,004675.wav
+Generic impact sounds,27.56,27.88,004675.wav
+Generic impact sounds,28.32,28.76,004675.wav
+Generic impact sounds,29.6,30.0,004675.wav
+"Walk, footsteps",14.32,14.52,004675.wav
+Computer keyboard,2.56,3.48,004676.wav
+Computer keyboard,5.16,5.8,004676.wav
+Computer keyboard,7.12,8.12,004676.wav
+Computer keyboard,8.4,9.92,004676.wav
+Mechanisms,0.0,10.0,004676.wav
+Ringtone,24.52,28.0,004676.wav
+"Beep, bleep",1.44,1.72,004677.wav
+"Beep, bleep",23.16,23.4,004677.wav
+Mechanisms,7.72,8.24,004677.wav
+Mechanisms,8.44,9.8,004677.wav
+Mechanisms,10.6,15.64,004677.wav
+Microwave oven,1.4,8.68,004677.wav
+Microwave oven,9.72,9.96,004677.wav
+Microwave oven,20.0,24.16,004677.wav
+Mechanisms,14.32,15.0,004678.wav
+Toilet flush,7.88,12.68,004678.wav
+"Walk, footsteps",1.16,1.6,004678.wav
+"Walk, footsteps",1.92,2.24,004678.wav
+"Walk, footsteps",2.56,4.0,004678.wav
+"Walk, footsteps",4.24,4.64,004678.wav
+"Walk, footsteps",4.88,5.76,004678.wav
+"Walk, footsteps",6.0,6.96,004678.wav
+Background noise,6.2,8.04,004680.wav
+"Walk, footsteps",0.88,1.16,004680.wav
+"Walk, footsteps",1.4,1.8,004680.wav
+"Walk, footsteps",2.04,2.48,004680.wav
+"Walk, footsteps",2.68,3.6,004680.wav
+"Walk, footsteps",3.8,5.32,004680.wav
+"Walk, footsteps",5.56,6.32,004680.wav
+Mechanisms,2.4,20.0,004681.wav
+Background noise,0.0,0.88,004682.wav
+Background noise,2.0,10.0,004682.wav
+Background noise,10.36,10.84,004682.wav
+Background noise,11.48,11.8,004682.wav
+Background noise,12.24,15.4,004682.wav
+Generic impact sounds,14.88,15.08,004682.wav
+"Walk, footsteps",8.32,8.52,004682.wav
+"Walk, footsteps",17.72,17.92,004682.wav
+"Glass chink, clink",14.12,15.2,004683.wav
+"Glass chink, clink",15.48,15.68,004683.wav
+"Glass chink, clink",16.0,17.08,004683.wav
+Mechanisms,10.0,20.0,004683.wav
+Microwave oven,1.68,10.0,004683.wav
+Microwave oven,20.0,21.92,004683.wav
+Background noise,0.0,20.0,004684.wav
+Background noise,21.24,26.96,004684.wav
+Music,20.2,22.64,004684.wav
+Music,23.92,25.2,004684.wav
+"Walk, footsteps",10.36,11.12,004731.wav
+"Walk, footsteps",11.32,11.68,004731.wav
+"Walk, footsteps",12.28,12.92,004731.wav
+"Walk, footsteps",13.36,13.64,004731.wav
+Wind,11.24,11.44,004731.wav
+Wind,12.12,12.4,004731.wav
+Background noise,0.2,10.0,004732.wav
+Background noise,12.28,14.84,004732.wav
+Background noise,20.0,24.24,004732.wav
+Background noise,0.0,10.0,004733.wav
+Computer keyboard,1.04,3.52,004733.wav
+Computer keyboard,4.4,5.12,004733.wav
+Computer keyboard,8.0,9.2,004733.wav
+Computer keyboard,9.68,9.92,004733.wav
+Mechanisms,3.64,3.96,004733.wav
+Mechanisms,5.16,7.84,004733.wav
+Mechanisms,10.0,15.56,004733.wav
+Mechanisms,16.32,16.56,004733.wav
+Mechanisms,18.2,20.0,004733.wav
+Mechanisms,20.48,21.68,004733.wav
+Mechanisms,23.84,24.12,004733.wav
+Mechanisms,24.44,24.72,004733.wav
+Mechanisms,25.0,32.16,004733.wav
+Surface contact,14.48,14.84,004733.wav
+Background noise,0.24,4.0,004734.wav
+Background noise,5.28,9.96,004734.wav
+Computer keyboard,2.4,4.04,004734.wav
+Computer keyboard,5.24,6.32,004734.wav
+Computer keyboard,6.84,7.28,004734.wav
+Computer keyboard,8.6,9.96,004734.wav
+Mechanisms,3.0,9.92,004734.wav
+Mechanisms,16.12,16.76,004734.wav
+Ringtone,30.0,31.92,004734.wav
+Surface contact,18.08,18.32,004734.wav
+Surface contact,21.68,21.92,004734.wav
+Surface contact,22.32,22.6,004734.wav
+Surface contact,22.84,23.28,004734.wav
+Background noise,0.64,1.2,004735.wav
+Background noise,1.84,2.04,004735.wav
+Background noise,3.56,4.08,004735.wav
+Generic impact sounds,2.56,2.8,004735.wav
+Mechanisms,6.0,6.24,004735.wav
+Mechanisms,6.64,7.16,004735.wav
+Mechanisms,8.48,8.8,004735.wav
+Mechanisms,10.0,20.0,004735.wav
+Surface contact,6.2,6.6,004735.wav
+Surface contact,7.16,7.56,004735.wav
+Background noise,1.56,1.68,004736.wav
+Background noise,10.0,12.8,004736.wav
+Background noise,13.56,13.84,004736.wav
+Background noise,19.8,20.0,004736.wav
+Background noise,30.08,31.16,004736.wav
+Background noise,31.6,38.16,004736.wav
+Generic impact sounds,10.0,10.4,004736.wav
+Generic impact sounds,26.6,26.8,004736.wav
+Generic impact sounds,30.12,30.4,004736.wav
+Generic impact sounds,33.08,34.16,004736.wav
+Generic impact sounds,34.6,36.2,004736.wav
+Mechanisms,2.36,7.88,004736.wav
+Surface contact,27.2,27.6,004736.wav
+Surface contact,28.2,28.44,004736.wav
+Surface contact,31.28,31.64,004736.wav
+Background noise,0.4,6.68,004737.wav
+Generic impact sounds,0.96,1.28,004737.wav
+Mechanisms,10.0,20.0,004737.wav
+Mechanisms,20.6,24.88,004737.wav
+Sink (filling or washing),18.16,18.72,004737.wav
+Sink (filling or washing),18.8,18.84,004737.wav
+Toilet flush,5.96,9.92,004737.wav
+"Water tap, faucet",12.44,19.96,004737.wav
+Computer keyboard,3.92,4.28,004786.wav
+Computer keyboard,4.68,5.16,004786.wav
+Computer keyboard,6.0,6.2,004786.wav
+Computer keyboard,7.56,7.8,004786.wav
+Computer keyboard,8.44,8.6,004786.wav
+Mechanisms,0.0,20.0,004786.wav
+Ringtone,12.56,14.16,004786.wav
+Ringtone,15.4,15.6,004786.wav
+Ringtone,15.96,16.92,004786.wav
+Surface contact,0.84,1.32,004786.wav
+Generic impact sounds,11.4,11.68,004787.wav
+Generic impact sounds,14.04,14.84,004787.wav
+Mechanisms,10.0,20.0,004787.wav
+Sink (filling or washing),1.04,1.76,004787.wav
+Sink (filling or washing),3.08,6.08,004787.wav
+"Water tap, faucet",0.2,1.8,004787.wav
+"Water tap, faucet",2.92,20.56,004787.wav
+Background noise,10.0,12.24,004788.wav
+Mechanisms,0.0,12.56,004789.wav
+Mechanisms,0.0,12.4,004790.wav
+"Beep, bleep",12.4,12.72,004791.wav
+Mechanisms,0.0,2.24,004791.wav
+Mechanisms,3.0,3.68,004791.wav
+Mechanisms,4.32,5.28,004791.wav
+Mechanisms,5.6,5.8,004791.wav
+Mechanisms,6.28,7.08,004791.wav
+Mechanisms,7.68,8.28,004791.wav
+Mechanisms,12.92,15.04,004791.wav
+Microwave oven,2.16,13.04,004791.wav
+Mechanisms,1.36,9.96,004792.wav
+Sink (filling or washing),3.68,3.72,004792.wav
+Sink (filling or washing),3.8,3.88,004792.wav
+Sink (filling or washing),3.96,4.04,004792.wav
+Sink (filling or washing),4.12,4.2,004792.wav
+Sink (filling or washing),4.24,4.64,004792.wav
+Sink (filling or washing),5.08,5.24,004792.wav
+Sink (filling or washing),6.64,6.96,004792.wav
+Sink (filling or washing),7.92,8.44,004792.wav
+Toilet flush,10.0,17.0,004792.wav
+"Water tap, faucet",1.44,9.96,004792.wav
+Background noise,0.28,15.56,004793.wav
+Doorbell,3.0,3.68,004793.wav
+Doorbell,8.16,8.4,004793.wav
+Doorbell,15.2,15.4,004793.wav
+Background noise,23.8,24.44,004794.wav
+"Beep, bleep",3.92,4.2,004795.wav
+"Beep, bleep",21.96,22.24,004795.wav
+Generic impact sounds,15.96,16.52,004795.wav
+Generic impact sounds,17.88,18.08,004795.wav
+Mechanisms,10.0,20.0,004795.wav
+Microwave oven,3.88,9.84,004795.wav
+Microwave oven,20.0,23.56,004795.wav
+"Water tap, faucet",10.0,12.56,004795.wav
+"Water tap, faucet",13.44,13.72,004795.wav
+"Water tap, faucet",14.4,15.6,004795.wav
+Generic impact sounds,17.6,17.92,004883.wav
+Mechanisms,30.16,31.0,004884.wav
+Pour,26.48,28.16,004884.wav
+Mechanisms,20.0,22.28,004885.wav
+Mechanisms,0.16,21.48,004886.wav
+Background noise,0.44,2.12,004887.wav
+Background noise,4.64,5.48,004887.wav
+Background noise,6.32,9.68,004887.wav
+Background noise,10.0,20.0,004887.wav
+Generic impact sounds,16.6,16.88,004887.wav
+Generic impact sounds,10.48,10.88,004889.wav
+Generic impact sounds,11.2,11.36,004889.wav
+Generic impact sounds,18.2,18.28,004889.wav
+Telephone bell ringing,3.64,4.48,004889.wav
+Wind noise (microphone),11.92,12.4,004889.wav
+Wind noise (microphone),15.8,17.08,004889.wav
+Mechanisms,0.16,15.8,004890.wav
+Telephone bell ringing,6.08,6.84,004890.wav
+Generic impact sounds,17.24,17.64,004891.wav
+Hair dryer,10.0,15.04,004891.wav
+"Water tap, faucet",0.8,1.44,004891.wav
+"Water tap, faucet",1.52,2.24,004891.wav
+Generic impact sounds,13.04,13.6,004892.wav
+Generic impact sounds,13.92,14.88,004892.wav
+Generic impact sounds,15.4,15.6,004892.wav
+Generic impact sounds,16.6,16.84,004892.wav
+Hair dryer,6.36,8.52,004892.wav
+Hair dryer,8.8,9.04,004892.wav
+"Beep, bleep",22.0,22.56,004893.wav
+"Beep, bleep",25.16,25.52,004893.wav
+Generic impact sounds,6.6,6.8,004893.wav
+Generic impact sounds,23.88,24.28,004893.wav
+Generic impact sounds,27.32,27.52,004893.wav
+Generic impact sounds,28.0,28.28,004893.wav
+"Glass chink, clink",1.8,3.72,004893.wav
+Mechanisms,0.2,31.16,004893.wav
+Microwave oven,20.0,22.32,004893.wav
+Generic impact sounds,28.64,28.8,004894.wav
+"Glass chink, clink",10.44,12.32,004894.wav
+"Glass chink, clink",31.32,33.76,004894.wav
+Mechanisms,0.12,2.92,004894.wav
+Mechanisms,4.36,12.88,004894.wav
+Mechanisms,13.2,33.76,004894.wav
+Mechanisms,0.12,10.0,004895.wav
+"Water tap, faucet",2.8,5.56,004895.wav
+"Water tap, faucet",18.6,18.8,004895.wav
+"Water tap, faucet",20.0,24.08,004895.wav
+Mechanisms,11.4,12.68,004896.wav
+Mechanisms,20.0,28.0,004896.wav
+Doorbell,1.96,4.28,004897.wav
+Doorbell,4.48,4.72,004897.wav
+Mechanisms,10.2,10.84,004897.wav
+Mechanisms,11.04,18.96,004897.wav
+Mechanisms,10.0,20.0,004898.wav
+Breathing,27.44,27.88,004899.wav
+Generic impact sounds,13.72,14.04,004899.wav
+Mechanisms,20.0,28.6,004899.wav
+"Glass chink, clink",6.92,9.96,004900.wav
+Mechanisms,0.0,34.76,004900.wav
+Generic impact sounds,11.12,11.88,004901.wav
+Generic impact sounds,12.12,12.96,004901.wav
+Generic impact sounds,14.4,14.6,004901.wav
+Mechanisms,0.12,10.0,004901.wav
+Pour,20.24,20.76,004901.wav
+Toilet flush,2.04,5.6,004901.wav
+"Water tap, faucet",15.08,19.96,004901.wav
+Mechanisms,2.72,3.44,004902.wav
+Mechanisms,4.2,18.4,004902.wav
+Sliding door,14.8,15.4,004902.wav
+Toilet flush,3.72,6.16,005160.wav
+Background noise,0.32,2.76,005161.wav
+Background noise,2.96,6.68,005161.wav
+Background noise,7.16,7.52,005161.wav
+Background noise,8.32,9.36,005161.wav
+Background noise,12.32,13.64,005161.wav
+Background noise,14.32,15.0,005161.wav
+Background noise,16.88,18.52,005161.wav
+Background noise,20.0,28.16,005161.wav
+Drawer open or close,12.44,13.04,005161.wav
+Drawer open or close,14.4,15.0,005161.wav
+Drawer open or close,17.12,17.88,005161.wav
+Computer keyboard,0.28,2.52,005162.wav
+Computer keyboard,6.0,9.96,005162.wav
+Background noise,1.6,1.72,005163.wav
+Background noise,2.2,2.76,005163.wav
+Background noise,7.04,7.28,005163.wav
+Mechanisms,10.0,16.56,005163.wav
+Mechanisms,16.96,17.84,005163.wav
+Background noise,0.16,18.6,005164.wav
+Background noise,10.0,11.68,005165.wav
+Background noise,14.28,14.6,005165.wav
+Generic impact sounds,15.0,15.28,005165.wav
+Generic impact sounds,15.52,16.04,005165.wav
+Generic impact sounds,16.28,16.52,005165.wav
+Background noise,0.76,1.08,005166.wav
+Background noise,1.32,1.76,005166.wav
+Background noise,1.96,2.2,005166.wav
+Background noise,2.48,3.04,005166.wav
+Background noise,3.24,8.32,005166.wav
+Background noise,10.0,17.0,005166.wav
+Background noise,17.2,17.84,005166.wav
+Computer keyboard,14.2,15.16,005166.wav
+Computer keyboard,15.6,16.88,005166.wav
+Background noise,0.24,9.92,005167.wav
+Background noise,12.64,14.48,005167.wav
+Background noise,20.0,24.6,005167.wav
+Background noise,30.0,34.08,005167.wav
+Computer keyboard,0.84,1.8,005167.wav
+Computer keyboard,2.0,2.72,005167.wav
+Computer keyboard,3.04,4.28,005167.wav
+Computer keyboard,5.24,5.6,005167.wav
+Computer keyboard,5.96,6.6,005167.wav
+Computer keyboard,8.76,9.92,005167.wav
+Computer keyboard,27.92,28.64,005167.wav
+Computer keyboard,28.84,29.36,005167.wav
+Computer keyboard,29.56,30.72,005167.wav
+Computer keyboard,30.96,31.56,005167.wav
+Computer keyboard,32.08,32.8,005167.wav
+Mechanisms,0.0,16.76,005177.wav
+Toilet flush,1.68,8.52,005177.wav
+Toilet flush,9.16,9.96,005177.wav
+"Water tap, faucet",10.0,16.24,005177.wav
+Background noise,10.0,20.0,005178.wav
+Background noise,20.44,27.76,005178.wav
+Generic impact sounds,21.36,21.92,005178.wav
+Vacuum cleaner,10.0,18.88,005179.wav
+Background noise,0.0,18.52,005180.wav
+Mechanisms,0.0,33.64,005181.wav
+"Water tap, faucet",7.84,8.4,005181.wav
+Background noise,0.0,20.0,005182.wav
+Computer keyboard,1.4,2.04,005182.wav
+Computer keyboard,2.32,3.32,005182.wav
+Computer keyboard,3.76,5.32,005182.wav
+Computer keyboard,7.52,7.68,005182.wav
+Computer keyboard,7.8,8.08,005182.wav
+Computer keyboard,8.56,9.6,005182.wav
+Background noise,0.0,18.24,005183.wav
+Generic impact sounds,0.56,0.76,005183.wav
+Surface contact,3.68,4.2,005183.wav
+Generic impact sounds,0.76,1.12,005185.wav
+Generic impact sounds,8.04,8.28,005185.wav
+Generic impact sounds,9.04,9.24,005185.wav
+Generic impact sounds,13.64,13.88,005185.wav
+Generic impact sounds,18.6,20.08,005185.wav
+Generic impact sounds,22.04,22.4,005185.wav
+Mechanisms,0.0,27.08,005185.wav
+Background noise,0.0,10.0,005186.wav
+Music,12.32,14.52,005186.wav
+Background noise,0.0,20.0,005215.wav
+Generic impact sounds,2.28,3.28,005215.wav
+Generic impact sounds,3.56,3.84,005215.wav
+Generic impact sounds,4.28,6.12,005215.wav
+Generic impact sounds,7.88,8.2,005215.wav
+Generic impact sounds,8.4,8.68,005215.wav
+Generic impact sounds,11.84,12.12,005215.wav
+Background noise,2.04,2.56,005216.wav
+Background noise,10.0,15.16,005216.wav
+Background noise,16.92,25.44,005216.wav
+Background noise,0.0,10.0,005217.wav
+Background noise,20.0,21.12,005217.wav
+Toilet flush,6.08,10.0,005217.wav
+Background noise,10.76,14.16,005218.wav
+Background noise,20.0,26.0,005218.wav
+Background noise,0.0,25.84,005219.wav
+Background noise,0.0,10.0,005220.wav
+Background noise,0.0,28.08,005221.wav
+Generic impact sounds,2.04,2.24,005221.wav
+Generic impact sounds,5.72,6.84,005221.wav
+Generic impact sounds,7.6,7.84,005221.wav
+Generic impact sounds,10.12,10.48,005221.wav
+Generic impact sounds,10.76,11.24,005221.wav
+Generic impact sounds,11.68,11.96,005221.wav
+Generic impact sounds,12.64,13.12,005221.wav
+Generic impact sounds,15.8,17.4,005221.wav
+Generic impact sounds,17.52,18.44,005221.wav
+Generic impact sounds,25.56,25.68,005221.wav
+Generic impact sounds,26.16,26.36,005221.wav
+Generic impact sounds,26.64,27.04,005221.wav
+Background noise,0.0,10.0,005222.wav
+Background noise,10.4,25.32,005222.wav
+Background noise,12.36,12.48,005223.wav
+Background noise,0.4,18.16,005224.wav
+Background noise,2.24,3.04,005300.wav
+Background noise,7.6,7.8,005300.wav
+"Beep, bleep",23.92,24.16,005300.wav
+Generic impact sounds,0.56,2.2,005300.wav
+Generic impact sounds,3.2,4.6,005300.wav
+Generic impact sounds,6.36,6.76,005300.wav
+Generic impact sounds,20.52,20.84,005300.wav
+Generic impact sounds,21.28,22.28,005300.wav
+Generic impact sounds,25.84,26.4,005300.wav
+Generic impact sounds,29.64,29.88,005300.wav
+Mechanisms,20.0,29.88,005300.wav
+Mechanisms,5.6,7.56,005301.wav
+Mechanisms,10.0,26.64,005301.wav
+Toilet flush,3.04,6.0,005301.wav
+Toilet flush,7.08,7.76,005301.wav
+Toilet flush,8.32,9.92,005301.wav
+"Water tap, faucet",10.0,15.72,005301.wav
+Breathing,14.88,15.2,005302.wav
+Mechanisms,0.0,17.48,005302.wav
+Surface contact,3.16,3.52,005302.wav
+"Water tap, faucet",6.44,9.92,005302.wav
+Generic impact sounds,3.64,3.84,005303.wav
+Generic impact sounds,5.16,5.4,005303.wav
+Generic impact sounds,5.84,6.2,005303.wav
+Generic impact sounds,6.56,6.76,005303.wav
+Generic impact sounds,6.96,7.44,005303.wav
+Generic impact sounds,17.32,17.64,005303.wav
+Generic impact sounds,18.52,18.72,005303.wav
+Generic impact sounds,18.92,19.44,005303.wav
+Generic impact sounds,19.72,19.92,005303.wav
+Generic impact sounds,20.92,21.24,005303.wav
+Generic impact sounds,22.92,23.12,005303.wav
+Generic impact sounds,26.2,26.28,005303.wav
+Mechanisms,0.0,9.2,005303.wav
+Mechanisms,20.0,26.28,005303.wav
+Vacuum cleaner,10.0,17.24,005303.wav
+Coin (dropping),20.04,20.8,005304.wav
+Generic impact sounds,11.24,11.72,005304.wav
+Generic impact sounds,14.12,14.64,005304.wav
+Generic impact sounds,17.88,19.28,005304.wav
+Generic impact sounds,21.6,23.92,005304.wav
+Mechanisms,20.0,24.72,005304.wav
+Surface contact,10.68,11.12,005304.wav
+Background noise,20.0,21.24,005305.wav
+Drawer open or close,1.36,1.56,005305.wav
+Drawer open or close,8.84,9.76,005305.wav
+Generic impact sounds,18.28,19.2,005305.wav
+Generic impact sounds,19.8,20.0,005305.wav
+Mechanisms,0.0,10.0,005305.wav
+Computer keyboard,1.36,1.6,005306.wav
+Computer keyboard,2.32,2.72,005306.wav
+Computer keyboard,3.28,3.84,005306.wav
+Computer keyboard,5.68,6.2,005306.wav
+Generic impact sounds,7.28,8.04,005306.wav
+Mechanisms,0.0,10.0,005306.wav
+Mechanisms,20.0,24.68,005306.wav
+Mechanisms,27.4,27.68,005306.wav
+Mechanisms,28.12,30.0,005306.wav
+Surface contact,6.64,6.88,005306.wav
+Computer keyboard,1.36,1.68,005307.wav
+Computer keyboard,2.12,3.08,005307.wav
+Computer keyboard,5.6,5.88,005307.wav
+Computer keyboard,6.92,7.8,005307.wav
+Computer keyboard,15.28,15.48,005307.wav
+Mechanisms,0.0,17.96,005307.wav
+Ding,26.04,27.12,005326.wav
+Breathing,14.28,14.64,005327.wav
+Cough,14.88,15.72,005327.wav
+Mechanisms,10.0,16.04,005327.wav
+Background noise,4.28,8.24,005328.wav
+Background noise,15.84,17.2,005328.wav
+Toilet flush,1.64,4.76,005328.wav
+Toilet flush,5.12,5.72,005328.wav
+Background noise,0.32,9.84,005329.wav
+Generic impact sounds,0.88,1.12,005329.wav
+Background noise,10.0,14.0,005330.wav
+Background noise,14.12,15.84,005330.wav
+Background noise,15.88,15.92,005330.wav
+Background noise,16.04,20.0,005330.wav
+Breathing,17.8,18.2,005330.wav
+Computer keyboard,1.2,5.32,005330.wav
+Computer keyboard,5.6,6.2,005330.wav
+Computer keyboard,7.08,8.08,005330.wav
+Computer keyboard,9.08,9.84,005330.wav
+Cough,18.56,19.24,005330.wav
+Generic impact sounds,3.36,3.56,005331.wav
+Mechanisms,5.0,9.84,005331.wav
+Mechanisms,20.44,21.28,005331.wav
+Mechanisms,21.8,22.16,005331.wav
+Mechanisms,22.8,23.64,005331.wav
+Microwave oven,10.28,11.28,005331.wav
+Generic impact sounds,21.12,21.32,005332.wav
+Mechanisms,0.32,19.52,005332.wav
+Toilet flush,1.96,9.92,005332.wav
+"Water tap, faucet",10.0,15.24,005332.wav
+Mechanisms,10.0,20.0,005333.wav
+Mechanisms,20.0,22.04,005335.wav
+Background noise,0.0,1.12,005470.wav
+Background noise,9.68,9.88,005470.wav
+Background noise,20.68,27.08,005470.wav
+Computer keyboard,0.0,0.68,005470.wav
+Computer keyboard,0.88,9.8,005470.wav
+Computer keyboard,10.68,12.56,005470.wav
+Computer keyboard,12.64,12.72,005470.wav
+Computer keyboard,12.8,12.88,005470.wav
+Computer keyboard,12.92,13.16,005470.wav
+Computer keyboard,13.92,15.64,005470.wav
+Computer keyboard,23.8,26.92,005470.wav
+Background noise,0.0,9.52,005471.wav
+Microwave oven,10.56,19.92,005471.wav
+Wind noise (microphone),4.8,5.52,005471.wav
+Background noise,0.0,14.4,005472.wav
+Breathing,0.68,1.52,005472.wav
+Generic impact sounds,5.76,5.96,005472.wav
+Generic impact sounds,7.16,7.4,005472.wav
+Generic impact sounds,7.68,8.04,005472.wav
+Wind noise (microphone),9.44,9.68,005472.wav
+Wind noise (microphone),14.84,15.52,005472.wav
+Background noise,3.92,4.16,005473.wav
+Generic impact sounds,5.8,6.24,005473.wav
+Toilet flush,0.0,2.08,005473.wav
+Toilet flush,2.28,2.88,005473.wav
+Background noise,0.0,20.0,005474.wav
+Breathing,16.88,17.36,005474.wav
+Breathing,18.56,19.88,005474.wav
+Background noise,10.0,20.0,005475.wav
+Background noise,20.32,20.76,005475.wav
+Background noise,21.12,22.08,005475.wav
+Background noise,0.0,17.52,005476.wav
+Generic impact sounds,11.4,11.76,005476.wav
+Background noise,5.76,17.36,005477.wav
+Cough,10.76,11.44,005477.wav
+Generic impact sounds,14.4,14.84,005477.wav
+Generic impact sounds,15.68,15.88,005477.wav
+"Walk, footsteps",6.4,6.64,005477.wav
+"Walk, footsteps",7.08,7.28,005477.wav
+"Walk, footsteps",7.68,8.0,005477.wav
+Wind noise (microphone),0.48,1.12,005477.wav
+Computer keyboard,10.0,19.12,005478.wav
+Computer keyboard,19.56,20.0,005478.wav
+Music,16.92,19.08,005478.wav
+Music,20.0,21.84,005478.wav
+Mechanisms,0.32,10.0,005479.wav
+Background noise,0.88,9.64,005508.wav
+Background noise,23.12,29.52,005508.wav
+Generic impact sounds,3.36,3.56,005508.wav
+Generic impact sounds,28.56,28.76,005508.wav
+Sink (filling or washing),13.44,17.44,005508.wav
+Sink (filling or washing),20.76,21.0,005508.wav
+"Water tap, faucet",13.16,19.68,005508.wav
+"Water tap, faucet",20.0,23.32,005508.wav
+Background noise,23.56,28.52,005509.wav
+"Beep, bleep",23.04,23.68,005509.wav
+"Beep, bleep",24.08,24.6,005509.wav
+"Beep, bleep",25.12,25.68,005509.wav
+"Beep, bleep",26.08,26.68,005509.wav
+"Beep, bleep",27.08,27.76,005509.wav
+Generic impact sounds,7.8,8.0,005509.wav
+Computer keyboard,12.08,12.48,005510.wav
+Mechanisms,0.0,26.48,005510.wav
+Generic impact sounds,7.16,7.36,005511.wav
+Generic impact sounds,10.4,10.6,005511.wav
+Generic impact sounds,25.08,25.28,005511.wav
+Generic impact sounds,25.52,25.8,005511.wav
+Mechanisms,0.8,9.96,005511.wav
+Mechanisms,13.48,13.88,005511.wav
+Mechanisms,13.96,16.8,005511.wav
+Mechanisms,17.72,29.92,005511.wav
+Surface contact,5.2,5.44,005511.wav
+Surface contact,13.48,14.16,005511.wav
+Surface contact,19.36,19.64,005511.wav
+Surface contact,20.24,20.44,005511.wav
+Surface contact,20.96,21.6,005511.wav
+Surface contact,21.84,22.28,005511.wav
+Computer keyboard,9.04,10.56,005512.wav
+Computer keyboard,11.28,12.2,005512.wav
+Mechanisms,0.0,0.24,005512.wav
+Mechanisms,1.32,2.52,005512.wav
+Mechanisms,7.52,28.2,005512.wav
+Background noise,0.0,23.2,005513.wav
+Generic impact sounds,2.16,2.36,005513.wav
+Generic impact sounds,13.04,13.76,005513.wav
+Generic impact sounds,14.2,15.16,005513.wav
+Generic impact sounds,15.76,15.96,005513.wav
+Generic impact sounds,19.76,20.0,005513.wav
+Generic impact sounds,22.6,22.84,005513.wav
+Surface contact,0.52,0.76,005513.wav
+Surface contact,4.24,4.8,005513.wav
+Surface contact,5.72,5.96,005513.wav
+Surface contact,16.24,18.08,005513.wav
+Mechanisms,0.8,29.04,005514.wav
+Surface contact,2.64,2.96,005514.wav
+Surface contact,5.08,5.32,005514.wav
+Surface contact,21.36,21.76,005514.wav
+Background noise,10.16,11.0,005515.wav
+Background noise,11.68,13.84,005515.wav
+Background noise,15.32,16.48,005515.wav
+"Beep, bleep",16.92,17.68,005515.wav
+Generic impact sounds,11.0,11.28,005515.wav
+Generic impact sounds,15.6,16.12,005515.wav
+Microwave oven,16.84,19.52,005515.wav
+Mechanisms,0.84,9.92,005516.wav
+Mechanisms,15.4,15.72,005516.wav
+Mechanisms,15.96,16.0,005516.wav
+Mechanisms,16.04,16.64,005516.wav
+Mechanisms,16.76,16.8,005516.wav
+Mechanisms,16.84,28.68,005516.wav
+Vacuum cleaner,3.72,3.8,005516.wav
+Vacuum cleaner,3.88,3.96,005516.wav
+Vacuum cleaner,6.16,17.04,005516.wav
+Vacuum cleaner,17.6,19.32,005516.wav
+Background noise,0.88,2.64,005517.wav
+Background noise,18.84,22.56,005517.wav
+"Water tap, faucet",2.8,9.92,005517.wav
+"Water tap, faucet",11.16,15.0,005517.wav
+"Water tap, faucet",15.8,17.84,005517.wav
+Generic impact sounds,2.16,2.52,005554.wav
+Generic impact sounds,28.36,28.56,005554.wav
+Mechanisms,0.0,29.12,005554.wav
+Mechanisms,7.6,27.44,005555.wav
+Mechanisms,0.0,21.72,005556.wav
+Toilet flush,1.8,8.76,005556.wav
+Mechanisms,0.0,11.6,005557.wav
+Mechanisms,12.04,13.6,005557.wav
+Mechanisms,13.84,23.04,005557.wav
+Toilet flush,10.84,11.4,005557.wav
+Toilet flush,11.96,14.2,005557.wav
+Toilet flush,14.24,14.32,005557.wav
+Toilet flush,14.4,14.8,005557.wav
+"Water tap, faucet",5.44,9.92,005557.wav
+Generic impact sounds,8.72,9.0,005558.wav
+Generic impact sounds,10.0,10.32,005558.wav
+Generic impact sounds,10.56,11.0,005558.wav
+Generic impact sounds,11.48,11.68,005558.wav
+Generic impact sounds,17.32,17.56,005558.wav
+Surface contact,1.56,1.76,005558.wav
+Surface contact,2.08,2.36,005558.wav
+Surface contact,9.2,9.4,005558.wav
+"Beep, bleep",4.92,5.48,005559.wav
+Mechanisms,1.2,2.24,005559.wav
+Mechanisms,2.64,2.92,005559.wav
+Mechanisms,3.16,9.88,005559.wav
+"Beep, bleep",7.96,8.36,005560.wav
+Mechanisms,0.24,0.48,005560.wav
+Mechanisms,4.24,7.2,005560.wav
+Mechanisms,10.0,20.0,005560.wav
+Background noise,0.0,10.0,005561.wav
+Background noise,16.56,16.76,005561.wav
+Background noise,17.0,22.36,005561.wav
+Surface contact,2.4,2.68,005561.wav
+Surface contact,3.68,3.88,005561.wav
+Surface contact,4.48,4.8,005561.wav
+Surface contact,6.8,7.28,005561.wav
+Surface contact,17.2,17.68,005561.wav
+Surface contact,21.04,21.24,005561.wav
+Background noise,0.0,10.0,005562.wav
+Ringtone,5.32,7.4,005562.wav
+Ringtone,7.68,10.84,005562.wav
+Ringtone,11.04,17.8,005562.wav
+Ringtone,18.0,19.44,005562.wav
+Ringtone,10.32,16.64,005563.wav
+Background noise,20.0,22.6,005564.wav
+Computer keyboard,1.76,2.08,005564.wav
+Computer keyboard,2.56,3.04,005564.wav
+Computer keyboard,3.56,5.48,005564.wav
+Computer keyboard,7.88,8.12,005564.wav
+Computer keyboard,8.36,9.4,005564.wav
+Cough,17.32,17.96,005564.wav
+Generic impact sounds,22.52,22.8,005564.wav
+"Male speech, man speaking",20.0,20.44,005564.wav
+"Male speech, man speaking",22.24,22.56,005564.wav
+Cough,6.96,7.6,005565.wav
+Mechanisms,0.0,18.52,005565.wav
+"Female speech, woman speaking",14.68,15.28,005566.wav
+Mechanisms,1.2,2.08,005566.wav
+Mechanisms,3.52,28.92,005566.wav
+Background noise,0.0,9.84,005567.wav
+Hair dryer,10.12,10.52,005567.wav
+Hair dryer,13.32,13.56,005567.wav
+Hair dryer,13.6,13.64,005567.wav
+Mechanisms,0.0,23.24,005568.wav
+Toilet flush,6.0,10.0,005568.wav
+"Water tap, faucet",20.0,22.0,005568.wav
+Background noise,0.0,10.0,005569.wav
+Background noise,10.48,17.24,005569.wav
+Generic impact sounds,13.16,13.76,005569.wav
+Mechanisms,0.0,4.08,005570.wav
+Mechanisms,4.28,5.52,005570.wav
+Mechanisms,9.96,23.92,005570.wav
+Surface contact,15.68,15.88,005571.wav
+Background noise,0.0,0.28,005572.wav
+Background noise,6.48,10.0,005572.wav
+Ringtone,9.36,9.8,005572.wav
+Breathing,12.76,13.56,005609.wav
+Breathing,16.8,17.52,005609.wav
+Breathing,19.6,20.0,005609.wav
+Generic impact sounds,6.0,6.88,005609.wav
+Generic impact sounds,7.96,8.16,005609.wav
+Generic impact sounds,9.12,9.32,005609.wav
+Generic impact sounds,14.28,14.64,005609.wav
+Generic impact sounds,15.96,16.48,005609.wav
+Generic impact sounds,21.92,22.32,005609.wav
+Generic impact sounds,22.96,23.88,005609.wav
+Generic impact sounds,24.12,24.48,005609.wav
+Generic impact sounds,26.32,26.52,005609.wav
+Generic impact sounds,26.92,27.16,005609.wav
+Generic impact sounds,27.56,27.76,005609.wav
+Mechanisms,0.0,30.0,005609.wav
+Toilet flush,29.48,31.24,005609.wav
+Background noise,0.0,15.44,005610.wav
+Background noise,15.72,16.16,005610.wav
+Background noise,16.36,16.8,005610.wav
+Background noise,17.04,20.0,005610.wav
+Computer keyboard,20.0,20.8,005610.wav
+Generic impact sounds,8.08,8.36,005611.wav
+Mechanisms,0.0,26.32,005611.wav
+Generic impact sounds,4.56,5.2,005612.wav
+Generic impact sounds,6.48,7.72,005612.wav
+Generic impact sounds,8.04,8.32,005612.wav
+Generic impact sounds,8.76,9.4,005612.wav
+Mechanisms,0.0,10.28,005612.wav
+Mechanisms,11.4,14.52,005612.wav
+Mechanisms,14.88,16.52,005612.wav
+Mechanisms,4.76,9.96,005613.wav
+Mechanisms,10.0,12.8,005615.wav
+Mechanisms,14.68,15.36,005615.wav
+Mechanisms,19.0,19.24,005615.wav
+Mechanisms,19.48,20.0,005615.wav
+Mechanisms,30.0,31.68,005615.wav
+Background noise,0.0,6.92,005616.wav
+Generic impact sounds,10.08,10.32,005616.wav
+Generic impact sounds,13.08,13.44,005616.wav
+Mechanisms,0.0,10.0,005617.wav
+Mechanisms,10.48,26.96,005617.wav
+Generic impact sounds,14.2,14.72,005618.wav
+Mechanisms,10.0,24.36,005618.wav
+Background noise,0.64,20.6,005654.wav
+Background noise,23.0,23.24,005654.wav
+Generic impact sounds,19.4,20.0,005654.wav
+Background noise,0.0,25.32,005655.wav
+Generic impact sounds,4.16,4.48,005655.wav
+Generic impact sounds,5.48,5.68,005655.wav
+Surface contact,23.64,24.0,005655.wav
+Background noise,1.44,4.92,005656.wav
+Background noise,10.0,12.6,005656.wav
+Background noise,13.16,13.8,005656.wav
+Breathing,10.0,10.28,005656.wav
+Cough,10.56,12.04,005656.wav
+Background noise,0.2,10.0,005657.wav
+Mechanisms,20.0,30.0,005657.wav
+Vacuum cleaner,16.68,17.72,005657.wav
+Background noise,13.56,14.44,005658.wav
+Background noise,20.0,29.24,005658.wav
+Music,5.68,9.96,005658.wav
+Ringtone,10.2,13.48,005658.wav
+Background noise,0.0,17.96,005659.wav
+"Water tap, faucet",18.12,19.92,005659.wav
+Mechanisms,10.0,20.0,005660.wav
+Mechanisms,21.76,22.2,005660.wav
+Toilet flush,2.64,5.6,005660.wav
+Toilet flush,9.44,9.8,005660.wav
+"Water tap, faucet",10.12,10.84,005660.wav
+"Water tap, faucet",11.12,17.36,005660.wav
+Background noise,0.0,23.64,005661.wav
+Ringtone,3.32,5.56,005661.wav
+Surface contact,15.76,16.08,005661.wav
+Mechanisms,10.0,20.0,005662.wav
+Microwave oven,8.28,9.96,005662.wav
+Music,19.4,19.76,005662.wav
+Music,20.24,26.56,005662.wav

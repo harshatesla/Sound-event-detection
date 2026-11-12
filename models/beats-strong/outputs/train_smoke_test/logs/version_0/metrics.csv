@@ -1,0 +1,4 @@
+epoch,step,test/pauroc,test/psds1,test/psds1_macro,train/loss_epoch,val/pauroc,val/psds1,val/psds1_macro
+0,9,,,,,0.2580810785293579,0.0,0.14307980239391327
+0,9,,,,0.320141464471817,,,
+1,10,0.2560873031616211,0.0,0.11682914942502975,,,,

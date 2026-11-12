@@ -1,0 +1,60 @@
+{
+  "run_name": "beats_strong_full_e1",
+  "train_mode": "full",
+  "pretrained": "strong",
+  "trainable_params_M": 90.323,
+  "total_params_M": 90.335,
+  "elapsed_sec": 1826.76,
+  "peak_vram_mb": 2749.74,
+  "best_checkpoint": "E:\\workspace\\audio_team\\sed\\models\\beats-strong\\outputs\\train_beats_strong_full_e1\\checkpoints\\best-epoch=00.ckpt",
+  "test_results": [
+    {
+      "test/psds1": 0.0853748619556427,
+      "test/psds1_macro": 0.3982197046279907,
+      "test/pauroc": 0.5626552700996399,
+      "test/psds2": 0.14459051191806793,
+      "test/psds2_macro": 0.5242795348167419
+    }
+  ],
+  "detailed_test_report": {
+    "test/psds1": 0.08537485962405272,
+    "test/psds1_macro": 0.3982197169618124,
+    "test/pauroc": 0.5626552928516906,
+    "test/psds2": 0.14459051375899584,
+    "test/psds2_macro": 0.5242795110426148,
+    "per_class_psds1": {
+      "bell_ringing": 0.17360521534860862,
+      "coffee_machine": 0.4550931051921498,
+      "cutlery_dishes": 0.3357827093215565,
+      "door_open_close": 0.05415255823533462,
+      "footsteps": 0.1496848486058889,
+      "keyboard_typing": 0.7841527683607526,
+      "keychain": 0.47186783706495816,
+      "light_switch": 0.0,
+      "microwave": 0.5555553551293531,
+      "phone_ringing": 0.5980481987978103,
+      "running_water": 0.8216423802167004,
+      "toilet_flushing": 0.6468915511707525,
+      "vacuum_cleaner": 0.912849495941908,
+      "wardrobe_drawer_open_close": 0.01188423487956417,
+      "window_open_close": 0.002085496161847677
+    },
+    "per_class_psds2": {
+      "bell_ringing": 0.05909294669496597,
+      "coffee_machine": 0.571637393235877,
+      "cutlery_dishes": 0.6790084937543375,
+      "door_open_close": 0.14708228139685653,
+      "footsteps": 0.35165817934423865,
+      "keyboard_typing": 0.9460489929032972,
+      "keychain": 0.7710673935948106,
+      "light_switch": 0.0,
+      "microwave": 0.7299958828580934,
+      "phone_ringing": 0.6888657155034289,
+      "running_water": 0.962724879734342,
+      "toilet_flushing": 0.9501971410176102,
+      "vacuum_cleaner": 0.9768868183750381,
+      "wardrobe_drawer_open_close": 0.028368711652141436,
+      "window_open_close": 0.0015578355741845918
+    }
+  }
+}

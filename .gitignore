@@ -1,0 +1,53 @@
+# Local session command log
+git_push_log.md
+
+# Datasets and raw audio archives
+datasets/
+models/RealDESED/data/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.part
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Model checkpoints and pretrained weights
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.model
+
+# Training runs, logs, and caches
+models/RealDESED/runs/
+models/RealDESED/resources/
+wandb/
+wandb_cache/
+*.wandb
+*.log
+.cache/
+cache/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
